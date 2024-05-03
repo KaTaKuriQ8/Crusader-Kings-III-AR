@@ -1,0 +1,75 @@
+﻿l_english:
+ held_hunt_modifier:0 "ﺍًﺮﺧﺆﻣ ﺓﺪﻴﺻ ﻢﺗ"
+ held_hunt_modifier_desc:0 " ،ﺪﻴﺻ ﺔﻴﻠﻤﻌﺑ ﺍًﺮﺧﺆﻣ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺖﻣﺎﻗ\n.ﺦﻳﺭﺎﺗ ﻰﺘﺣ ﻯﺮﺧﺃ ﺓﺮﻣ ﻚﻟﺫ ﻞﻌﻓ ﻊﻴﻄﺘﺴﺗ ﻻﻭ"
+ 
+ hunt_punished_locals_modifier:0 "ﻦﻴﺒﻗﺎﻌﻤﻟﺍ ﻦﻳﺩﺎﻴﺼﻟﺍ"
+ hunt_punished_locals_modifier_desc:0 "ﺀﺐﻋ ﻥﻮﻠﻤﺤﺘﻳ ﺔﻌﻃﺎﻘﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺱﺎﻨﻟﺍ\n.ﺕﺎﺑﺎﻐﻟﺍ ﻲﻓ ﻉﻭﺮﺸﻤﻟﺍ ﺮﻴﻏ ﺪﻴﺼﻟﺍ "
+ 
+ hunt_poacher_training_modifier:0 "ﺩﺎﻴﺼﻟﺍ ﺐﻳﺭﺪﺗ"
+ hunt_poacher_training_modifier_desc:0 " ﺎﻬﺒﻳﺭﺪﺗ ﻢﺗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ\n.ﺪﻴﺼﻠﻟ ﻦﻳﺩﺎﻴﺼﻟﺍ ﻞﺒﻗ ﻦﻣ"
+ 
+ hunt_upset_hunting_county_modifier:0 "ﻉﻭﺮﺸﻤﻟﺍ ﺮﻴﻏ ﺪﻴﺼﻟﺍ ﺐﻀﻏ"
+ hunt_upset_hunting_county_modifier_desc:0 " ﺔﻘﻳﺮﻄﻟﺍ ﻦﻣ ﺔﺠﻋﺰﻨﻣ ﺔﻌﻃﺎﻘﻤﻟﺍ ﻩﺬﻫ\n ﺔﻨﻔﺣ ﺕﺎﻓﺮﺼﺗ ﻊﻣ ﺎﻬﺑ ﻞﻣﺎﻌﺘﻟﺍ ﻢﺗ ﻲﺘﻟﺍ\nﻦﻴﻴﻋﺮﺸﻟﺍ ﺮﻴﻏ ﻦﻳﺩﺎﻴﺼﻟﺍ ﻦﻣ"
+
+ modifier_hunt_hunting_trophy:0 "ﺪﻴﺼﻟﺍ ﺭﺎﻛﺬﺗ"
+ modifier_hunt_hunting_trophy_desc:0 " ﺓﺮﻴﺒﻜﻟﺍ ﺔﻋﺎﻘﻟﺍ ﻲﻓ ﻖﻠﻌﻣ ﻊﺋﺍﺭ ﺪﻴﺻ ﺭﺎﻛﺬﺗ\n.ﻪﺗﺍﺯﺎﺠﻧﺇ ﺽﺮﻌﻳ ، ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻬﻟ"
+ 
+ modifier_hunt_friend_of_animal:0 "ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻖﻳﺪﺻ"
+ modifier_hunt_friend_of_animal_desc:0 "ﻲﻓ ﺔﻗﺭﺎﺧ ﺓﺭﺪﻗ ﺎﻬﻳﺪﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ"
+ 
+ hunt_guide_local_madman_modifier:0 "ﻲﻠﺤﻣ ﺪﺷﺮﻣ"
+
+ hunt_killed_local_madman_modifier:1 "ﻲﻠﺤﻣ ﻞﺘﻗ"
+ 
+ hunt_talked_to_madman_modifier:1 "ﺔﻴﻠﺤﻤﻟﺍ ﻑﻭﺎﺨﻤﻟﺍ ﻰﻟﺇ ﻉﺎﻤﺘﺳﻻﺍ"
+
+ hunt_peasants_denied_forest_modifier:0 "ﺔﺑﺎﻐﻟﺍ ﻦﻣ ﻥﻮﻣﻭﺮﺤﻣ ﻥﻮﺣﻼﻔﻟﺍ"
+ hunt_peasants_denied_forest_modifier_desc:0 "ﺔﻌﻃﺎﻘﻤﻟﺍ ﻩﺬﻫ ﻮﺣﻼﻓ ﻡﺮﺣ ﺪﻘﻟ\n.ﺕﺎﺑﺎﻐﻟﺍ ﻦﻣ ﻑﻼﺘﻋﻻﺍ ﻖﺣ ﻦﻣ "
+
+ hunt_peasants_hunted_modifier:0 "ﻦﻴﺣﻼﻔﻟﺍ ﺪﻴﺻ"
+ hunt_peasants_hunted_modifier_desc:0 "ﻲﻓ ﺭﺍﺮﻘﺘﺳﻻﺍ ﻦﻣ ﻥﻮﻓﺎﺨﻳ ﻥﻮﺣﻼﻔﻟﺍ\n ﺀﺎﻴﺷﻷﺍ ﺐﺒﺴﺑ ، ﺔﻌﻃﺎﻘﻤﻟﺍ ﻩﺬﻫ \n.ﺎﻨﻫ ﺖﺛﺪﺣ ﻲﺘﻟﺍ ﻒﺻﻮﺗ ﻻ ﻲﺘﻟﺍ"
+
+ hunt_aided_peasants_modifier:0 "ﻥﻭﺪﻋﺎﺴﻤﻟﺍ ﻥﻮﺣﻼﻔﻟﺍ"
+ hunt_aided_peasants_modifier_desc:0 "ﺔﻌﻃﺎﻘﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺱﺎﻨﻟﺍ ﺮﻘﻓﺃ ﻰﻘﻠﺗ ﺪﻘﻟ\nﺓﺮﻴﺒﻛ ﺔﻳﺮﻴﺧ ﺕﺍﺪﻋﺎﺴﻣ "
+
+ hunt_fresh_air_and_exercise_modifier:0 "ﺐﻳﺭﺪﺘﻟﺍﻭ ﻲﻘﻧ ﺀﺍﻮﻬﻟﺍ"
+ hunt_fresh_air_and_exercise_modifier_desc:0 "ﻦﻳﺮﻤﺘﻟﺎﺑ ﻉﺎﺘﻤﺘﺳﻻﺎﺑ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺖﻌﺘﻤﺗ\n.ﺪﻴﺼﻟﺍ ﺀﺎﻨﺛﺃ ﻡﺭﺎﺼﻟﺍ"
+
+ hunt_focused_attention_modifier:0 "ﻡﺎﻤﺘﻫﺎﺑ ﺰﻴﻛﺮﺘﻟﺍ"
+ hunt_focused_attention_modifier_desc:0 "ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﺔﻴﻔﻴﻛ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﻑﺮﻌﺗ\n.ﺎًﻳﺭﻮﻓ ﺎًﻣﺎﻤﺘﻫﺍ ﺐﻠﻄﺘﺗ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ "
+
+ modifier_hunt_dog_trophy_modifier:0 "ﺪﻴﺼﻟﺍ ﺭﺎﻛﺬﺗ"
+ modifier_hunt_dog_trophy_modifier_desc:0 "ﺓﺮﻴﺒﻜﻟﺍ ﺔﻋﺎﻘﻟﺍ ﻲﻓ ﻖﻠﻌﻣ ﻊﺋﺍﺭ ﺪﻴﺻ ﺭﺎﻛﺬﺗ\n.ﻪﺗﺍﺯﺎﺠﻧﺇ ﺽﺮﻌﻳ ، ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻬﻟ"
+
+ modifier_hunt_dog_fighting_modifier:0 "ﺔﻨﺴﺤﻣ ﺓﺭﺎﻬﻣ"
+ modifier_hunt_dog_fighting_modifier_desc:0 " ﻦﻣ ﻊﺋﺍﺭ ﻞﻤﻌﺑ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺖﻣﺎﻗ\n.ﺪﻴﺼﻟﺍ ﺀﺎﻨﺛﺃ ﺓﺭﺎﻬﻤﻟﺍ"
+
+ modifier_hunt_resisted_advances:0 "ﻡﺪﻘﺘﻟﺍ ﺔﻣﻭﺎﻘﻣ"
+ modifier_hunt_resisted_advances_desc:0 ".ﻦﺘﻔﻟﺍ ﺕﺍﺭﺎﻔﺻ ﺔﻴﻨﻏﺃ ﺖﻣﻭﺎﻗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ"
+
+ hunt_mediated_fight_modifier:0 "ﻂﻴﺳﻭ"
+ hunt_mediated_fight_modifier_desc:0 "ﻦﻴﺑ ﺡﺎﺠﻨﺑ ﺖﺿﻭﺎﻔﺗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ\n.ﻢﻴﻗ ﺱﺭﺩ - ﻉﺍﺮﺻ ﻲﻓ ﻦﻴﺼﺨﺷ"
+
+ hunt_protected_peasants_modifier:0 "ﻥﻮﻴﻤﺤﻤﻟﺍ ﻥﻮﺣﻼﻔﻟﺍ"
+ hunt_protected_peasants_modifier_desc:0 "ﺔﻳﺎﻤﺤﻟﺎﺑ ﻥﻭﺮﻌﺸﻳ ﺔﻌﻃﺎﻘﻤﻟﺍ ﻩﺬﻫ ﻮﺣﻼﻓ"
+
+ hunt_disturbed_locals_modifier:0 "ﻥﻮﺑﺮﻄﻀﻤﻟﺍ ﻥﻮﻴﻠﺤﻤﻟﺍ"
+ hunt_disturbed_locals_modifier_desc:0 " ﻩﺬﻫ ﻲﻓ ﻥﻮﻴﻠﺤﻤﻟﺍ ﻥﺎﻜﺴﻟﺍ ﺪﻳﺮﻳ\n ﻢﻬﻧﺄﺷﻭ ﺍﻮﻛﺮﺘﻳ ﻥﺃ ﺔﻌﻃﺎﻘﻤﻟﺍ"
+
+ hunt_focused_effort_modifier:0 "ﺪﻴﺼﻟﺍ ﺰﻴﻛﺮﺗ ﺔﻴﺻﺎﺧ"
+ hunt_focused_effort_modifier_desc:0 "ﺪﻴﺼﻟﺍ ﻰﻠﻋ ﺓﺪﺸﺑ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺰﻛﺮﺗ"
+
+ hunt_treated_injury_modifier:0 "ﺔﻴﻧﺍﺪﻴﻣ ﺔﺣﺍﺮﺠﻟﺍ ﺔﺳﺭﺎﻤﻣ"
+ hunt_treated_injury_modifier_desc:0 " ﺓﺮﺒﺨﻟﺍ ﺾﻌﺑ ﺎﻬﻳﺪﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ\nﺔﻴﺒﻃ ﺕﺎﺟﻼﻋ ﺐﻳﺮﺠﺗ ﻲﻓ ﺔﺜﻳﺪﺤﻟﺍ"
+
+ hunt_tasted_the_belt_modifier:0 "ﻡﺍﺰﺤﻟﺍ ﺖﻗﺍﺫ"
+ hunt_tasted_the_belt_modifier_desc:0 "ﺓﺮﺧﺆﻤﻟﺍ ﻲﻓ ﺕﺎﻣﺪﻛ ﻦﻣ ﻲﻧﺎﻌﺗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ"
+
+ hunt_treated_wound_modifier:0 "ﺡﻭﺮﺠﻟﺍ ﺪﻴﻤﻀﺗ"
+ hunt_treated_wound_modifier_desc:0 "ﺓﺪﻴﺟ ﺔﻘﻳﺮﻄﺑ ﺎﻫﺪﻴﻤﻈﺗ ﻢﺗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺡﻭﺮﺟ"
+
+ hunt_chose_truth_modifier:0 "ﻊﺿﺍﻮﺘﻣﻭ ﻕﺩﺎﺻ"
+ hunt_chose_truth_modifier_desc:0 "ﺎﻬﺴﻔﻧ ﺏﺎﺴﺣ ﻰﻠﻋ ﺔﻘﻴﻘﺤﻟﺍ ﺖﻟﺎﻗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ"
+
+ hunt_mystical_animal_modifier:0 "ﺭﺩﺎﻧ ﻥﺍﻮﻴﺣ ﺪﻴﺻ"
+ hunt_mystical_animal_modifier_desc:0 "ﺾﻴﺑﺃ ﺭﺩﺎﻧ ﺎًﻧﺍﻮﻴﺣ ﻞﺘﻘﺗﻭ ﺩﺎﻄﺼﺗ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ"

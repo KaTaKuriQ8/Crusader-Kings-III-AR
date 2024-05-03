@@ -1,0 +1,84 @@
+﻿l_english:
+ feast_strategy_discussions_modifier:0 "ﺔﻴﺠﻴﺗﺍﺮﺘﺳﻹﺍ ﺔﺸﻗﺎﻨﻣ"
+ feast_strategy_discussions_modifier_desc:0 "ﺓﺮﻤﺜﻣ ﺎﻬﻧﺃ ﺓﺮﺒﺨﻟﺍ ﻱﻭﺫ ﺓﺩﺎﻘﻟﺍ ﻊﻣ ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﺔﺸﻗﺎﻨﻣ ﺖﺘﺒﺛﺃ."
+ feast_cavalry_insight_modifier:0 "ﺮﺼﺒﻟﺍ ﻲﻣﺮﻣ ﻲﻠﻋ ﻥﺎﺳﺮﻔﻟﺍ ﻥﺇ"
+ feast_cavalry_insight_modifier_desc:0 " ﺍًﺭﺎﻜﻓﺃ ﺔﻳﺮﻈﻨﻟﺍ ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻂﻴﻄﺨﺗ ﻲﻧﺎﻄﻋﺃ ﺪﻘﻟ\n.ﺓﺀﺎﻔﻛ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﻥﺎﺳﺮﻔﻟﺍ ﺡﻼﺳ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛ ﻝﻮﺣ"
+ feast_heavy_infantry_insight_modifier:0 "ﺮﺼﺒﻟﺍ ﻰﻣﺮﻣ ﻰﻠﻋ ﺔﻠﻴﻘﺜﻟﺍ ﺓﺎﺸﻤﻟﺍ"
+ feast_heavy_infantry_insight_modifier_desc:0 " ﺍًﺭﺎﻜﻓﺃ ﺔﻳﺮﻈﻨﻟﺍ ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻂﻴﻄﺨﺗ ﻲﻧﺎﻄﻋﺃ ﺪﻘﻟ\n.ﺮﺒﻛﺃ ﺓﺀﺎﻔﻜﺑ ﺔﻠﻴﻘﺜﻟﺍ ﺓﺎﺸﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛ ﻝﻮﺣ"
+ feast_skirmishers_insight_modifier:0 "ﺮﺼﺒﻟﺍ ﻰﻣﺮﻣ ﻰﻠﻋ ﻥﻮﺷﻭﺎﻨﻤﻟﺍ"
+ feast_skirmishers_insight_modifier_desc:0 "ﺍًﺭﺎﻜﻓﺃ ﺔﻳﺮﻈﻨﻟﺍ ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻂﻴﻄﺨﺗ ﻲﻧﺎﻄﻋﺃ\n.ﺓﺀﺎﻔﻛ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﺕﺎﺷﻭﺎﻨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛ ﻝﻮﺣ "
+ feast_archers_insight_modifier:0 "ﺮﺼﺒﻟﺍ ﻰﻣﺮﻣ ﻰﻠﻋ ﻢﻬﺳﻷﺍ ﺓﺎﻣﺭ"
+ feast_archers_insight_modifier_desc:0 " ﺍًﺭﺎﻜﻓﺃ ﺔﻳﺮﻈﻨﻟﺍ ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﻂﻴﻄﺨﺗ ﻲﻧﺎﻄﻋﺃ ﺪﻘﻟ\n.ﺓﺀﺎﻔﻛ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﺓﺎﻣﺮﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛ ﻝﻮﺣ"
+ feast_pikemen_insight_modifier:0 "ﺮﺼﺒﻟﺍ ﻰﻣﺮﻣ ﻰﻠﻋ ﺡﺎﻣﺮﻟﺍ ﻲﻣﺍﺭ"
+ feast_pikemen_insight_modifier_desc:0 " ﺍًﺭﺎﻜﻓﺃ ﺔﻳﺮﻈﻨﻟﺍ ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻼﻟ ﻂﻴﻄﺨﺘﻟﺍ ﻲﻧﺎﻄﻋﺃ ﺪﻘﻟ\nﺓﺀﺎﻔﻛ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﺡﺎﻣﺮﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻛ ﻝﻮﺣ"
+ feast_better_safe_than_sorry_modifier:0 "ﺍﺭﺬﻋ ﻦﻣ ﻞﻀﻓﺃ ﻦﻣﺁ"
+ feast_better_safe_than_sorry_modifier_desc:0 " ﻦﻣ ﺪﻛﺄﺘﻟﺍﻭ ﻒﻗﻮﻤﻟﺍ ﻢﻴﻴﻘﺗ ﺐﺣﺃ\nﺕﻻﺎﻤﺘﺣﻻﺍ ﻊﻴﻤﺠﻟ ﺪﻌﺘﺴﻣ ﻲﻨﻧﺃ"
+ feast_overly_safe_rather_than_sorry_modifier:0 "ﺍﺭﺬﻋ ﻦﻣ ﻞﻀﻓﺃ ﻦﻣﺁ"
+ feast_overly_safe_rather_than_sorry_modifier_desc:0 "ﻦﻣ ﺪﻛﺄﺘﻟﺍﻭ ﻒﻗﻮﻤﻟﺍ ﻢﻴﻴﻘﺗ ﺐﺣﺃ\nﺕﻻﺎﻤﺘﺣﻻﺍ ﻊﻴﻤﺠﻟ ﺪﻌﺘﺴﻣ ﻲﻨﻧﺃ "
+ feast_silenced_a_disruptive_guest:0 "ﺎًﺒﻏﺎﺸﻣ ﺎًﻔﻴﺿ ﺖﻜﺳﺃ"
+ feast_bad_reaction_to_food:0 "ﺀﺍﺬﻐﻠﻟ ﺊﻴﺳ ﻞﻌﻓ ﺩﺭ"
+ feast_had_good_fight_modifier:0 "ﺪﻴﺟ ﻝﺎﺘﻗ ﻥﺎﻛ"
+ feast_loyal_servantry_modifier:0 "ﺺﻠﺨﻣ ﻡﺩﺎﺧ"
+
+ i_am_corteous_guest_modifier:0 "ﺏﺬﻬﻣ ﻒﻴﺿ "
+ i_am_corteous_guest_modifier_desc:0 "ﺔﻳﺎﻐﻠﻟ ﺏﺬﻬﻣ ﺺﺨﺸﻟﺍ ﺍﺬﻫ\n.ﺍﻮﻧﺎﻛ ﺎﻤﻨﻳﺃ ، ﻪﻔﻴﻀﻤﻟ ﻲﻋﺍﺮﻣﻭ "
+
+ feast_higher_standards_modifier:0 "ﺔﻠﻣﺎﺠﻤﻟﺍ ﺮﻴﻳﺎﻌﻣ ﻰﻠﻋﺃ"
+ feast_higher_standards_modifier_desc:0 " ﻥﺃ ﺐﺠﻳ ﺔﻨﻴﻌﻣ ﺀﺎﻴﺷﺃ ﻙﺎﻨﻫ \nﺎﻬﻟ ﺍًﺪﺟ ﺍًﺪﻴﺟ ﻞﻴﺒﻨﻟﺍ ﻥﻮﻜﻳ"
+
+ feast_scholarly_confidence_modifier:0 "ﺔﻴﻤﻠﻌﻟﺍ ﺔﻘﺜﻟﺍ"
+ feast_scholarly_confidence_modifier_desc:0 "ﺔﻘﻴﻘﺣ ﺖﻧﺎﻛ ﺍﺫﺇ ﺔﺳﺮﻄﻏ ﺖﺴﻴﻟ ﺎﻬﻧﺇ"
+
+ feast_gratifying_complaints_modifier:0 "ﻯﻭﺎﻜﺸﻟﺍ ﺀﺎﺿﺭﺇ"
+ feast_gratifying_complaints_modifier_desc:0 " ﺎﻣﺪﻨﻋ ﻲﻜﺘﺸﺗ ﻥﺃ ﺔﻳﺎﻐﻠﻟ ﺢﻳﺮﻤﻟﺍ ﻦﻣ\nﺀﻲﺸﻟﺍ ﺾﻌﺑ ﺔﺌﻃﺎﺧ ﺭﻮﻣﻷﺍ ﻥﻮﻜﺗ"
+
+ feast_life_reaffirmed_modifier:0 "ﺓﺎﻴﺤﻟﺍ ﺪﻴﻛﺄﺗ ﺓﺩﺎﻋﺇ"
+ feast_life_reaffirmed_modifier_desc:0 "ﺔﻤﻴﻟﻮﻟﺍ ﻲﻓ ﺔﺒﺟﻭ ﻊﻣ ﺔﺻﺮﻔﻟﺍ ﺔﻬﺟﺍﻮﻣ ﻥﺇ\nﺓﺎﻴﺤﻟﺎﺑ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻒﻐﺷ ﺪﻳﺪﺟ ﻦﻣ ﺖﻠﻌﺷﺃ ﺪﻗ"
+
+ feast_reinvigorated_by_friend_modifier:0 "ﺔﻗﺍﺪﺼﻟﺍ ﻂﻴﺸﻨﺗ"
+ feast_reinvigorated_by_friend_modifier_desc:0 "ﻮﻫ ﺎﻨﺑ ﻥﻮﻨﺘﻌﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﻊﻣ ﺖﻗﻮﻟﺍ ﺀﺎﻀﻗ ﻥﺇ\n.ﺶﻴﻌﻟﺍ ﻖﺤﺘﺴﺗ ﺓﺎﻴﺤﻟﺍ ﻞﻌﺠﺗ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﺪﺣﺃ"
+
+ feast_practiced_secrecy_modifier:0 "ﺔﻳﺮﺴﻟﺍ ﺱﺭﺎﻤﻳ"
+ feast_practiced_secrecy_modifier_desc:0 " ﺓﺮﻴﺒﻛ ﺓﺭﺎﻬﻣ ﺀﺎﻴﺷﻷﺍ ﺾﻌﺑ ﺐﻠﻄﺘﺗ\nﺪﺣﺃ ﺎﻬﻈﺣﻼﻳ ﻥﺃ ﻥﻭﺩ ﻞﻈﺘﻟ"
+
+ feast_showed_great_restraint_modifier:0 "ﺲﻔﻨﻟﺍ ﻂﺒﺿ ﻰﻠﻋ ﺭﺩﺎﻗ"
+ feast_showed_great_restraint_modifier_desc:0 " ﺲﻤﻐﻨﺗ ﻰﺘﻣ ﻑﺮﻌﺗ ﻥﺃ ﻢﻬﻤﻟﺍ ﻦﻣ\n.ﺕﺎﻴﺤﻀﺘﻟﺍ ﻡﺪﻘﺗ ﻰﺘﻣﻭ"
+
+ feast_bad_form_with_rival_modifier:0 "ﺲﻓﺎﻨﻤﻟﺍ ﺎﻫﺮﻣﺩ ﺔﻤﻴﻟﻭ"
+ feast_bad_form_with_rival_modifier_desc:0 "ﻪﻧﻭﺪﺑ ﺎًﻣﺎﻤﺗ ﺎًﻌﺋﺍﺭ ﺎًﻧﺎﻜﻣ ﻢﻟﺎﻌﻟﺍ ﻥﺎﻛ.#!"
+
+ feast_had_interesting_conversation_modifier:0 "ﻡﺎﻤﺘﻫﻸﻟ ًﺍﺮﻴﺜﻣ ًﺍﺭﺍﻮﺣ ﻥﺎﻛ"
+ feast_had_interesting_conversation_modifier_desc:0 " ﺮﻴﺜﻣ ﻉﻮﺿﻮﻣ ﻦﻋ ﺪﻴﺠﻟﺍ ﺚﻳﺪﺤﻟﺍ\n.ﺎًﻘﺣ ﻞﻘﻌﻟﺍ ﺰﻔﺤﻳ ﻡﺎﻤﺘﻫﻼﻟ"
+
+ feast_bought_more_drink_modifier:0 "ﺶﻄﻌﻟﺍ ﻞﺗﺎﻗ"
+ feast_bought_more_drink_modifier_desc:0 "ﻲﻔﻜﻳ ﺎﻤﺑ ﻚﻓﻮﻴﺿ ﺪﻳﻭﺰﺗ ﻥ\n!ﻒﻴﻀﻣ ﻱﺃ ﻞﻤﻋ ﻮﻫ ﺏﺮﺸﻠﻟ"
+
+ feast_good_food_modifier:0 "ﻊﺋﺍﺭ ﻡﺎﻌﻃ ﺖﻠﻛﺃ"
+ feast_good_food_modifier_desc:0 "!ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻠﻟ ﺪﻴﺟ ﺬﻳﺬﻠﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻥﺇ"
+
+ feast_household_efforts_modifier:0 "ﺔﻴﻟﺰﻨﻣ ﺩﻮﻬﺟ "
+ feast_household_efforts_modifier_desc:0 " ﻲﻓ ﺯﺎﺘﻤﻣ ﻞﻤﻌﺑ ﺓﺮﺳﻷﺍ ﺏﺭ ﻡﻮﻘﻳ\n.ﻁﻼﺒﻟﺍﻭ ﻑﻮﻴﻀﻟﺍ ﻦﻴﺑ ﺔﻗﻼﻌﻟﺍ ﺓﺭﺍﺩﺇ"
+
+ feast_raucous_entertainment_modifier:0 "ﺐﺧﺎﺼﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ"
+ feast_raucous_entertainment_modifier_desc:0 " ﺮﻤﻌﻟﺍ ﻞﻴﻄﻳ ﺪﻴﺠﻟﺍ ﻚﺤﻀﻟﺍ\n.ﺔﺘﻜﻨﻟﺍ ﺀﺍﺭﻭ ﺖﺴﻟ ﻚﻧﺃ ﺎﻤﻟﺎﻃ"
+
+ feast_suspicious_of_food_modifier:0 "ﻡﺎﻌﻄﻟﺍ ﻲﻓ ﻙﻮﻜﺸﻣ"
+ feast_suspicious_of_food_modifier_desc:0 "ﻲﻬﻃ ﻦﻣ ﺪﻛﺄﺗ ، ﻕﺍﺮﺘﺣﻷﺍ ﺩﺮﺠﻤﺑ\n.ﻦﻴﺗﺮﻣ ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺔﻤﻌﻃﻷﺍ ﻊﻴﻤﺟ"
+
+ feast_display_of_ruthlessness_modifier:0 "ﺓﻮﺴﻘﻠﻟ ﻡﺎﻌﻟﺍ ﺽﺮﻌﻟﺍ"
+ feast_display_of_ruthlessness_modifier_desc:0 " ﻡﺎﻣﺃ ﺔﻳﺫﻻﻮﻓ ﺓﺩﺍﺭﺇﻭ ﺍًﺩﺭﺎﺑ ﺎًﺒﻠﻗ ﺮﻬﻇﺃ\n.ﺎًﻋﺎﺒﻄﻧﺍ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻙﺮﺗ ، ﻦﻳﺮﺧﻵﺍ"
+
+ feast_bird_based_exercise_modifier:0 "ﺭﻮﻴﻄﻟﺍ ﻰﻠﻋ ﻢﺋﺎﻗ ﻦﻳﺮﻤﺗ"
+ feast_bird_based_exercise_modifier_desc:0 "ﺓﺪﻳﺪﺟ ﺔﻘﻳﺮﻃ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﺕﺮﻜﺘﺑﺍ\n.ﻞﻤﺤﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﺔﺳﺭﺎﻤﻤﻟ ﻡﺎﻤﺘﻫﻼﻟ ﺓﺮﻴﺜﻣﻭ"
+
+ feast_livestock_at_feast_modifier:0 "ﺔﻴﺣ ﺔﻤﻴﻟﻭ"
+ feast_livestock_at_feast_modifier_desc:0 ".ﺓﺪﺋﺎﻤﻟﺍ ﻰﻟﺇ ﻡﻮﺤﻠﻟﺍ ﻢﻀﻨﺗ ﻰﺘﺣ ﺎًﻘﺣ ﺔﻤﻴﻟﻮﻟﺍ ﺃﺪﺒﺗ ﻦﻟ"
+
+ feast_blew_off_steam_modifier:0 "ﺭﺎﺨﺒﻟﺍ ﺮﺠﻔﻧﺍ"
+ feast_blew_off_steam_modifier_desc:0 "!ﻞﻳﻮﻃ ﺖﻗﻭ ﺬﻨﻣ ﻂﺸﻨﺗﻭ ﺃﺪﻬﺗ ﻢﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ"
+
+ feast_hearty_diet_modifier:0 "ﺔﻤﺳﺩ ﺔﻴﻤﺣ"
+ feast_hearty_diet_modifier_desc:0 ".ﺽﺮﻣ ﺮﻄﺧﺃ ﺢﻠﺼﺗ ﻥﺃ ﺔﻤﻴﻠﺳ ﺔﺒﺟﻮﻟ ﻦﻜﻤﻳ"
+
+ feast_obsessed_with_garum_modifier:0 "ﻡﻮﺜﻟﺎﺑ ﺱﻭﻮﻬﻣ"
+ feast_obsessed_with_garum_modifier_desc:0 "!ﺀﻲﺷ ﻞﻛ ﻊﻣ ﺐﺳﺎﻨﺘﻳ"
