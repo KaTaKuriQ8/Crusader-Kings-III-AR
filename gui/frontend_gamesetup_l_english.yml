@@ -1,0 +1,19 @@
+﻿l_english:
+ SELECT_CHARACTER_ON_MAP:0 ".ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺔﻴﺼﺨﺸﻟﺍ ﺭﺎﻴﺘﺧﺍ"
+ PICK_ANY_CHARACTER:1 "...[GameSetup.GetSelectedBookmark.GetDate.GetYear] ﻲﻓ ﻢﻛﺎﺣ ﻱﺄﻛ ﺐﻌﻟﺍ"
+ BOOKMARK_DISABLED:0 "ﺔﻴﻌﺟﺮﻤﻟﺍ ﺓﺭﺎﺷﻹﺍ ﻩﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ"
+ BOOKMARK_NOT_PICKED_CHARACTER:0 ".ﺔﺒﻌﻠﻟﺍ ﺀﺪﺑ ﻞﺒﻗ ﺔﻴﻌﺟﺮﻤﻟﺍ ﺓﺭﺎﺷﻹﺍ ﻲﻓ ﺔﻴﺼﺨﺷ ﺮﺘﺧﺍ \n ."ﺔﻴﺼﺨﺷ ﻱﺃ ﺭﺎﻴﺘﺧﺍ" ﻕﻮﻓ ﺮﻘﻨﻟﺎﺑ ﺔﻳﺮﺤﺑ ﺮﺘﺧﺍ ﻭﺃ "
+ SINGLEPLAYER:0 "ﺪﺣﺍﻭ ﺐﻋﻻ"
+
+ GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Crusader Kings III ﻲﻓ ﻢﻜﺑ ﺎًﺒﺣﺮﻣ"
+ GAMESETUP_TUTORIAL_PROMPT_INTRO:0 "!ﺪﺋﺎﻜﻤﻟﺍﻭ ﺕﻻﻼﺴﻟﺍ ﻦﻣ ﺔﻘﻴﻤﻋ ﺔﻴﺠﻴﺗﺍﺮﺘﺳﺍ ﺔﺒﻌﻟ ﻲﻫ ﺔﺜﻟﺎﺜﻟﺍ ﺔﻴﺒﻴﻠﺼﻟﺍ ﻙﻮﻠﻤﻟﺍ"
+ GAMESETUP_TUTORIAL_PROMPT_RECOMMEND:0 ".ﻲﻤﻴﻠﻌﺘﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﻞﻴﻐﺸﺘﺑ ﺓﺪﺸﺑ ﻚﻴﺻﻮﻧ ﻦﺤﻨﻓ \n، Crusader Kings ﻢﻟﺎﻋ ﻲﻓ ﺍًﺪﻳﺪﺟ ﺖﻨﻛ ﺍﺫﺇ"
+ GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0 "In the tutorial, you will play as $bookmark_rags_to_riches_petty_king_murchad$, a Ruler in Ireland. Lead your family and Dynasty to defeat your enemies and become King of Ireland!"
+ GAMESETUP_TUTORIAL_PROMPT_ASK:0 "Learn the game as $bookmark_rags_to_riches_petty_king_murchad$?"
+
+ GAMESETUP_TUTORIAL_PROMPT_DISABLE:0 "ﻖﺣﻻ ﺖﻗﻭ ﻲﻓ ﺎﻤﺑﺭ"
+ GAMESETUP_TUTORIAL_PROMPT_PLAY_TUTORIAL:0 "$GAMESETUP_PLAY_TUTORIAL$"
+ GAMESETUP_PLAY_TUTORIAL:0 "ﻲﻤﻴﻠﻌﺘﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﻞﻴﻐﺸﺗ"
+ GAMESETUP_GAME_INFO:0 "ﺔﺒﻌﻠﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ"
+ 
+ GAMESETUP_TUTORIAL_PROMPT_PLAY_BUTTON_TOOLTIP:0 "#T Play as $bookmark_rags_to_riches_petty_king_murchad$, in 1066#!"

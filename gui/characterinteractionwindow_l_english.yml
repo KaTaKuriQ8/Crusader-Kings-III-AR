@@ -1,0 +1,20 @@
+﻿l_english:
+ GOTO_CHARACTER:0 "#T انتقل إلى موقع [Character.GetShortUINamePossessiveNoTooltip]#! \n[Character.GetLocationDesc] "
+ CHARACTER_INTERACTION_ITEM_TOOLTIP_HEADER:0 "$NAME|T$"
+ SHOW_MORE_INTERACTIONS_TT:0 "#T [( 'Select_CString( Character.IsPinned, 'Unpin', 'Pin] \n [Character.GetHerHim] ﺖﻴﺒﺜﺗ ﻖﻳﺮﻃ ﻦﻋ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﻊﺒﺘﺗ !#\nﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻦﻤﻳﻷﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ ﻲﻠﻴﺼﻔﺘﻟﺍ ﻂﻄﺨﻤﻟﺍ ﻲﻓ"
+ interaction_category_diplomacy:0 "ﺔﻴﺳﺎﻣﻮﻠﺑﺪﻟﺍ"
+ interaction_category_friendly:0 "ﺔﻴﺼﺨﺸﻟﺍ"
+ interaction_category_hostile:0 "ﺔﻴﺋﺍﺪﻌﻟﺍ"
+ interaction_category_vassal:0 "ﻁﻼﺒﻟﺍﻭ ﺔﻴﻌﺒﺘﻟﺍ"
+ interaction_category_religion:0 "ﻦﻳﺪﻟﺍ"
+ interaction_category_house_head:0 "ﺔﻟﻼﺴﻟﺍ ﺲﻴﺋﺭ"
+ interaction_category_prison:0 "ﻦﺠﺴﻟﺍ"
+ interaction_category_uncategorized:0 "#D (DEBUG) ﻒﻨﺼﻣ ﺮﻴﻏ#!"
+
+ INTERACTION_SENDER:0 "ﻞﺳﺮﻤﻟﺍ"
+ INTERACTION_RECIPIENT:0 "ﻢﻠﺘﺴﻤﻟﺍ"
+ INTERACTION_SPOUSE:0 "ﺝﻭﺰﻟﺍ"
+ INTERACTION_CONCUBINE:0 "ﺔﻠﻴﻠﺨﻟﺍ"
+
+ INTERACTION_SHOW_ACCEPT_EFFECTS:0 "ﻝﻮﺒﻘﻟﺍ ﺪﻨﻋ"
+ INTERACTION_SHOW_DECLINE_EFFECTS:0 "ﺾﻓﺮﻟﺍ ﺪﻨﻋ"

@@ -1,0 +1,13 @@
+﻿l_english:
+ EDIT_BANNERS_LABEL:0 "ﻞﻳﺪﻌﺗ"
+ EDIT_BANNERS_TOOLTIP:0 "#T ﻊﻤﺠﺘﻟﺍ ﻁﺎﻘﻧ ﻞﻳﺪﻌﺗ#!"
+ RAISE_BANNER:0 "ﺶﻴﺠﻟﺍ ﻊﻤﺟ"
+ BANNER_RAISES_TIME:0 "ﻡﺎﻳﺍ $TIME_TO_RAISE$ $VALUE|0$"
+ BANNER_NUMBER_OF_MEN:0 "[soldiers|E]: $VALUE|0$"
+ BANNER_ALREADY_RAISED:1 "#N ﻞﻌﻔﻟﺎﺑ ﻩﺬﻫ ﻊﻤﺠﺘﻟﺍ ﺔﻄﻘﻧ ﻦﻣ ﺩﻮﻨﺠﻟﺍ ﻊﻴﻤﺟ ﻊﻤﺟ ﻢﺗ#!"
+ BANNER_NOT_BEING_RAISED:0 "#N ﻩﺬﻫ ﻊﻤﺠﺘﻟﺍ ﺔﻄﻘﻧ ﻦﻣ ﺎًﻴﻟﺎﺣ ﺎﻬﻌﻤﺟ ﻢﺘﻳ ﺵﻮﻴﺟ ﺪﺟﻮﺗ ﻻ#!"
+ BANNER_RAISE_PROMPT:1 "#T ﻩﺬﻫ ﻊﻤﺠﺘﻟﺍ ﺔﻄﻘﻧ ﻲﻓ ﻦﻴﻨﻴﻌﻤﻟﺍ ﺩﻮﻨﺠﻟﺍ ﻊﻴﻤﺟﻭ ﺶﻴﺠﻟﺍ ﻊﻴﻤﺠﺘﺑ ﻢﻗ#!"
+ BANNER_CANCEL_RAISING:0 "ﻊﻤﺠﻟﺍ ﺀﺎﻐﻟﺇ"
+ BANNER_CANCEL_RAISING_PROMPT:0 "#T ﺶﻴﺠﻟﺍ ﺩﺮﻃﺍﻭ ﻩﺬﻫ ﻊﻤﺠﺘﻟﺍ ﺔﻄﻘﻧ ﻦﻣ ﻊﻤﺠﻟﺍ ﺀﺎﻐﻟﺈﺑ ﻢﻗ#!"
+ BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon!#X $PENALTY|%0$ ﺭﺍﺪﻘﻤﺑ[domain] ﻦﻣ ﺶﻴﺠﻟﺍ ﺾﻴﻔﺨﺗ ﻢﺗ .[domain_limit|E] ﻕﻮﻓ"
+ 
