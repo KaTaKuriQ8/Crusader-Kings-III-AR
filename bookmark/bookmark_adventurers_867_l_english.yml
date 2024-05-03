@@ -1,0 +1,59 @@
+﻿l_english:
+ bm_867_adventurers:0 "ﺀﺎﻤﻈﻌﻟﺍ ﻥﻭﺮﻣﺎﻐﻤﻟﺍ"
+ bm_867_adventurers_desc:0 " .ﺔﻌﺿﺍﻮﺘﻣ ﺕﺎﻳﺍﺪﺑ ﻦﻣ ﻲﺗﺄﺗ ﺔﻟﻼﺳ ﻞﻛ\n ﺔﻄﻠﺴﻟﺍ ﻰﻟﺇ ﻖﻠﺴﺘﻟﺍ ﻥﻮﻜﻳ ﺎﻣ ﺓﺩﺎﻋ\nﻆﺤﻟﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﺎﻤﺑﺭﻭ ﺔﺌﻴﻄﺑ ﺔﻴﻠﻤﻋ\n ﻦﻣ ﻪﺘﻠﺋﺎﻋ ﻢﺳﺍ ﻞﻄﺒﻟﺍ ﻊﻓﺮﻳ ﺪﻗ\n ﻩﺬﻫ ﻦﻜﻟﻭ ﺓﺭﻮﻄﺳﻷﺍ ﻰﻟﺇ ﺽﻮﻤﻐﻟﺍ\n .ﻦﻴﻤﻴﻈﻌﻟﺍ ﺏﺍﺮﻄﺿﻻﺍﻭ ﺮﻴﻴﻐﺘﻟﺍ ﺕﺎﻗﻭﺃ\nﻝﻼﺧ ﻦﻣ ﺔﻋﺎﺠﺸﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻊﻣ\n ﺏﻭﺮﺤﻟﺍﻭ ﺔﻳﺎﻨﻌﺑ ﺔﻄﻄﺨﻤﻟﺍ ﺕﺎﺠﻳﺰﻟﺍ \n ﻞﻴﺟ ﻞﻛ ﻙﺮﺤﺘﻳ ﺚﻴﺣ ﺓﺮﻤﺘﺴﻤﻟﺍ\n ﻰﻟﺇ ﺔﻠﻴﻠﻗ ﺕﺍﻮﻄﺧ ﺪﻌﺑ ﻰﻠﻋ\n ﺪﻌﺘﺴﻣ ﺖﻧﺃ ﻞﻫ، ﻢﻠﺴﻟﺍ ﻰﻠﻋﺃ\n ؟ﻱﺪﺤﺘﻟﺍ ﺔﻬﺟﺍﻮﻤﻟ#!"
+
+
+ #Jarl Haesteinn
+ bookmark_adventurers_jarl_haesteinn:0 "ﻦﻴﺘﺳﺎﻫ ﻝﺮﻳﺇ"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "ﺔﻋﺎﺠﺸﻟﺍﻭ ﺮﻜﻤﻟﺍ ﻝﻼﺧ ﻦﻣ\nﺎﻳﺮﺛ ﻼﺟﺭ ﻦﻴﺘﺴﻴﻫ ﻝﺮﻳﺍ ﺢﺒﺻﺃ\nﺮﺒﻋ ﺔﺤﺑﺮﻣ ﺓﺭﺎﻏ ﺔﺗﺩﺎﻴﻗ ﺪﻌﺑ\nﻊﻣ ﻂﺳﻮﺘﻤﻟﺍ ﺾﻴﺑﻷﺍ ﺮﺤﺒﻟﺍ\nﺮﻘﺘﺳﺍ،ﺪﻳﺎﺴﻧﻭﺮﻳﺃ ﻥﺭﻮﻴﺑ\nﻲﻧﺎﺘﻳﺮﺑ ﻲﻓ ﻦﻴﺘﺴﻴﻫ \nﻦﺋﺍﺰﺧ ﻢﻬﻳﺪﻟ ﺔﺠﻧﺮﻔﻟﺍ \nﺏﺭﺎﺤﻣﻭ ، ﺐﻬﻨﻠﻟ ﺓﺰﻫﺎﺟ\n ﺎﻔﻴﻠﺣ ﻊﻨﺼﻳ ﻢﻴﻈﻋ ﻎﻨﻜﻳﺎﻓ \nﺕﺎﺑﺍﺮﻄﺿﻻﺍ ﺕﺎﻗﻭﺃ ﻲﻓ ﺎﻤﻴﻈﻋ\n.ﺔﻴﺳﺎﻴﺴﻟﺍ\n\n#bold ﺀﺍﺪﻋﺃ ﻥﻭﺪﺑ ﻲﺗﺄﺗ ﻻ ﺓﻭﺮﺜﻟﺍ ﻦﻜﻟ\nﻪﻴﻠﻋ ﻦﻴﺘﺴﻴﻫ ﻊﺸﺟ ﺐﻠﻐﺘﻴﺳ ﻞﻫ\n؟ﻚﻓﺍﺮﺷﺇ ﺖﺤﺗ ﻪﺘﻟﻼﺳ ﺮﻫﺩﺰﺘﺳ ﻡﺃ#!"
+
+ bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
+ bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "alt desc"
+
+ #Rurik Rurikid
+ bookmark_adventurers_rurik_rurikid:0 "ﺪﻴﻜﻳﺭﻭﺭ ﻚﻳﺭﻭﺭ"
+ bookmark_adventurers_rurik_rurikid_desc:0 "ﻰﻟﺇ ﻡﺪﻌﻟﺍ ﻦﻣ ﺖﻌﻔﺗﺭﺍ ﺪﻗ ﺔﻠﻗ\n!ﻉﺎﺠﺸﻟﺍ ﻚﻳﺭﻭﺭ ﻞﺜﻣ ﺔﻤﻈﻌﻟﺍ\nﻰﻟﺇ ﻡﺎﻈﻨﻟﺍ ﻞﺻﻭﺃ ﻪﺗﻮﺧﺇ ﻊﻣ\nﻢﻬﺗﺎﻓﻭ ﺬﻨﻣﻭ ﺔﻴﻗﺮﺸﻟﺍ ﺔﻳﺮﺒﻟﺍ\nﺔﺨﻴﺸﻤﻟ ﺪﻴﺣﻮﻟﺍ ﻢﻛﺎﺤﻟﺍ ﻮﻫ\nﻚﻟﺫ ﻊﻣﻭ .ﺔﻤﻴﻈﻋ\n .ﺔﻳﺍﺪﺒﻟﺍ ﻯﻮﺳ ﺖﺴﻴﻟ ﻩﺬﻫ\n\n#bold ﻚﻳﺭﻭﺭ ﺩﺎﻔﺣﺃ ﺪﺠﻴﺳ ، ﻡﻮﻳ ﺕﺍﺫ \n؟ﻥﻮﻠﻌﻔﻴﺳ ﻡﺃ .ﺔﻳﺮﺼﻴﻘﻟﺍ ﺎﻴﺳﻭﺭ\n ﻚﻳﺪﻳ ﻦﻴﺑ ﺔﻤﻴﻈﻌﻟﺍ ﺔﻟﻼﺴﻟﺍ ﻩﺬﻫ ﺮﻴﺼﻣ!#"
+
+ bookmark_adventurers_rurik_rurikid_alt_helgi:0 "$Helgi$ $nick_the_seer$"
+
+ #Eudes Capet
+ bookmark_adventurers_count_eudes:0 "ﺲﻳﺩﻮﻳ ﺖﻧﻮﻛ"
+ bookmark_adventurers_count_eudes_desc:0 "866 ﻡﺎﻋ ﻦﻣ ﻮﻴﻟﻮﻳ ﻲﻓ \n ﻦﻴﺘﺳﻮﻫ ﺞﻨﻜﻳﺎﻔﻟﺍ ﻢﺟﺎﻬﻣ ﻞﺘﻗ\n.ﻱﻮﻘﻟﺍ ﺕﺮﺑﻭﺭ Eudes ﺪﻟﺍﻭ \n ﻪﺗﺪﻟﺍﻭ ﺖﻴﻓﻮﺗ، ﺔﻠﻴﻠﻗ ﺮﻬﺷﺃ ﺪﻌﺑ \n.ﺕﺮﺑﻭﺭ ﻪﻘﻴﻘﺷ ﻊﻀﺗ ﻲﻫﻭ ﺲﻴﻠﻳﺩﺃ \nﻞﺒﻘﺘﺴﻤﻟﺍ ﻭﺪﺒﻳ ﺪﻗﻭ ٍﺱﺎﻗ ﻢﻟﺎﻌﻟﺍ \n ﺩﻻﻭﻷﺍ ﺀﻻﺆﻫ ﻦﻜﻟ ، ﺪﻛﺆﻣ ﺮﻴﻏ \n ﺱﻮﻠﺠﻟﺍ ﻢﻬﻟ ﺭﺪﻘﻣ ﻰﻣﺎﺘﻴﻟﺍ \n.ﻲﺴﻧﺮﻔﻟﺍ ﺵﺮﻌﻟﺍ ﻰﻠﻋ  \n،the capets  ﻢﻫﺩﺎﻔﺣﺃ \n.ﺔﻣﺩﺎﻗ ﻥﻭﺮﻘﻟ ﺎﺴﻧﺮﻓ ﻥﻮﻤﻜﺤﻴﺳ \n\n#bold  ﺓﺭﺩﺎﻐﻟﺍ ﺕﺎﺳﺎﻴﺴﻟﺍ ﻲﻓ ﺭﺎﺤﺑﻹﺍ ﻚﻨﻜﻤﻳ ﻞﻫ \nﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻲﻓ ﺎﺴﻧﺮﻔﻟ \n ؟ﻦﻴﺗﺮﺑﻭﺭ ﻦﻳﻮﺧﻷﺍ ﺮﻴﺼﻣ ﻖﻴﻘﺤﺗﻭ!# "
+
+ bookmark_adventurers_count_eudes_alt_robert:0 "$Robert$"
+ bookmark_adventurers_count_eudes_alt_robert_desc:0 "alt desc"
+ bookmark_adventurers_count_eudes_alt_uncle_eudes:0 "$Eudes$"
+ bookmark_adventurers_count_eudes_alt_uncle_eudes_desc:0 "alt desc"
+
+ #Almos Arpad 
+ bookmark_adventurers_almos_arpad:0 "ﺱﻮﻤﻟﺃ ﺩﺎﺑﺭﺃ"
+ bookmark_adventurers_almos_arpad_desc:0 "ﺔﻳﺭﺎﻐﻨﻬﻟﺍ ﻞﺋﺎﺒﻘﻟﺍ ﺕﺪﺤﺗﺍ ﺎﻣﺪﻨﻋ\n ﻰﻠﻋﺃ ﺪﺋﺎﻗ ﺏﺎﺨﺘﻧﻻ ﻊﺒﺴﻟﺍ \nﻰﻠﻋ ﻢﻬﺗﺍﻮﺻﺃ ﺖﻄﻘﺳ\nﻡﺎﻳﻷﺍ ﻦﻣ ﻡﻮﻳ ﻲﻓ ﻉﺎﺠﺸﻟﺍ ﺱﻮﻤﻟﺃ\n- ﺓﺀﺎﺒﻌﻟﺍ ﻰﻠﻋ ﺩﺎﺑﺭﺃ ﻪﻨﺑﺍ ﻞﺼﺤﻴﺳ\n  ﻦﻣ ﻥﻮﻳﺮﺠﻤﻟﺍ ﻦﻜﻤﺗ ﺍﺫﺇ ﻂﻘﻓ ﻦﻜﻟﻭ\nﻢﻬﻟﻼﻘﺘﺳﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ\n .ﻲﻗﺮﺸﻟﺍ ﻖﻓﻷﺍ ﻲﻓ ﺡﻮﻠﻳ ﺮﻄﺧ\n\n#bold  ﻦﻴﻳﺮﺠﻤﻟﺍ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﻚﻨﻜﻤﻳ ﻞﻫ\n ؟ﺔﻤﻈﻌﻟﺍ ﻰﻟﺇ ﻢﻫﺩﻮﻘﺗﻭ\n ﺩﺮﺳ ﺓﺩﺎﻋﻹ ﻚﺘﺻﺮﻓ ﻩﺬﻫ \n!ﺩﺎﺑﺭﺃ ﺔﻟﻼﺳ ﺕﺍﺮﻣﺎﻐﻣ#!"
+
+ #Daurama Daura
+ bookmark_adventurers_daurama_daura:0 "ﺍﺭﻭﺩ ﺎﻣﺍﺭﻭﺩ"
+ bookmark_adventurers_daurama_daura_desc:0 "As the Last Magajiya of Daura, Daurama is a symbol of the old ways of the Hausa people. Her new husband, Bayajiddah (originally from Iraq), represents change, as more and more outsiders flock to Hausaland, bringing their strange faiths and cultures with them...\n\n#bold Daurama is set to go down in history as the Last Magajiva, but does she have to be?#!"
+
+ bookmark_adventurers_daurama_daura_alt_bawo:0 "$Bawo$"
+
+ bookmark_adventurers_almos_arpad_alt_son_arpad:0 "$A_rpA_d$"
+ bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
+
+ #EVENTS
+ bookmark.0101.t:0 "What's in a Name?"
+ bookmark.0101.desc_intro:0 "For generations [hausaland.GetNameNoTier] has been ruled by the Magajiya, a line of matriarchal rulers of which I am the latest.\n\nOur traditions have served us well, but the world is changing. The heroic deeds of my [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] have earned him great wealth and respect... though as [bayajidda.GetSheHe] hails from distant lands, [bayajidda.GetHerHis] successes also portend great change for my people.\n\n"
+ bookmark.0101.desc_living:1 "My son, [bewo.GetTitledFirstName], is the apple of his father's eye. Though a mere babe, I wonder if he will identify more with his adventuring father, or my own traditional legacy?"
+ bookmark.0101.desc_dead:1 "My son, [bewo.GetTitledFirstName], was the apple of his father's eye. Though a mere babe, I wonder if he will identify more with the legend of his adventuring father, or my own traditional legacy?"
+ bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] must carry the traditions of the [ROOT.Char.GetCulture.GetNameNoTooltip] into a new age."
+ bookmark.0101.a.tt:0 "[bewo.GetUIName] will become your [dynastic|E] [heir|E]"
+ bookmark.0101.b:1 "My son is my son, whatever his name or culture."
+ bookmark.0101.b.tt:0 "#warning @warning_icon! This option may leave you without a [dynastic|E] [heir|E]!#!"
+ bookmark.0101.c:0 "The Magajiya do not need men to carry on their legacy!"
+ bookmark.0101.c.tt:0 "Your sister [shawata.GetUIName] will remain your [dynastic|E] [heir|E]"
+
+ #WARS
+ war_867_Aghlabid_Conquest_of_Sicily:0 "ﺔﻴﻠﻘﺼﻟ ﻲﺒﻟﺎﻏﻷﺍ ﺢﺘﻔﻟﺍ"
+ war_867_Saffarid_Tahirid_War:0 "ﺓﺮﻫﺎﻄﻟﺍ - ﺔﻳﺭﺎﻔﺼﻟﺍ ﺏﺮﺤﻟﺍ"
+ war_867_Reconquest_of_Bari:0 "ﻱﺭﺎﺑ ﺓﺩﺎﻌﺘﺳﺍ"
+ war_867_Lothbrok_Invasion_of_East_Anglia:0 "ﺎﻴﻠﺠﻧﺃ ﻕﺮﺸﻟ ﻙﻭﺮﺒﺛﻮﻟ ﺀﺎﻨﺑﺃ ﻭﺰﻏ"
+ war_867_Lothbrok_Invasion_of_Lothian:0 "ﻥﺎﻴﺛﻮﻠﻟ ﻙﻭﺮﺒﺛﻮﻟ ﺀﺎﻨﺑﺃ ﻭﺰﻏ"
+ war_867_Lothbrok_Invasion_of_Northumberland:0 "ﺪﻧﻻﺮﺒﻤﺛﺭﻮﻨﻟ ﻙﻭﺮﺒﺛﻮﻟ ﺀﺎﻨﺑﺃ ﻭﺰﻏ"

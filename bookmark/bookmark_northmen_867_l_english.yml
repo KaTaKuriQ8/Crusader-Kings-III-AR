@@ -1,0 +1,57 @@
+﻿l_english:
+ bm_867_northmen:0 "ﻥﻮﻴﻟﺎﻤﺸﻟﺍ ﺐﻀﻏ"
+ bm_867_northmen_desc:1 "ﻦﻴﻣﺎﻋ ﻞﺒﻗ\n ﺭﺎﺤﺑﻹﺎﺑ ﺭﺎﻨﻏﺍﺭ ﺀﺎﻨﺑﺃ ﻡﺎﻗ ،ﺮﺒﺨﻟﺍ ﻉﺎﻤﺳ ﺪﻨﻋﻭ\n ﻥﺍﻮﺧﻷﺍ ﻡﺎﻗﺃ ﺪﻗﻭ ﻢﻫﺪﻟﺍﻮﻟ ﻡﺎﻘﺘﻧﻼﻟ ﺍﺮﺘﻠﻜﻧﺇ ﻰﻟﺇ\n.ﺓﺮﻳﺰﺠﻟﺍ ﻲﻓﻭ ﻙﺭﻮﻳ ﻲﻓ ﻡﺪﻗ ﺊﻃﻮﻣ ﻦﻴﺤﻟﺍ ﻚﻟﺫ ﺬﻨﻣ\n ﻮﻠﺗ ﺔﻛﺮﻌﻤﻟﺍ ﻥﻮﺴﻜﺳﻮﻠﻐﻧﻷﺍ ﻙﻮﻠﻤﻟﺍ ﺮﺴﺧ ﺪﻘﻟ \n ﻞﻣﻷﺍ ﻞﻛ ﻦﻜﻟ.ﺎﻘﺣ ﺎﻤﺗﺎﻗ ﻢﻬﻠﺒﻘﺘﺴﻣ ﺍﺪﺑﻭ ،ﺔﻛﺮﻌﻤﻟﺍ\n ﻞﻳﻮﺤﺗ ﻰﻠﻋ ﺍﺭﺩﺎﻗ ﻢﻴﻈﻌﻟﺍ ﻞﻄﺒﻟﺍ ﻝﺍﺰﻳ ﻻﻭ ﻊﻴﻀﻳ ﻢﻟ\n .ﺦﻳﺭﺎﺘﻟﺍ ﺔﺟﻮﻣ\n\n ،ﺱﺭﻮﻨﻟﺍ ﻢﻜﺣ ﺖﺤﺗ ﺍﺮﺘﻠﺠﻧﺍ ﻞﻛ ﻊﻀﺘﺳ ﻞﻫ\n ﻲﺿﺍﺭﺍ ﻦﻣ ﻢﻴﻈﻌﻟﺍ ﺞﻤﻬﻟﺍ ﺶﻴﺟ ﻡﺰﻬﺘﺳ ﻡﺃ\n!؟ ﻥﻮﺴﻛﺎﺳ ﻮﻠﺠﻧﻻﺍ#!"
+
+ #Halfdan Whiteshirt
+ bookmark_northmen_halfdan_whiteshirt:0 "ﺕﺮﻴﺷ ﺖﻳﺍﻭ ﻥﺍﺪﻔﻟﺎﻫ"
+ bookmark_northmen_halfdan_whiteshirt_desc:0 " ًﺍﺪﺟ ﺪﻴﺟ ﻞﻜﺸﺑ ﻭﺰﻐﻟﺍ ﻦﻣ ﻰﻟﻭﻷﺍ ﺔﺟﻮﻤﻟﺍ ﺕﺭﺎﺳ ﺪﻘﻟ\nﻦﻣ ﺓﺪﻋﺎﺴﻤﺑﻭ .ﺕﺮﻴﺸﺘﻳﺍﻭ ﻥﺍﺪﻔﻟﺎﻫ ﻰﻟﺇ ﺔﺒﺴﻨﻟﺎﺑ\n ﻱﺪﻳﺃ ﻦﻣ ﻙﺭﻮﻳ ﻰﻠﻋ ﺓﺮﻄﻴﺴﻟﺎﺑ ﻡﺎﻗ ﺭﺎﻔﻳﺇ ﻪﻘﻴﻘﺷ \n.ﺮﻴﺜﻜﺑ ﻚﻟﺫ ﻦﻣ ﺮﺜﻛﺃ ﺬﺧﺄﻳ ﻑﻮﺳﻭ .ﺎﻴﻟﺇ ﻚﻠﻤﻟﺍ\n\n ﻚﻣﺎﻘﺘﻧﺍ ﻰﻠﻋ ﻞﺼﺤﺘﺳﻭ ﺦﻳﺭﺎﺘﻟﺍ ﻰﻄﺧ ﻊﺒﺘﺘﺳ ﻞﻫ\n ؟ﻥﺍﺪﻔﻟﺎﻫ ﻰﻟﺇ ﺍﺪﻳﺪﺟ ﺎﻘﻳﺮﻃ ﻚﻠﺴﺘﺳ ﻭﺃ ، ﻱﻮﻣﺪﻟﺍ#!"
+
+ bookmark_northmen_halfdan_whiteshirt_alt_gudfrid:0 "$GuT_friT_$"
+ bookmark_northmen_halfdan_whiteshirt_alt_saga:0 "$Saga$ $nick_the_truthspeaker$"
+
+ #Ivar the Boneless
+ bookmark_northmen_ivar_the_boneless:0 "ﺲﻴﻟ ﻥﻮﺑ ﺍﺫ ﺭﺎﻔﻳﺇ"
+ bookmark_northmen_ivar_the_boneless_desc:0 " ﻢﺴﺠﻟﺍ ﻒﻴﻌﺿ ﺭﺎﻔﻳﺇ ﻥﺃ ﻝﻮﻘﺗ ﺕﺎﻌﺋﺎﺸﻟﺍ\n .ﺮﻴﻜﻔﺘﻟﺍ ﻒﻴﻌﺿ ﻪﻧﺃ ﻝﻮﻘﻳ ﻥﺃ ﻊﻴﻄﺘﺴﻳ ﺪﺣﺃ ﻻ ﻦﻜﻟﻭ\n ﺕﺎﺑﺎﺼﻋ ﻦﻣ ﺍﺮﻴﺒﻛ ﺍﺩﺪﻋ ﺪﺣﻭ ،ﺔﺘﻘﺛﻭ ﺓﺮﻜﻣ ﻝﻼﺧ ﻦﻣﻭ\n ﺓﺮﻴﺒﻛ ﺕﺍﺭﺎﺼﺘﻧﺍ ﻖﻘﺣﻭ ،ﻪﺘﻳﺍﺭ ﺖﺤﺗ ﺱﺭﻮﻨﻟﺍ ﺏﺮﺣ\nﻢﻈﻋﺃ ﻰﺘﺣ ﻦﻜﻟﻭ .ﺔﻴﺒﻨﺟﻷﺍ ﺊﻃﺍﻮﺸﻟﺍ ﻩﺬﻫ ﻰﻠﻋ\n ،870 ﻲﻓ .ﺕﻮﻤﻟﺍ ﻉﺪﺨﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ ﻖﻨﻜﻳﺎﻔﻟﺍ \n...ﺪﺑﻷﺍ ﻰﻟﺇ ﺦﻳﺭﺎﺘﻟﺍ ﻦﻣ ﺭﺎﻔﻳﺇ ﻰﺷﻼﺘﻴﺳ\n\n ﻪﺋﺎﻘﺑﺇﻭ ﺭﺎﻔﻳﺇ ﺏﻭﺮﺤﺑ ﺯﻮﻔﻟﺍ ﻚﻨﻜﻤﻳ ﻞﻫ\n؟ﺔﻣﺩﺎﻗ ﺓﺪﻳﺪﻋ ﺕﺍﻮﻨﺴﻟ ﻢﻜﺤﻠﻟ ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ#!"
+
+ bookmark_northmen_ivar_the_boneless_alt_barid:0 "$Barid$"
+ bookmark_northmen_ivar_the_boneless_alt_barid_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+ bookmark_northmen_ivar_the_boneless_alt_sigfroth:0 "$SigfroT_$"
+ bookmark_northmen_ivar_the_boneless_alt_sigfroth_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+
+
+ #Sigurdr Snake-in-the-eye
+ bookmark_northmen_sigurdr_snake_in_the_eye:0 "ﻱﺍ ﺍﺫ ﻥﺍ ﻚﻴﻨﺳ ﺩﺭﻮﺠﻴﺳ"
+ bookmark_northmen_sigurdr_snake_in_the_eye_desc:1 "ﻡﺎﻘﺘﻧﻼﻟ ﺍﺮﺘﻠﺠﻧﺇ ﻰﻟﺇ ﻪﺗﻮﺧﺇ ﺮﺤﺑﺃ ﺎﻣﺪﻨﻋ\n .ﻞﺣﺍﺮﻟﺍ ﻩﺪﻟﺍﻭ ﻲﺿﺍﺭﺃ ﻢﻜﺤﻴﻟ ﺩﺭﻮﻐﻴﺳ ﻲﻘﺑ\n ﺓﺮﻴﺒﻜﻟﺍ ﺔﻳﺬﺣﻷﺍ ﺾﻌﺑ ﻪﻟ ﻙﻭﺮﺒﺛﻮﻟ ﺭﺎﻨﺟﺍﺭ ﻙﺮﺗ\n ﺎﻫﻸﻤﻴﻟ ﺍًﺪﺟ\n\nﻙﺭﺎﻤﻧﺪﻟﺍ ﻙﻮﻠﻣ ﺩﺭﻮﻐﻴﺳ ﺩﺎﻔﺣﺃ ﻥﻮﻜﻴﺳ\n .ﻥﺮﻗ ﻦﻣ ﺮﺜﻛﻷ ﺍﺮﺘﻠﺠﻧﺇﻭ ﺞﻳﻭﺮﻨﻟﺍﻭ\n\n؟.ﻪﺘﻟﻼﺳ ﺮﻴﺼﻣ ﻖﻴﻘﺤﺗ ﻚﻨﻜﻤﻳ ﻞﻫ#!"
+
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud:0 "$Knud$"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof:0 "$Alof$"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+
+ # Björn Ironside
+ bookmark_northmen_bjorn_ironside:0 "ﺪﻳﺎﺴﻧﻭﺮﻳﺃ ﻥﺭﻮﻴﺑ"
+ bookmark_northmen_bjorn_ironside_desc:0 ".ﻥﺎﻤﺳﺭﻮﻧ ـﻠﻟ ﺔﻴﻘﻴﻘﺤﻟﺍ ﺓﺮﻣﺎﻐﻤﻟﺍ ﺓﺎﻴﺣ ﻥﺭﻮﻴﺑ ﺵﺎﻋ\n ﺎﺴﻧﺮﻓ ﺮﺒﻋ ﺐﻬﻨﻟﺎﺑ ﻡﺎﻗ ، ﻒﻴﺨﻣ ﻢﺟﺎﻬﻣ ﻥﺎﻛﻭ\n .ﺖﻧﺎﻧ ﻦﻣ ﻦﻴﺘﺳﻮﻫ ﻪﻘﻳﺪﺻ ﻊﻣ ﺎﻴﻟﺎﻄﻳﺇﻭ ﺎﻳﺮﻴﺒﻳﺇﻭ\nﻰﻠﻋ ﻡﻮﺠﻬﻠﻟ ﺔﻴﻓﺎﻧﺪﻨﻜﺳﻻﺍ ﺕﺍﻮﻘﻟﺍ ﻊﻤﺠﺘﺗ ، ﻥﻵﺍ\n ﻢﻏﺮﻟﺍ ﻰﻠﻋ ﻯﺮﺧﺃ ﺓﺮﻣ ﺔﻴﻧﺎﻄﻳﺮﺒﻟﺍ ﺊﻃﺍﻮﺸﻟﺍ\nﺍﺮﺘﻠﺠﻧﺇ ﻲﻓ ﻩﺪﻟﺍﻭ ﻞﺘﻘﻤﻟ ﻡﺎﻘﺘﻧﻻﺎﺑ ﻥﺭﻮﻴﺑ ﺪﻋﻭ ﻦﻣ\n\n ﻯﺪﻣ ﻰﻠﻋ ﺪﻳﻮﺴﻟﺍ ﻥﻮﻤﻜﺤﻴﺳ ﻩﺩﺎﻔﺣﺃ ﻥﺈﻓ\nﺮﺤﺑ ﻦﻣ ﺐﻧﺎﺟ ﻱﺃ ﻰﻠﻋ .ﻦﻴﻠﺒﻘﻤﻟﺍ ﻦﻴﻧﺮﻘﻟﺍ\n؟. ﻙﺮﻴﺼﻣ ﻦﻤﻜﻳ ﻝﺎﻤﺸﻟﺍ#!"
+
+ bookmark_northmen_bjorn_ironside_alt_ingrid:0 "$Ingrid$"
+ bookmark_northmen_bjorn_ironside_alt_ingrid_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+ bookmark_northmen_bjorn_ironside_alt_eirikr:0 "$Eirikr$"
+ bookmark_northmen_bjorn_ironside_alt_eirikr_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+
+ #Earl Alfred (the great)
+ bookmark_northmen_earl_alfred:0 "ﺪﻳﺮﻔﻟﺍ ﻝﺮﻳﺍ"
+ bookmark_northmen_earl_alfred_desc:0 " ﺪﻳﺮﻔﻟﺃ ﻝﺮﻳﺇ ﺪﻌﺘﺴﻳ ، ًﺎﺑﻮﻨﺟ ﺞﻨﻜﻳﺎﻔﻟﺍ ﻡﺪﻘﺘﻳ ﺎﻤﻨﻴﺑ\n ﺔﻣﺩﺎﻘﻟﺍ ﺕﺍﻮﻨﺴﻟﺍ ﻲﻓ ﻪﺗﺍﻮﻘﻟ ﺖﺳﺭﻭﺩ ﻦﻣ\nﻦﻤﺳﺭﻮﻨﻟﺍ ﺪﺿ ﺓﺪﻳﺪﻋ ﻙﺭﺎﻌﻣ ﺪﻳﺮﻔﻟﺃ ﺽﻮﺨﻴﺳ\n ﻦﻤﺳﺭﻮﻨﻟﺍ ﺪﺿ ﺓﺪﻳﺪﻋ ﻙﺭﺎﻌﻣ ﺪﻳﺮﻔﻟﺃ ﺽﻮﺨﻴﺳ\n .ﻭﺰﻐﻠﻟ ًﺍﺪﺣ ﻊﻀﻳﻭ\n\nﺪﺣﺃ ﺢﺒﺼﻳ ﻪﻴﺧﺃ ﺵﺮﻋ ﺙﺮﻳ ﺎﻣﺪﻨﻋ\n# ﺦﻳﺭﺎﺘﻟﺍ ﺮﺒﻋ ﺰﻴﻠﺠﻧﻹﺍ ﻙﻮﻠﻤﻟﺍ ﻢﻈﻋﺃ\n! ﻢﻴﻈﻌﻟﺍ ﺪﻳﺮﻔﻟﺃ ﺮﻴﺼﻣ ﻖﻘﺤﺘﺳ ﻞﻬﻓ\n!؟ ﻢﻴﻈﻌﻟﺍ ﻦﻴﻴﻨﺛﻮﻟﺍ ﺶﻴﺟ ﺔﻘﺤﺴﻳ ﻭﺃ"
+
+ bookmark_northmen_earl_alfred_alt_aethelred:0 "$E_thelred$"
+ bookmark_northmen_earl_alfred_alt_aethelred_desc:0 "ﻞﻳﺪﺑ ﻒﺻﻭ"
+
+ ##EVENTS##
+ bookmark.0002.t:0 "ﻢﻴﻈﻌﻟﺍ"
+ bookmark.0002.desc:0 " ﻦﻴﻌﺑﺎﺘﻟﺍ ﺪﺣﺃ ﺎﻬﻴﻓ ﻲﺑ ﺐﺣﺭ ﻲﺘﻟﺍ ﻰﻟﻭﻷﺍ ﺓﺮﻤﻟﺍ ﻲﻓ\n، "!ﻢﻴﻈﻌﻟﺍ [ROOT.Char.GetFirstNameNoTooltip] ﺶﻴﻌﻳ" ـﺑ\n ، ﻚﻟﺫ ﻦﻣ ﺮﺜﻛﺃ ﺀﻲﺷ ﻲﻓ ﺮﻜﻓﺃ ﻢﻟ .ﺓﺪﺸﺑ ﺖﻓﺮﺸﺗ\n ﺖﺒﻫﺫ ﺎﻤﻨﻳﺃ ﺐﻘﻠﻟﺍ ﺔﻴﺒﻌﺷ ﺖﻤﻧ ، ﻡﻮﻴﻟﺍ ﻚﻟﺫ ﺬﻨﻣ ﻦﻜﻟﻭ\n [province.GetNameNoTooltip] ﻰﻟﺍ [capital.GetNameNoTooltip] ﻦﻣ\nﻢﺳﺍ ﻲﻠﻋ ﻥﻮﻘﻠﻄﻳ ﻥﻵﺍ ﻲﺘﻴﻋﺭ\nﻢﻴﻈﻌﻟﺍ [ROOT.Char.GetFirstNameNoTooltip] "
+ bookmark.0002.a:0 "ًﺍﺪﺑﺍ ﻢﻬﻟﺬﺧﺃ ﻻ ﻥﺃ ﻪﻠﻟﺍ ﻮﻋﺩﺃ"
+
+ bookmark.0004.t:0 "A [dead.Char.Custom2('RelationToMePossessive', ROOT.Char)|U] Vengeance"
+ bookmark.0004.desc:0 " ﻱﺪﻟ ﺎﻧﺃ ، ﺖﻗﻮﻟﺍ ﺍﺬﻫ ﻞﻛ ﺪﻌﺑ ، ﺍًﺮﻴﺧﺃ\n[prisoner.Custom('InsultAdjective')] [prisoner.GetName] !ﻲﺘﻤﺣﺭ ﺖﺣ\n[RelationToMeShort' , SCOPE.sC('dead'))] [dead.GetNamePossessive')ROOT.GetCharacter.Custom2]  ﻱﺪﻳ ﻦﻴﺑ ﻪﺗﻮﻣ ﻦﻋ ﺖﻌﻤﺳ ﺎﻣﺪﻨﻋ\n[prisoner.GetHerHis] .ﻢﻘﺘﻧﺄﺳ ﻲﻨﻧﺃ ﺖﻤﺴﻗﺃ\n[ROOT.Char.GetWomanMan]ﻲﻣﻼﻛ ﺔﻴﻟﻭﺆﺴﻣ ﻞﻤﺤﺗﺃ ﺎﻧﺃﻭ"
+ bookmark.0004.a.custom:0 "[dead.GetShortUIName]  ﻦﻣ [close_family_member|E] ﻞﻛ"
+ bookmark.0004.a:0 "ﻡﺪﻟﺍ ﺔﺤﻨﺟﺃ ﻰﻟﺍ ﻪﻋﻼﺿﺃ ﻕﺰﻣﺄﺳ"
+ bookmark.0004.b:0 "![ROOT.Char.GetFaith.HighGodName] ﻢﻴﻈﻋ ، ﻚﻟ [prisoner.GetWomanMan] ﺍﺫ"
+ bookmark.0004.c:0 "[prisoner.GetHerHim]  ـﻟ ﻯﺮﺧﺃ ﻂﻄﺧ ﻱﺪﻟ "

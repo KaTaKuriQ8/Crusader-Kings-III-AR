@@ -1,0 +1,15 @@
+﻿l_english:
+ #GROUPS
+ culture_group_military:0 "ﻱﺮﻜﺴﻋ"
+ culture_group_civic:0 "ﻲﻧﺪﻣ"
+ culture_group_regional:1 "ﺔﻴﻤﻴﻠﻗﻹﺍﻭ ﺔﻴﻓﺎﻘﺜﻟﺍ"
+ culture_group_any:0 "ﻱﺃ"
+ #ERAS
+ culture_era_tribal:0 "ﺔﻴﻠﺒﻘﻟﺍ"
+ culture_era_tribal_desc:0 " ﺔﻨﻨﻘﻤﻟﺍ ﻦﻴﻧﺍﻮﻘﻟﺍ ﺭﻮﻬﻇ ﻖﺒﺴﺗ [culture|E] ـﻟ ﺔﻴﻠﺒﻘﻟﺍ ﺔﺒﻘﺤﻟﺍ\n [tribal_government|E] ﻊﻣ ﻡﺎﻜﺤﻠﻟ ﻦﻜﻤﻳ ﺔﻴﺴﺳﺆﻤﻟﺍ ﺔﻣﻮﻜﺤﻟﺍﻭ\n.[innovations|E] ﻲﻠﺒﻘﻟﺍ ﺮﺼﻌﻟﺍ ﻦﻣ ﻂﻘﻓ ﺓﺩﺎﻔﺘﺳﻻﺍ"
+ culture_era_early_medieval:0 "ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻞﺋﺍﻭﺃ"
+ culture_era_early_medieval_desc:0 "ﻦﻴﻳﺭﺍﺩﺇ ﺭﻮﻬﻇ ﺓﺮﻜﺒﻤﻟﺍ ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺕﺪﻬﺷ\nﺔﻤﻬﻤﻟﺍ [innovations|E] ﻦﻣ ﺩﺪﻋﻭ ﻦﻴﻓﺮﺘﺤﻣ \n.ﺔﻤﻠﻈﻤﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺎﺑ [culture|E] ﺢﻤﺴﻳ ﺎﻤﻣ "
+ culture_era_high_medieval:0 " ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ"
+ culture_era_high_medieval_desc:0 "ﻡﺪﻘﺗ ﺓﺮﺘﻓ ﻲﻫ ﺎﻴﻠﻌﻟﺍ ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺔﺒﻘﺣ\nﺕﺍﺪﻠﺒﻟﺍ ﺕﺪﻬﺷ ﺚﻴﺣ ،ﻢﻴﻈﻋ ﻱﺭﺍﺩﺇﻭ ﻲﺟﻮﻟﻮﻨﻜﺗ\nﻰﺘﺣ ﻥﻮﻨﻃﺍﻮﻤﻟﺍ ﺔﻘﺒﻃ ﺩﻮﻌﺻﻭ ﺎًﻧﺪﻣ ﺢﺒﺼﺘﻟ ﻮﻤﻨﺗ\n.ﺔﻴﻃﺍﺮﻘﺘﺳﺭﻷﺍ ﺔﻘﺒﻄﻟﺍ ﺓﺮﻄﻴﺳ ﻊﻣ "
+ culture_era_late_medieval:0 "ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺮﺧﺍﻭﺃ"
+ culture_era_late_medieval_desc:0 "ﻞﺜﻤﺗ ﺓﺮﺧﺄﺘﻤﻟﺍ ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ ﺔﺒﻘﺣ\n ﻥﻮﻴﻃﺍﺮﻗﻭﺮﻴﺒﻟﺍ ﺃﺪﺑ .ﻲﻋﺎﻄﻗﻹﺍ ﻢﻟﺎﻌﻟﺍ ﺓﻭﺭﺫ\n ﻲﻓ ﻝﺍﻮﻣﻷﺍ ﻮﺿﺮﻘﻣﻭ ﺭﺎﺠﺘﻟﺍﻭ ﻥﻮﻴﻓﺮﺤﻟﺍﻭ\n ﺓﺰﻴﻤﻤﻟﺍ ﺕﺎﻘﺒﻄﻟﺍ ﺔﻄﻠﺳ ﻰﻠﻋ ﻱﺪﻌﺘﻟﺍ\n.ﻢﻬﺴﻔﻧﺃ ﻙﻮﻠﻤﻟﺍ ﺀﺎﻨﺜﺘﺳﺎﺑ ،ﺔﻤﻳﺪﻘﻟﺍ"

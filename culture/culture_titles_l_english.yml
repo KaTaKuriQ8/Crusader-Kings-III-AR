@@ -1,0 +1,1001 @@
+﻿l_english:
+
+ #############################################
+#General names:
+ baron:0 "ﻥﻭﺭﺎﺒﻟﺍ"
+ baron_female:0 "ﺔﻧﻭﺭﺎﺒﻟﺍ"
+ barony:0 "ﺔﻴﻧﻭﺭﺎﺑ"
+ count:0 "ﺩﺪﻋ"
+ count_female:0 "ﺔﺴﻴﺘﻧﻮﻜﻟﺍ"
+ county:0 "ﺔﻌﻃﺎﻘﻣ"
+ duke:0 "ﻕﻭﺩ"
+ duke_female:0 "ﺔﻗﻭﺩ"
+ duchy:0 "ﺔﻴﻗﻭﺩ"
+ king:0 "ﻚِﻠﻣ"
+ king_female:0 "ﺔﻜﻠﻣ"
+ kingdom:0 "ﺔﻜﻠﻤﻣ"
+ emperor:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+ emperor_female:0 "ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ empire:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+ 
+ baron_plural:0 "ﺕﺎﻧﻭﺭﺎﺒﻟﺍ"
+ count_plural:0 "ﺪﻌﻟﺍ"
+ duke_plural:0 "ﺕﺎﻗﻭﺪﻟﺍ"
+ king_plural:0 "ﻙﻮﻠﻤﻟﺍ"
+ emperor_plural:0 "ﺓﺮﻃﺎﺑﻷﺍ"
+ unlanded_plural:0 "ﺓﺭﻮﺠﻬﻣ ﺮﻴﻏ"
+
+ #Default Feudal tiers 
+ #Default Republic tiers
+ #Default Theocracy tiers
+ #Default Clan tiers
+ #Default Tribal tiers
+ #Default Imperial tiers
+ #Default Nomadic Clan tiers
+ #Default Mercenary tiers
+ #Default Holy Order tiers
+ #Default Viceroyalty tiers
+
+
+ #Default Feudal tiers 
+ baron_feudal_male:0 "ﻥﻭﺭﺎﺒﻟﺍ"
+ baron_feudal_female:0 "ﺔﻧﻭﺭﺎﺒﻟﺍ"
+ barony_feudal:0 "ﺔﻴﻧﻭﺭﺎﺑ"
+ count_feudal_male:0 "ﺩﺪﻋ"
+ count_feudal_female:0 "ﺔﺴﻴﺘﻧﻮﻜﻟﺍ"
+ county_feudal:0 "ﺔﻌﻃﺎﻘﻣ"
+ duke_feudal_male:0 "ﻕﻭﺩ"
+ duke_feudal_female:0 "ﺔﻗﻭﺩ"
+ duchy_feudal:0 "ﺔﻴﻗﻭﺩ"
+ duke_feudal_independent:0 "ﺮﻴﻐﺼﻟﺍ ﻚﻠﻤﻟﺍ"
+ duke_feudal_independent_female:0 "ﺓﺮﻴﻐﺼﻟﺍ ﺔﻜﻠﻤﻟﺍ"
+ duchy_feudal_independent:0 "ﺔﻬﻓﺎﺗ ﺔﻜﻠﻤﻣ"
+ king_feudal_male:0 "ﻚِﻠﻣ"
+ king_feudal_female:0 "ﺔﻜﻠﻣ"
+ kingdom_feudal:0 "ﺔﻜﻠﻤﻣ"
+ emperor_feudal_male:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+ emperor_feudal_female:0 "ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ empire_feudal:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+ #Default Republic tiers
+ baron_republic_male:0 "ﺓﺪﻤﻋ"
+ baron_republic_female:0 "ﺓﺪﻤﻋ"
+ barony_republic:0 "ﺔﻨﻳﺪﻣ"
+ count_republic_male:0 "ﺓﺪﻤﻌﻟﺍ ﺪﻴﺴﻟﺍ"
+ count_republic_female:0 "ﺓﺪﻤﻌﻟﺍ ﺓﺪﻴﺳ"
+ county_republic:0 "ﻲﺘﻴﺳ ﺪﻧﺍﺮﺟ"
+ duke_republic_male:0 "ﺮﻴﺒﻜﻟﺍ ﺓﺪﻤﻌﻟﺍ"
+ duke_republic_female:0 "ﺮﻴﺒﻜﻟﺍ ﺓﺪﻤﻌﻟﺍ"
+ duchy_republic:0 "ﺔﻳﺭﻮﻬﻤﺟ"
+ king_republic_male:0 "ﻲﻣﺎﺴﻟﺍ ﺮﻴﻣﻷﺍ"
+ king_republic_female:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺓﺮﻴﻣﻷﺍ"
+ kingdom_republic:0 "ﺍًﺀﻭﺪﻫ ﺮﺜﻛﻷﺍ ﺔﻳﺭﻮﻬﻤﺠﻟﺍ"
+ emperor_republic_male:0 "ﺮﻴﺒﻜﻟﺍ ﺮﻴﻣﻷﺍ"
+ emperor_republic_female:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺮﻴﻣﻷﺍ"
+ empire_republic:0 "ﻯﺮﺒﻜﻟﺍ ﺓرﺎﻣﻹﺍ"
+
+ #Default Theocracy tiers
+ baron_theocracy_male:0 "ﻦﻫﺎﻛ"
+ baron_theocracy_female:0 "ﺔﻨﻫﺎﻛ"
+ barony_theocracy:0 "ﺪﺒﻌﻣ"
+ count_theocracy_male:0 "ﺮﺒﻛﻻﺍ ﻦﻫﺎﻜﻟﺍ"
+ count_theocracy_female:0 "ﺔﻴﻟﺎﻋ ﺔﻨﻫﺎﻛ"
+ county_theocracy:0 "ﻢﻴﻈﻌﻟﺍ ﺪﺒﻌﻤﻟﺍ"
+ duke_theocracy_male:0 "ﺔﻨﻬﻜﻟﺍ ﺲﻴﺋﺭ"
+ duke_theocracy_female:0 "ﺔﻨﻫﺎﻜﻟﺍ"
+ duchy_theocracy:0 "ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ king_theocracy_male:0 "ﺮﺒﻛﻷﺍ ﻦﻫﺎﻜﻟﺍ"
+ king_theocracy_female:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻨﻫﺎﻜﻟﺍ"
+ kingdom_theocracy:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ emperor_theocracy_male:0 "ﻲﻬﻟﻹﺍ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ emperor_theocracy_female:0 "ﺔﻴﻬﻟﻹﺍ ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ empire_theocracy:0 "ﺔﺳﺪﻘﻤﻟﺍ ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+
+ #Default Clan tiers
+ baron_clan_male:0 "ﺲﻴﺋﺭ"
+ baron_clan_female:0 "ﺔﺴﻴﺋﺭ"
+ barony_clan:0 "ﺔﻠﻴﺒﻗ"
+ count_clan_male:0 "ﻢﻴﻋﺯ"
+ count_clan_female:0 "ﺔﺴﻴﺋﺮﻟﺍ"
+ county_clan:0 "ﺔﺨﻴﺸﻤﻟﺍ"
+ duke_clan_male:0 "ﻲﻣﺎﺴﻟﺍ ﺲﻴﺋﺮﻟﺍ"
+ duke_clan_female:0 "ﺔﻴﻟﺎﻋ ﺔﺴﻴﺋﺭ"
+ duchy_clan:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﺨﻴﺸﻤﻟﺍ"
+ king_clan_male:0 "ﻙﺮﻳﺮﻄﺒﻟﺍ"
+ king_clan_female:0 "ﺔﻤﻛﺎﺤﻟﺍ ﻡﻷﺍ"
+ kingdom_clan:0 "ﺔﻠﻴﺒﻗ - ﺓﺮﻴﺸﻋ"
+ emperor_clan_male:0 "ﺮﺒﻛﻷﺍ ﻙﺮﻳﺮﻄﺒﻟﺍ"
+ emperor_clan_female:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺮﻴﻣﻻﺍ"
+ empire_clan:0 "ﻥﻼﻛ ﺪﻧﺍﺮﺟ
+
+ #Default Tribal tiers
+ baron_tribal_male:0 "ﺲﻴﺋﺭ"
+ baron_tribal_female:0 "ﺔﺴﻴﺋﺭ"
+ barony_tribal:0 "ﺔﻠﻴﺒﻗ"
+ count_tribal_male:0 "ﻢﻴﻋﺯ"
+ count_tribal_female:0 "ﺔﺴﻴﺋﺮﻟﺍ"
+ county_tribal:0 "ﺔﺨﻴﺸﻤﻟﺍ"
+ duke_tribal_male:0 "ﻲﻟﺎﻌﻟﺍ ﻢﻴﻋﺰﻟﺍ"
+ duke_tribal_female:0 "ﺔﻴﻟﺎﻋ ﺔﺴﻴﺋﺭ"
+ duchy_tribal:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﺨﻴﺸﻤﻟﺍ"
+ king_tribal_male:0 "ﻚِﻠﻣ"
+ king_tribal_female:0 "ﺔﻜﻠﻣ"
+ kingdom_tribal:0 "ﺔﻜﻠﻤﻣ"
+ emperor_tribal_male:0 "ﻲﻟﺎﻌﻟﺍ ﻚﻠﻤﻟﺍ"
+ emperor_tribal_female:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﻜﻠﻤﻟﺍ"
+ empire_tribal:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﻜﻠﻤﻤﻟﺍ"
+
+ #Default Mercenary tiers
+ baron_mercenary_male:0 "ﻡﺯﻼﻣ"
+ baron_mercenary_female:0 "ﻡﺯﻼﻣ"
+ barony_mercenary:0 "ﺔﻗﺮﻓ"
+ count_mercenary_male:0 "ﻲﻃﺮﺷ"
+ count_mercenary_female:0 "ﻲﻃﺮﺷ"
+ county_mercenary:0 "ﻒﻴﻀﺘﺴﻳ"
+ duke_mercenary_male:0 "ﺐﺨﺘﻨﻤﻟﺍ ﺪﺋﺎﻗ"
+ duke_mercenary_female:0 "ﺐﺨﺘﻨﻤﻟﺍ ﺪﺋﺎﻗ"
+ duchy_mercenary:0 "ﺔﻛﺮﺷ"
+ king_mercenary_male:0 "ﻡﺎﻋ"
+ king_mercenary_female:0 "ﺔﻣﺎﻋ"
+ kingdom_mercenary:0 "ﺶﻴﺟ"
+ emperor_mercenary_male:0 "ﺮﻴﺒﻜﻟﺍ ﻝﺍﺮﻨﺠﻟﺍ"
+ emperor_mercenary_female:0 "ﺮﻴﺒﻜﻟﺍ ﻝﺍﺮﻨﺠﻟﺍ"
+ empire_mercenary:0 "ﺍﺩﺎﻣﺭﺃ ﺪﻧﺍﺮﺟ"
+
+ #Default Holy Order tiers
+ baron_holy_order_male:0 "ﺶﻳﻭﺎﺷ"
+ baron_holy_order_female:0 "ﺶﻳﻭﺎﺷ"
+ barony_holy_order:0 "ﻞﺼﻔﻟﺍ"
+ count_holy_order_male:0 "ﻦﻘﺘﻳ"
+ count_holy_order_female:0 "ﺔﻘﻴﺸﻋ"
+ county_holy_order:0 "ﻒﻴﻀﺘﺴﻳ"
+ duke_holy_order_male:0 "ﺮﺘﺳﺎﻣ ﺪﻧﺍﺮﻏ"
+ duke_holy_order_female:0 "ﺓﺪﺠﻟﺍ"
+ duchy_holy_order:0 "ﺐﻠﻃ"
+ king_holy_order_male:0 "ﺮﺘﺳﺎﻣ ﺪﻧﺍﺮﻏ"
+ king_holy_order_female:0 "ﺓﺪﺠﻟﺍ"
+ kingdom_holy_order:0 "ﺱﺪﻘﻤﻟﺍ ﻡﺎﻈﻨﻟﺍ"
+ emperor_holy_order_male:0 "ﺮﺘﺳﺎﻣ ﺪﻧﺍﺮﺟ"
+ emperor_holy_order_female:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺪﻴﺴﻟﺍ"
+ empire_holy_order:0 "ﺔﺳﺍﺪﻗ ﺮﺜﻛﻷﺍ ﻡﺎﻈﻨﻟﺍ"
+
+# Default Faction Leader
+ faction_leader_male:0 "ﺪﺋﺎﻗ"
+ faction_leader_female:0 "ﺪﺋﺎﻗ"
+ 
+ #Default Viceroyalty tiers
+ baron_viceroyalty_male:0 "ﻢﻛﺎﺣ ﻆﻓﺎﺤﻣ"
+ baron_viceroyalty_female:0 "ﻢﻛﺎﺣ ﻆﻓﺎﺤﻣ"
+ barony_viceroyalty:0 "ﻢﻛﺎﺤﻟﺍ"
+ count_viceroyalty_male:0 "ﺖﻧﻮﻜﻴﻔﻟﺍ"
+ count_viceroyalty_female:0 "ﺔﺟﻭﺰﻠﻟﺍ"
+ county_viceroyalty:0 "ﺔﻌﻃﺎﻘﻣ"
+ duke_viceroyalty_male:0 "ﺖﻧﻮﻜﻴﻔﻟﺍ ﻉﺎﻔﺗﺭﺍ"
+ duke_viceroyalty_female:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﺟﻭﺰﻠﻟﺍ"
+ duchy_viceroyalty:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻈﻓﺎﺤﻤﻟﺍ"
+ king_viceroyalty_male:0 "ﻚﻠﻤﻟﺍ ﺐﺋﺎﻧ"
+ king_viceroyalty_female:0 "ﺐﺋﺎﻧ"
+ kingdom_viceroyalty:0 "ﺔﻳﺎﺻﻮﻟﺍ"
+ emperor_viceroyalty_male:0 "ﻙﺭﺎﺸﻤﻟﺍ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ emperor_viceroyalty_female:0 "ﺔﻛﺮﺘﺸﻤﻟﺍ ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ empire_viceroyalty:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+ 
+##############################################
+#Theocracy titles
+
+# Bon 
+# Buddhism
+# Christianity
+# Dualism
+# Germanic
+# Hellenism
+# Hinduism
+# Islam
+# Jainism
+# Judaism
+# Magyarism
+# Paganism
+# Baltic
+# Slavic 
+# Finno-Ugric
+# Taoism
+# Tengrism
+# West African
+# West African Bori 
+# West African Roog 
+# Zoroastrianism
+# Zunism
+
+# Bon 
+ baron_theocracy_male_bon_religion:0 "ﻦﻫﺎﻛ"
+ baron_theocracy_female_bon_religion:0 "ﺔﻨﻫﺎﻛ"
+ barony_theocracy_bon_religion:0 "ﺍﺭﺎﻬﻴﻓ"
+ count_theocracy_male_bon_religion:0 "ﺮﺒﻛﻻﺍ ﻦﻫﺎﻜﻟﺍ"
+ count_theocracy_female_bon_religion:0 "ﺔﻴﻟﺎﻋ ﺔﻨﻫﺎﻛ"
+ county_theocracy_bon_religion:0 "ﺔﻤﻴﻈﻌﻟﺍ ﺍﺭﺎﻬﻴﻓ"
+ duchy_theocracy_bon_religion:0 "ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ king_theocracy_male_bon_religion:0 "ﺮﺒﻛﻷﺍ ﻦﻫﺎﻜﻟﺍ"
+ king_theocracy_female_bon_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻨﻫﺎﻜﻟﺍ"
+ kingdom_theocracy_bon_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ emperor_theocracy_male_bon_religion:0 "ﺕﺍﺮﻣﺎﺳ"
+ emperor_theocracy_female_bon_religion:0 "ﻲﻨﺟﺍﺮﻤﺳ"
+ empire_theocracy_bon_religion:0 "ﺱﺪﻘﻤﻟﺍ ﻕﺎﻓﻮﻟﺍ"
+
+# Buddhism
+ baron_theocracy_male_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ baron_theocracy_female_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ count_theocracy_male_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ count_theocracy_female_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ duke_theocracy_male_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ duke_theocracy_female_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ king_theocracy_male_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+ king_theocracy_female_buddhism_religion:0 "ﻮﻜﻴﻬﺑ"
+
+# Christianity
+ baron_theocracy_male_christianity_religion:0 "ﻒﻘﺳﺃ"
+ baron_theocracy_female_christianity_religion:0 "ﻒﻘﺳﺃ"
+ barony_theocracy_christianity_religion:0 "ﺔﻴﻔﻘﺳﺃ"
+ count_theocracy_male_christianity_religion:0 "ﻒﻘﺳﻷﺍ ﺮﻴﻣﻷﺍ"
+ count_theocracy_female_christianity_religion:0 "ﻒﻘﺳﻷﺍ ﺓﺮﻴﻣﻷﺍ"
+ county_theocracy_christianity_religion:0 "ﺔﻴﻔﻘﺳﻷﺍ ﺮﻴﻣﻷﺍ"
+ duke_theocracy_male_christianity_religion:0 "ﺔﻔﻗﺎﺳﻷﺍ ﺲﻴﺋﺭ ﺮﻴﻣﻷﺍ"
+ duke_theocracy_female_christianity_religion:0 "ﺔﻔﻗﺎﺳﻷﺍ ﺲﻴﺋﺭ ﺓﺮﻴﻣﻷﺍ"
+ duchy_theocracy_christianity_religion:0 "ﺔﻴﻧﺍﺮﻄﻣ ﺮﻴﻣﻷﺍ"
+ king_theocracy_male_christianity_religion:0 "ﻒﻘﺳﻷﺍ ﻚﻠﻤﻟﺍ"
+ king_theocracy_female_christianity_religion:0 "ﻒﻘﺳﻷﺍ ﺔﻜﻠﻤﻟﺍ"
+ kingdom_theocracy_christianity_religion:0 "ﺔﺣﻮﺴﻤﻤﻟﺍ ﺔﻜﻠﻤﻤﻟﺍ"
+ emperor_theocracy_male_christianity_religion:0 "ﻒﻘﺳﻷﺍ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ emperor_theocracy_female_christianity_religion:0 "ﻒﻘﺳﻷﺍ ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ empire_theocracy_christianity_religion:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﺔﺴﻴﻨﻜﻟﺍ"
+
+# Dualism
+#Same as Christianity
+
+# Germanic"
+ baron_theocracy_male_germanic_religion:0 "ﻱﺩﻮﺟ"
+ baron_theocracy_female_germanic_religion:0 "ﺎﺟﺪﻴﺟ"
+ barony_theocracy_germanic_religion:0 "ﺪﺒﻌﻣ"
+ count_theocracy_male_germanic_religion:0 "ﻱﻮﺠﻓﻮﻫ"
+ count_theocracy_female_germanic_religion:0 "ﻱﻮﺠﻓﻮﻫ"
+ county_theocracy_germanic_religion:0 "ﻢﻴﻈﻌﻟﺍ ﺪﺒﻌﻤﻟﺍ"
+ king_theocracy_male_germanic_religion:0 "ﻱﻮﻐﺴﻜﻳﺭ"
+ king_theocracy_female_germanic_religion:0 "ﻱﻮﻐﺴﻜﻳﺭ"
+ emperor_theocracy_male_germanic_religion:0 "ﻱﻮﻏﺭﺎﺠﻛ"
+ emperor_theocracy_female_germanic_religion:0 "ﻱﻮﻏﺭﺎﺠﻛ"
+
+# Hellenism
+ baron_theocracy_male_hellenism_religion:0 "ﻦﻣﻼﻓ"
+ baron_theocracy_female_hellenism_religion:0 "ﻝﺎﺘﺴﻴﻓ"
+ count_theocracy_male_hellenism_religion:0 "ﻦﻴﻨﺠﻟﺍ ﻉﺎﻔﺗﺭﺍ"
+ count_theocracy_female_hellenism_religion:0 "ﻝﺎﺘﺴﻴﻓ ﺔﻴﻟﺎﻋ"
+ duke_theocracy_male_hellenism_religion:0 "ﺲﻜﻔﻴﺘﻧﻮﺑ"
+ duke_theocracy_female_hellenism_religion:0 "ﺲﻜﻔﻴﺘﻧﻮﺑ"
+ duchy_theocracy_hellenism_religion:0 "ﺔﻳﻮﺑﺎﺒﻟﺍ"
+ king_theocracy_male_hellenism_religion:0 "ﻲﺣﻭ"
+ king_theocracy_female_hellenism_religion:0 "ﻞﻴﺑ ﻲﺳ"
+ emperor_theocracy_male_hellenism_religion:0 "ﻯﺮﺒﻜﻟﺍ ﻞﻛﺍﺭﻭﺃ"
+ emperor_theocracy_female_hellenism_religion:0 "ﻞﻴﺒﻴﺳ ﺪﻧﺍﺮﺟ"
+
+# Hinduism
+ baron_theocracy_male_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ baron_theocracy_female_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ barony_theocracy_hinduism_religion:0 "ﺮﻳﺪﻧﺎﻣ"
+ count_theocracy_male_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ count_theocracy_female_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ county_theocracy_hinduism_religion:0 "ﻢﻴﻈﻌﻟﺍ ﺮﻳﺪﻧﺎﻣ"
+ duke_theocracy_male_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ duke_theocracy_female_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ king_theocracy_male_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+ king_theocracy_female_hinduism_religion:0 "ﻱﺭﺎﺟﻮﺑ"
+
+# Islam
+ baron_theocracy_male_islam_religion:0 "ﻲﺘﻔﻣ"
+ baron_theocracy_female_islam_religion:0 "ﻲﺘﻔﻣ"
+ barony_theocracy_islam_religion:0 "ﺪﺠﺴﻣ"
+ count_theocracy_male_islam_religion:0 "ﺦﻴﺸﻟﺍ"
+ count_theocracy_female_islam_religion:0 "ﺔﺨﻴﺷ"
+ county_theocracy_islam_religion:0 "ﺔﺨﻴﺸﻤﻟﺍ"
+ duke_theocracy_male_islam_religion:0 "ﺮﺒﻛﻷﺍ ﻲﺘﻔﻤﻟﺍ"
+ duke_theocracy_female_islam_religion:0 "ﺮﺒﻛﻷﺍ ﻲﺘﻔﻤﻟﺍ"
+ duchy_theocracy_islam_religion:0 "ﺮﻴﺒﻜﻟﺍ ﺪﺠﺴﻤﻟﺍ"
+ king_theocracy_male_islam_religion:0 "ﺔﻔﻴﻠﺨﻟﺍ"
+ king_theocracy_female_islam_religion:0 "ﺔﻔﻴﻠﺧ"
+ kingdom_theocracy_islam_religion:0 "ﺔﻓﻼﺨﻟﺍ"
+ emperor_theocracy_male_islam_religion:0 "ﺮﺒﻛﻻﺍ ﺔﻔﻴﻠﺨﻟﺍ"
+ emperor_theocracy_female_islam_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻔﻴﻠﺨﻟﺍ"
+ empire_theocracy_islam_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻓﻼﺨﻟﺍ"
+
+# Jainism
+ baron_theocracy_male_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ baron_theocracy_female_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ barony_theocracy_jainism_religion:0 "ﺭﺎﺳﺍﺮﻳﺩ"
+ count_theocracy_male_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ count_theocracy_female_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ county_theocracy_jainism_religion:0 "ﻢﻴﻈﻌﻟﺍ ﺭﺎﺳﺍﺮﻳﺩ"
+ duke_theocracy_male_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ duke_theocracy_female_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ king_theocracy_male_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+ king_theocracy_female_jainism_religion:0 "ﺎﺜﻧﺍﺮﺟﺮﻴﻧ"
+
+# Judaism
+ baron_theocracy_male_judaism_religion:0 "ﻡﺎﺧﺎﺤﻟﺍ"
+ baron_theocracy_female_judaism_religion:0 "ﻡﺎﺧﺎﺤﻟﺍ"
+ barony_theocracy_judaism_religion:0 "ﺪﺒﻌﻣ"
+ count_theocracy_male_judaism_religion:0 "ﻦﻴﻫﻮﻛ"
+ count_theocracy_female_judaism_religion:0 "ﻦﻴﻫﻮﻛ"
+ county_theocracy_judaism_religion:0 "ﻢﻴﻈﻌﻟﺍ ﺪﺒﻌﻤﻟﺍ"
+ duke_theocracy_male_judaism_religion:0 "ﻥﺎﺑﺭ"
+ duke_theocracy_female_judaism_religion:0 "ﻥﺎﺑﺭ"
+ duchy_theocracy_judaism_religion:0 "ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ king_theocracy_male_judaism_religion:0 "ﻲﺳﺎﻧ"
+ king_theocracy_female_judaism_religion:0 "ﻲﺳﺎﻧ"
+ kingdom_theocracy_judaism_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ emperor_theocracy_male_judaism_religion:0 "ﺮﻴﺒﻜﻟﺍ ﻲﺿﺎﻘﻟﺍ"
+ emperor_theocracy_female_judaism_religion:0 "ﺮﻴﺒﻜﻟﺍ ﻲﺿﺎﻘﻟﺍ"
+ empire_theocracy_judaism_religion:0 "ﺔﺳﺪﻘﻤﻟﺍ ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+
+# Magyarism
+ count_theocracy_male_magyarism_religion:0 "ﺱﻮﺘﻟﺎﺗ"
+ count_theocracy_female_magyarism_religion:0 "ﺱﻮﺘﻟﺎﺗ"
+ duke_theocracy_male_magyarism_religion:0 "ﺱﻮﺘﻟﺎﺗ ﺔﻴﻟﺎﻋ"
+ duke_theocracy_female_magyarism_religion:0 "ﺱﻮﺘﻟﺎﺗ ﺔﻴﻟﺎﻋ"
+ king_theocracy_male_magyarism_religion:0 "ﺱﻮﺘﻟﺎﺗ ﺪﻧﺍﺮﺟ"
+ king_theocracy_female_magyarism_religion:0 "ﺱﻮﺘﻟﺎﺗ ﺪﻧﺍﺮﺟ"
+ emperor_theocracy_male_magyarism_religion:0 "ﻲﻬﻟﻹﺍ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ emperor_theocracy_female_magyarism_religion:0 "ﺔﻴﻬﻟﻹﺍ ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+
+# Paganism
+ baron_theocracy_male_paganism_religion:0 "ﻥﺎﻣﺎﺷ"
+ baron_theocracy_female_paganism_religion:0 "ﻥﺎﻣﺎﺷ"
+ barony_theocracy_paganism_religion:0 "ﺭﺍﺰﻣ"
+ count_theocracy_male_paganism_religion:0 "ﻲﻟﺎﻌﻟﺍ ﻥﺎﻣﺎﺸﻟﺍ"
+ count_theocracy_female_paganism_religion:0 "ﻲﻟﺎﻌﻟﺍ ﻥﺎﻣﺎﺸﻟﺍ"
+ county_theocracy_paganism_religion:0 "ﻢﻴﻈﻌﻟﺍ ﺢﻳﺮﻀﻟﺍ"
+ duke_theocracy_male_paganism_religion:0 "ﺔﻨﻬﻜﻟﺍ ﺲﻴﺋﺭ"
+ duke_theocracy_female_paganism_religion:0 "ﺔﻨﻫﺎﻜﻟﺍ"
+ duchy_theocracy_paganism_religion:0 "ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ king_theocracy_male_paganism_religion:0 "ﺮﺒﻛﻷﺍ ﻦﻫﺎﻜﻟﺍ"
+ king_theocracy_female_paganism_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻨﻫﺎﻜﻟﺍ"
+ kingdom_theocracy_paganism_religion:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﻃﺍﺮﻗﻮﻴﺜﻟﺍ"
+ emperor_theocracy_male_paganism_religion:0 "ﻲﻬﻟﻹﺍ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ emperor_theocracy_female_paganism_religion:0 "ﺔﻴﻬﻟﻹﺍ ﺓﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ empire_theocracy_paganism_religion:0 "ﺔﺳﺪﻘﻤﻟﺍ ﺔﻳﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+
+# Baltic
+ count_theocracy_male_baltic_religion:0 "ﻲﻠﻳﺪﻴﻓ"
+ count_theocracy_female_baltic_religion:0 "ﻲﺗﻮﻠﻳﺪﻴﻓ"
+ duke_theocracy_male_baltic_religion:0 "Vaidilė ﻉﺎﻔﺗﺭﺍ"
+ duke_theocracy_female_baltic_religion:0 "Vaidilutė ﻉﺎﻔﺗﺭﺍ"
+ king_theocracy_male_baltic_religion:0 "ﺲﻴﺋﺭ ﻱﺍ"
+ king_theocracy_female_baltic_religion:0 "ﺓﺮﺣﺎﺴﻟﺍ ﺔﻜﻠﻤﻟﺍ"
+
+# Slavic 
+ count_theocracy_male_slavic_religion:0 "ﺲﺘﻳﺭﺯ"
+ count_theocracy_female_slavic_religion:0 "ﺎﺴﺘﻳﺭﺯ"
+ duke_theocracy_male_slavic_religion:0 "ﻒﺨﻟﻮﻓ"
+ duke_theocracy_female_slavic_religion:0 "ﺎﻴﻧﻭﺪﻴﻓ"
+
+# Finno-Ugric
+ count_theocracy_male_finno_ugric_religion:0 "ﻱﺪﻳﻮﻧ"
+ count_theocracy_female_finno_ugric_religion:0 "ﻱﺪﻳﻮﻧ"
+ duke_theocracy_male_finno_ugric_religion:0 "ﻲﻟﺎﻌﻟﺍ ﻲﻀﻳﻮﻨﻟﺍ"
+ duke_theocracy_female_finno_ugric_religion:0 "ﻲﻟﺎﻌﻟﺍ ﻲﻀﻳﻮﻨﻟﺍ"
+
+# Taoism (same as Pagan/Bon)
+
+# Tengrism (same as Pagan)
+
+# West African 
+ baron_theocracy_male_west_african_religion:0 "ﻥﻮﺟﻮﻫ"
+ baron_theocracy_female_west_african_religion:0 "ﻥﻮﺟﻮﻫ"
+ count_theocracy_male_west_african_religion:0 "ﻥﻮﺟﻮﻫ ﺔﻴﻟﺎﻋ"
+ count_theocracy_female_west_african_religion:0 "ﻥﻮﺟﻮﻫ ﺔﻴﻟﺎﻋ"
+ king_theocracy_male_west_african_religion:0 "ﻥﻮﺟﻮﻫ ﺪﻧﺍﺮﺟ"
+ king_theocracy_female_west_african_religion:0 "ﻥﻮﺟﻮﻫ ﺪﻧﺍﺮﺟ"
+
+# West African Bori
+ baron_theocracy_male_west_african_bori_religion:0 "ﻲﺠﻨﻴﺟﺩﺃ"
+ baron_theocracy_female_west_african_bori_religion:0 "ﺎﺟﺩﺎﺟﺎﻣ"
+ count_theocracy_male_west_african_bori_religion:0 "ﺔﻴﻟﺎﻋ ﻲﺠﻨﻴﺟﺩﺃ"
+ count_theocracy_female_west_african_bori_religion:0 "ﺔﻴﻟﺎﻋ ﺎﺟﺩﺎﺟﺎﻣ"
+ king_theocracy_male_west_african_bori_religion:0 "ﻲﺠﻨﻴﺟﺩﺃ ﺪﻧﺍﺮﺟ"
+ king_theocracy_female_west_african_bori_religion:0 "ﺎﺟﺩﺎﺟﺎﻣ ﺪﻧﺍﺮﺟ"
+
+# West African Roog 
+ baron_theocracy_male_west_african_roog_religion:0 "ﻮﺠﻴﺘﻟﺎﺳ"
+ baron_theocracy_female_west_african_roog_religion:0 "ﻮﺠﻴﺘﻟﺎﺳ"
+ count_theocracy_male_west_african_roog_religion:0 "ﺢﻠﻤﻟﺍ ﻉﺎﻔﺗﺭﺍ"
+ count_theocracy_female_west_african_roog_religion:0 "ﺢﻠﻤﻟﺍ ﻉﺎﻔﺗﺭﺍ"
+ king_theocracy_male_west_african_roog_religion:0 "ﻯﺮﺒﻜﻟﺍ ﻮﺠﻴﺘﻟﺎﺳ"
+ king_theocracy_female_west_african_roog_religion:0 "ﻯﺮﺒﻜﻟﺍ ﻮﺠﻴﺘﻟﺎﺳ"
+
+# Zoroastrianism
+ baron_theocracy_male_zoroastrianism_religion:0 "ﺩﺎﺑﺮﻴﻫ"
+ baron_theocracy_female_zoroastrianism_religion:0 "ﺩﺎﺑﺮﻴﻫ"
+ barony_theocracy_zoroastrianism_religion:0 "ﻡﺍﺮﻬﻓ"
+ count_theocracy_male_zoroastrianism_religion:0 "ﺪﻴﺑﻮﻣ"
+ count_theocracy_female_zoroastrianism_religion:0 "ﺭﺎﻳﺪﺒﻣ"
+ duke_theocracy_male_zoroastrianism_religion:0 "ﺭﻮﺘﺳﺩ"
+ duke_theocracy_female_zoroastrianism_religion:0 "ﺭﺎﻳﻮﺘﺳﺍﺩ"
+
+# Zunism
+ baron_theocracy_male_zunism_religion:0 "ﺲﻤﺸﻟﺍ ﺱﺭﺎﺣ"
+ baron_theocracy_female_zunism_religion:0 "ﺲﻤﺸﻟﺍ ﺱﺭﺎﺣ"
+ emperor_theocracy_male_zunism_religion:0 "ﺲﻤﺸﻟﺍ ﺭﻮﻃﺍﺮﺒﻣﺇ"
+ emperor_theocracy_female_zunism_religion:0 "ﺲﻤﺸﻟﺍ ﺓﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+
+##############################################"
+# Theocracy titles
+
+# Shia
+ baron_theocracy_male_ismaili:0 "ﻼﻤﻟﺍ"
+ baron_theocracy_female_ismaili:0 "ﻼﻤﻟﺍ"
+ count_theocracy_male_ismaili:0 "ﻪﻠﻟﺍ ﺔﻳﺁ"
+ count_theocracy_female_ismaili:0 "ﻪﻠﻟﺍ ﺔﻳﺁ"
+ duke_theocracy_male_ismaili:0 "ﻰﻤﻈﻌﻟﺍ ﻪﻠﻟﺍ ﺔﻳﺁ"
+ duke_theocracy_female_ismaili:0 "ﻰﻤﻈﻌﻟﺍ ﻪﻠﻟﺍ ﺔﻳﺁ"
+
+# Orthodox 
+ count_theocracy_male_orthodox:0 "ﻯﺮﺒﻜﻟﺍ ﻥﺪﻤﻟﺍ"
+ count_theocracy_female_orthodox:0 "ﻯﺮﺒﻜﻟﺍ ﻥﺪﻤﻟﺍ"
+
+##############################################
+# Special cultural titles (sorted by culture
+
+### Latin ###
+# Republic 
+ duke_republic_male_latin_group:0 "ﻲﺟﻭﺩ"
+ duke_republic_female_latin_group:0 "ﺎﺴﻳﺭﺎﻏﻭﺩ"
+ king_republic_male_latin_group:0 "ﻲﺟﻭﺩ ﻦﻳﺮﻴﺳ"
+ king_republic_female_latin_group:0 "ﺎﺴﻳﺭﺎﺟﻭﺩ ﻦﻳﺮﻴﺳ"
+
+### Roman ###
+# Feudal 
+ baron_feudal_male_roman:1 "ﻭﺭﺎﺑ"
+ baron_feudal_female_roman:1 "ﺎﺴﻴﻧﻭﺭﺎﺑ"
+ barony_feudal_roman:1 "ﻡﻭﺮﺘﺳﺎﻛ"
+ count_feudal_male_roman:0 "ﻲﺗﺄﻳ"
+ count_feudal_female_roman:1 "ﺎﺴﻴﺘﻴﻣﻮﻛ"
+ county_feudal_roman:0 "ﺔﻌﻃﺎﻘﻣ"
+ duke_feudal_male_roman:1 "ﺲﻛﻭﺩ"
+ duke_feudal_female_roman:1 "ﺎﺴﻴﺳﻭﺩ"
+ duchy_feudal_roman:0 "ﺔﻴﻗﻭﺩ"
+ king_feudal_male_roman:0 "ﺲﻜﻳﺭ"
+ king_feudal_female_roman:0 "ﺎﻨﻴﺠﻳﺭ"
+ kingdom_feudal_roman:0 "ﻡﻮﻨﺠﻳﺭ"
+ emperor_feudal_male_roman:1 "ﺭﻮﻃﺍﺮﺒﻣﻹﺍ"
+ emperor_feudal_female_roman:1 "ﺲﻜﻳﺮﺗﺍﺮﻴﺒﻣﺇ"
+ empire_feudal_roman:1 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+# Republic
+ baron_republic_male_roman:0 "ﺮﻴﺘﺴﺟﺎﻣ"
+ baron_republic_female_roman:0 "ﺍﺮﺘﺴﻴﺟﺎﻣ"
+ count_republic_male_roman:0 "ﻲﻟﺍﻮﻟﺍ"
+ count_republic_female_roman:0 "ﻲﻟﺍﻮﻟﺍ"
+ duke_republic_male_roman:0 "ﺮﺒﻨﻣ"
+ duke_republic_female_roman:0 "ﺮﺒﻨﻣ"
+ king_republic_male_roman:0 "ﻞﺼﻨﻘﻟﺍ"
+ king_republic_female_roman:0 "ﻞﺼﻨﻘﻟﺍ"
+ kingdom_republic_roman:0 "ﻱﺭﻭﺪﻟﺍ"
+ emperor_republic_male_roman:0 "ﺲﺒﻴﺴﻨﻳﺮﺑ"
+ emperor_republic_female_roman:0 "ﺓﺮﻴﻣﺃ"
+ empire_republic_roman:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻳﺭﻮﻬﻤﺠﻟﺍ"
+
+# Viceroyalty 
+ baron_viceroyalty_male_roman:0 "ﻢﻛﺎﺣ ﻆﻓﺎﺤﻣ"
+ baron_viceroyalty_female_roman:0 "ﺔﻤﻛﺎﺤﻟﺍ"
+ barony_viceroyalty_roman:0 "ﺔﻌﻃﺎﻘﻣ"
+ count_viceroyalty_male_roman:0 "ﻢﻛﺎﺣ ﻆﻓﺎﺤﻣ"
+ count_viceroyalty_female_roman:0 "ﺔﻤﻛﺎﺤﻟﺍ"
+ county_viceroyalty_roman:0 "ﺔﻌﻃﺎﻘﻣ"
+ duke_viceroyalty_male_roman:0 "ﻢﻛﺎﺣ ﻆﻓﺎﺤﻣ"
+ duke_viceroyalty_female_roman:0 "ﺔﻤﻛﺎﺤﻟﺍ"
+ duchy_viceroyalty_roman:0 "ﺔﻌﻃﺎﻘﻣ"
+ king_viceroyalty_male_roman:1 "ﺐﺋﺎﻨﻟﺍ"
+ king_viceroyalty_female_roman:1 "ﺎﺴﻳﺭﺎﻜﻴﻓ"
+ kingdom_viceroyalty_roman:1 "ﺔﻴﺷﺮﺑﺃ"
+ emperor_viceroyalty_male_roman:0 "ﺲﺒﻴﺴﻨﻳﺮﺑ"
+ emperor_viceroyalty_female_roman:1 "ﺃﺪﺒﻤﻟﺍ"
+ empire_viceroyalty_roman:0 "ﺃﺪﺒﻣ"
+
+### Greek ###
+# Feudal / Imperial
+ count_feudal_male_greek:0 "ﺲﻴﻣﻮﻛ"
+ count_feudal_female_greek:0 "ﺎﺴﻴﺘﻴﻣﻮﻛ"
+ duke_feudal_male_greek:0 "ﺲﻛﻭﺩ"
+ duke_feudal_female_greek:0 "ﺎﺴﻴﻛﻭﺩ"
+ king_feudal_male_greek:0 "ﺪﺒﺘﺴﻣ"
+ king_feudal_female_greek:0 "ﺩﺍﺪﺒﺘﺳﻻﺍ"
+ kingdom_feudal_greek:0 "ﺪﺒﺘﺴﻣ"
+ emperor_feudal_male_greek:0 "ﺱﻮﻴﻠﻴﺳﺎﺑ"
+ emperor_feudal_female_greek:0 "ﺎﺴﻴﻠﻴﺳﺎﺑ"
+
+### Byzantine ###
+# Republic 
+ duke_republic_male_byzantine_group:1 "ﺶﺗﺮﺑﺇ"
+ duke_republic_female_byzantine_group:1 "ﺎﺴﻴﺷﺮﺑﺃ"
+ king_republic_male_byzantine_group:0 "ﻲﺟﻭﺩ ﻦﻳﺮﻴﺳ"
+ king_republic_female_byzantine_group:0 "ﺎﺴﻳﺭﺎﺟﻭﺩ ﻦﻳﺮﻴﺳ"
+
+# Viceroyalty 
+ duke_viceroyalty_male_byzantine_group:0 "ﺕﺎﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ"
+ duke_viceroyalty_female_byzantine_group:0 "ﺔﻴﺠﻴﺗﺍﺮﺘﺳﺍ"
+ duchy_viceroyalty_byzantine_group:0 "ﺔﻤﺳ"
+ king_viceroyalty_male_byzantine_group:0 "ﻙﺭﺎﺴﻛﺇ"
+ king_viceroyalty_female_byzantine_group:0 "ﺎﺴﻴﺸﺗﺭﺎﺴﻛﺇ"
+ king_viceroyalty_byzantine_group:0 "ﺔﻴﺴﺧﺮﺴﻛﺇ"
+ emperor_viceroyalty_male_byzantine_group:0 "ﻙﺭﺎﺴﻛﺇ ﺪﻧﺍﺮﺟ"
+ emperor_viceroyalty_female_byzantine_group:0 "ﻯﺮﺒﻜﻟﺍ ﺎﺴﻴﺸﺗﺭﺎﺴﻛﺇ"
+ empire_viceroyalty_byzantine_group:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﺴﺧﺮﺴﻛﺇ"
+
+### German ###
+# Feudal / Tribal 
+ emperor_feudal_male_german:0 "ﺭﺰﻳﺎﻛ"
+ emperor_feudal_female_german:0 "ﻦﻳﺭﺰﻳﺎﻛ"
+
+### Norse ###
+# Feudal / Tribal 
+ baron_feudal_male_norse:0 "Þegn"
+ baron_feudal_female_norse:0 "Þegn"
+ count_feudal_male_norse:0 "ﻝﺭﺎﻳ"
+ count_feudal_female_norse:0 "ﻝﺭﺎﻳ"
+ county_feudal_norse:0 "ﻡﻭﺪﻟﺭﺎﻳ"
+
+### English ###
+# Feudal / Tribal 
+ count_feudal_male_english:0 "ﻱﺰﻴﻠﻜﻧﺍ ﺐﻘﻟ ﻝﺮﻳﻻﺍ"
+ count_feudal_female_english:0 "ﺔﺴﻴﺘﻧﻮﻜﻟﺍ"
+ county_feudal_english:0 "ﻡﻭﺪﻟﺮﻳﺇ"
+
+### Anglo-Saxon ###
+# Feudal / Tribal 
+ baron_feudal_male_anglo_saxon:0 "ﻦﻴﺛ"
+ baron_feudal_female_anglo_saxon:0 "ﻦﻴﺛ"
+ 
+ baron_republic_male_anglo_saxon:0 "ﻒﻳﺭ"
+ baron_republic_female_anglo_saxon:0 "ﻒﻳﺭ"
+ barony_republic_anglo_saxon:0 "ﺓﺪﻠﺒﻟﺍ"
+ 
+ count_republic_male_anglo_saxon:0 "ﻒﻳﺮﺷ"
+ count_republic_female_anglo_saxon:0 "ﻒﻳﺮﺷ"
+ county_republic_anglo_saxon:0 "ﺮﻳﺎﺷ"
+
+### Irish ###
+
+### Pictish ###
+ count_feudal_male_pictish:0 "ﺮﻣﺮﻣ"
+ count_feudal_female_pictish:1 "ﺮﻴﻣﺭﻮﻤﻧﺎﺑ"
+ county_feudal_pictish:0 "ﻡﻭﺩﺮﻴﻣﺭﻮﻣ"
+
+### Scottish ###
+ baron_republic_male_scottish:0 "ﺪﻴﻤﻌﻟﺍ"
+ baron_republic_female_scottish:0 "ﺪﻴﻤﻌﻟﺍ"
+ barony_republic_scottish:0 "ﻍﺭﻮﺑ"
+ 
+ count_republic_male_scottish:0 "ﺖﺳﻮﻓﻭﺮﺑ ﺩﺭﻮﻠﻟﺍ"
+ count_republic_female_scottish:0 "ﺪﻴﻤﻌﻟﺍ ﺓﺪﻴﺳ"
+
+### Hausa ###
+ count_feudal_female_hausan_independent:0 "ﺎﻴﺟﺎﺟﺎﻣ ﺔﻬﻓﺎﺗ"
+ duke_feudal_female_hausan_independent:0 "ﺎﻴﺟﺎﺟﺎﻣ"
+ king_feudal_female_hausan_independent:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﺟﺎﺠﻣ"
+
+### Principalities ###
+# Feudal/Tribal
+ duke_feudal_male_prince_independent:0 "ﺮﻴﻣﺃ"
+ duke_feudal_female_prince_independent:0 "ﺓﺮﻴﻣﺃ"
+ duchy_feudal_prince_independent:0 "ﺓﺭﺎﻣﻹﺍ"
+ duke_feudal_male_prince_always:0 "$duke_feudal_male_prince_independent$"
+ duke_feudal_female_prince_always:0 "$duke_feudal_female_prince_independent$"
+ duchy_feudal_prince_always:0 "$duchy_feudal_prince_independent$"
+
+### Grand Principalities ###
+# Feudal
+ king_feudal_male_grand_prince_independent:0 "ﺮﻴﺒﻜﻟﺍ ﺮﻴﻣﻷﺍ"
+ king_feudal_female_grand_prince_independent:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺮﻴﻣﻷﺍ"
+ kingdom_feudal_grand_prince_independent:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺭﺎﻣﻹﺍ"
+
+### Grand Duchies ###
+# Feudal
+ king_feudal_male_grand_duke_independent:0 "ﺮﺒﻛﻷﺍ ﻕﻭﺪﻟﺍ"
+ king_feudal_female_grand_duke_independent:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻗﻭﺪﻟﺍ"
+ kingdom_feudal_grand_duke_independent:0 "ﻯﺮﺒﻜﻟﺍ ﺔﻴﻗﻭﺪﻟﺍ"
+
+### Lombard ###
+# Feudal
+ duke_feudal_male_lombard_independent:0 "ﺮﻴﻣﺃ"
+ duke_feudal_female_lombard_independent:0 "ﺓﺮﻴﻣﺃ"
+ duchy_feudal_lombard_independent:0 "ﺓﺭﺎﻣﻹﺍ"
+
+### Banates ###
+# Feudal
+ duke_feudal_male_ban:0 "ﻊﻨﻤﻟﺍ"
+ duke_feudal_female_ban:0 "ﻊﻨﻤﻟﺍ"
+ duchy_feudal_ban:0 "ﺕﺎﻧﺎﺑ"
+
+### Sardinian ###
+# Feudal
+ barony_feudal_sardinian:0 "ﺎﻳﺭﻭﺩﺍﺭﻮﻛ"
+ baron_feudal_male_sardinian:0 "ﺭﻭﺩﺍﺭﻮﻛ"
+ baron_feudal_female_sardinian:0 "ﺍﺭﻭﺩﺍﺭﻮﻛ"
+ county_feudal_sardinian:0 "ﺀﺎﻀﻘﻟﺍ"
+ count_feudal_male_sardinian:0 "ﻚﻳﺩﻮﺟ"
+ count_feudal_female_sardinian:0 "ﺍﺩﻮﻬﻳ"
+ duchy_feudal_sardinian:0 "ﻲﺗﺎﻧﻮﺷﺭﺃ"
+ duke_feudal_male_sardinian:0 "ﻥﻮﺷﺭﺃ"
+ duke_feudal_female_sardinian:0 "ﺎﺴﻴﻧﻮﺷﺭﺃ"
+
+### Russian ###
+# Feudal 
+ duke_feudal_male_russian:0 "ﺮﻴﺒﻜﻟﺍ ﺮﻴﻣﻷﺍ"
+ duke_feudal_female_russian:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺮﻴﻣﻷﺍ"
+ duchy_feudal_russian:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺭﺎﻣﻹﺍ"
+ emperor_feudal_male_russian:0 "ﺮﺼﻴﻘﻟﺍ"
+ emperor_feudal_female_russian:0 "ﺎﺴﺘﻳﺭﺎﺴﺗ"
+ empire_feudal_russian:0 "ﺔﻳﺮﺼﻴﻘﻟﺍ"
+
+### Arabic ###
+# Feudal / Clan / Tribal 
+ baron_feudal_male_arabic_group:1 "ﻲﻟﺍﻭ"
+ baron_feudal_female_arabic_group:1 "ﺎﻴﻟﺍﻭ"
+ barony_feudal_arabic_group:1 "ﺔﻳﻻﻭ"
+ count_feudal_male_arabic_group:0 "ﺦﻴﺸﻟﺍ"
+ count_feudal_female_arabic_group:0 "ﺔﺨﻴﺷ"
+ county_feudal_arabic_group:0 "ﺔﺨﻴﺸﻤﻟﺍ"
+ duke_feudal_male_arabic_group:0 "ﺮﻴﻣﺃ"
+ duke_feudal_female_arabic_group:0 "ﺓﺮﻴﻣﺃ"
+ duchy_feudal_arabic_group:0 "ﺓﺭﺎﻣﻹﺍ"
+ king_feudal_male_arabic_group:1 "ﻚﻟﺎﻣ"
+ king_feudal_female_arabic_group:1 "ﺔﻜﻴﻠﻣ"
+ kingdom_feudal_arabic_group:1 "ﺕﺎﻜﻴﻟﺎﻣ"
+ king_feudal_muslim_male_arabic_group:0 "ﻥﺎﻄﻠﺳ"
+ king_feudal_muslim_female_arabic_group:0 "ﺔﻧﺎﻄﻠﺳ"
+ kingdom_feudal_muslim_arabic_group:0 "ﺔﻨﻄﻠﺳ"
+ emperor_feudal_male_arabic_group:1 "ﻢﻈﻌﻤﻟﺍ ﻚﻟﺎﻣ"
+ emperor_feudal_female_arabic_group:1 "ﺔﻤﻈﻌﻤﻟﺍ ﺔﻜﻴﻠﻣ"
+ empire_feudal_arabic_group:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+# Republic 
+ count_republic_male_arabic_group:0 "ﻲﻟﺍﻭ"
+ count_republic_female_arabic_group:0 "ﺎﻴﻟﺍﻭ"
+ duke_republic_male_arabic_group:0 "ﺮﻴﻣﺃ ﻲﻟﺍﻭ"
+ duke_republic_female_arabic_group:0 "ﺮﻴﻣﺃ ﺎﻴﻟﺍﻭ"
+ king_republic_male_arabic_group:0 "ﻚﻟﺎﻣ ﻲﻟﺍﻭ"
+ king_republic_female_arabic_group:0 "ﻚﻟﺎﻣ ﺎﻴﻟﺍﻭ"
+
+### Turkish ###
+# Feudal / Clan 
+ baron_feudal_male_turkish:1 "ﺎﻏﺁ"
+ baron_feudal_female_turkish:1 "ﻢﻧﺎﻫ"
+ barony_feudal_turkish:1 "ﺕﻮﻳﺮﻤﻴﺗ"
+ count_feudal_male_turkish:1 "ﻻﺪﺟ ﺽﺮﺘﻓﺇ"
+ count_feudal_female_turkish:1 "ﻡﻮﺠﻴﺑ"
+ county_feudal_turkish:0 "ﻚﻴﻠﻴﺑ"
+ duke_feudal_male_turkish:1 "ﻚﺑﺎﺗﺃ"
+ duke_feudal_female_turkish:1 "ﻡﻮﺠﻴﺑﺎﺗﺃ"
+ duchy_feudal_turkish:1 "ﺖﻴﺠﺑﺎﺗﺃ"
+ king_feudal_male_turkish:0 "ﻥﺎﻄﻠﺳ"
+ king_feudal_female_turkish:0 "ﺔﻧﺎﻄﻠﺳ"
+ kingdom_feudal_turkish:0 "ﺔﻨﻄﻠﺳ"
+ emperor_feudal_male_turkish:1 "ﻢﻈﻌﻤﻟﺍ ﻥﺎﻄﻠﺳ"
+ emperor_feudal_female_turkish:1 "ﺔﻤﻈﻌﻤﻟﺍ ﺔﻧﺎﻄﻠﺳ"
+ empire_feudal_turkish:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+### Iranian ###
+# Feudal / Clan 
+ baron_feudal_male_iranian_group:0 "ﻩﺩﺎﺒﻏﺭﺍ"
+ baron_feudal_female_iranian_group:0 "ﺎﻴﻟﺍﻭ"
+ barony_feudal_iranian_group:0 "ﺝﺭﺃ"
+ count_feudal_male_iranian_group:0 "ﻥﺎﺑﻭﺯﺮﻣ"
+ count_feudal_female_iranian_group:0 "ﺔﺨﻴﺷ"
+ county_feudal_iranian_group:0 "ﺖﻴﻧﺎﺑﺯﺮﻣ"
+ duke_feudal_male_iranian_group:0 "ﻥﺎﺑﺯﺮﻤﻟﺍ"
+ duke_feudal_female_iranian_group:0 "ﺓﺮﻴﻣﺃ"
+ duchy_feudal_iranian_group:0 "ﻲﻧﺎﺑﺯﺮﻤﻟﺍ"
+ king_feudal_male_iranian_group:0 "ﻩﺎﺷ"
+ king_feudal_female_iranian_group:0 "ﻦﺸﺒﻴﻧﺎﺑ"
+ kingdom_feudal_iranian_group:1 "ﻡﻭﺪﻬﺷ"
+ emperor_feudal_male_iranian_group:0 "ﻩﺎﺸﻨﻫﺎﺷ"
+ empire_feudal_iranian_group:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+### Sogdian ###
+# Feudal / Clan 
+ duke_feudal_male_sogdian:0 "ﺪﻴﺸﺧﺇ"
+
+### Mongol ###
+# Feudal / Clan / Tribal / Nomadic
+ baron_feudal_male_mongol:0 "ﻲﺸﻳﺎﺗ"
+ 
+### Uyghur ###
+# Feudal / Clan / Tribal / Nomadic
+ king_feudal_male_uyghur:0 "ﻪﻠﺑﺃ"
+ king_feudal_female_uyghur:0 "ﻪﻠﺑﺃ"
+
+### Altaic ###
+# Feudal / Tribal / Clan / Nomadic 
+ king_feudal_male_altaic_group:0 "ﻥﺎﺧ"
+ king_feudal_female_altaic_group:0 "ﻡﻮﻧﺎﺧ"
+ kingdom_feudal_altaic_group:0 "ﺕﺎﻧﺎﺧ"
+ emperor_feudal_male_altaic_group:0 "ﻥﺎﺟﺎﺧ"
+ emperor_feudal_female_altaic_group:0 "ﻥﻮﺗﺎﺧ"
+ empire_feudal_altaic_group:0 "ﺕﺎﻧﺎﺟﺎﺧ"
+
+### Dravidian / Indo-Aryan ###
+# Feudal / Clan / Tribal 
+ baron_feudal_male_dravidian_group:0 "ﻲﺗﺎﺑﺎﻣﺍﺩ"
+ baron_feudal_female_dravidian_group:0 "ﻲﻨﺗﺎﺑﺎﻣﺍﺩ"
+ barony_feudal_dravidian_group:0 "ﺎﻣﺍﺩ"
+ count_feudal_male_dravidian_group:0 "ﺭﻮﻛﺎﺛ"
+ count_feudal_female_dravidian_group:0 "ﻲﻧﺍﺭﻮﻛﺎﺗ"
+ county_feudal_dravidian_group:0 "ﺎﻧﺎﻜﻴﺛ"
+ duke_feudal_male_dravidian_group:0 "ﺎﺟﺭ"
+ duke_feudal_female_dravidian_group:0 "ﻲﻧﺍﺭ"
+ duchy_feudal_dravidian_group:0 "ﺝﺍﺭ"
+ king_feudal_male_dravidian_group:0 "ﺎﺟﺍﺮﻬﻣ"
+ king_feudal_female_dravidian_group:0 "ﻲﻧﺍﺮﻬﻣ"
+ emperor_feudal_male_dravidian_group:0 "ﺕﺍﺮﻣﺎﺳ"
+ emperor_feudal_female_dravidian_group:0 "ﻲﻨﺟﺍﺮﻤﺳ"
+
+
+### OBSOLETE with new division ### West-African ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_west_african_group:0 "ﻱﻮﺠﻴﺗ"
+ baron_feudal_female_west_african_group:0 "ﺍﻮﻐﻴﺗ"
+ count_feudal_male_west_african_group_independent:0 "ﻲﺠﻴﺗﺎﻧﺎﻣﺎﺟ"
+ count_feudal_female_west_african_group_independent:0 "ﺎﺠﻴﺗﺎﻧﺎﻣﺎﺟ"
+ county_feudal_west_african_group:1 "ﺎﻧﺎﻣﺎﺟ"
+ count_feudal_male_west_african_group:0 "ﻦﻳﺭﺎﻓ"
+ count_feudal_female_west_african_group:0 "ﺎﻨﻳﺭﺎﻓ"
+ duke_feudal_male_west_african_group:0 "ﺱﺎﺑﺭﺎﻓ"
+ duke_feudal_female_west_african_group:0 "ﺎﺑﺭﺎﻓ"
+ duchy_feudal_west_african_group:1 "ﺔﻴﻗﻭﺩ"
+ king_feudal_male_west_african_group:1 "ﺎﻣﺎﻓ"
+ king_feudal_female_west_african_group:1 "ﺔﻜﻴﻠﻣ"
+ kingdom_feudal_west_african_group:1 "ﺔﻜﻠﻤﻣ"
+ emperor_feudal_male_west_african_group:0 "ﺎﺴﻧﺎﻣ"
+ emperor_feudal_female_west_african_group:0 "ﺔﻧﺎﻄﻠﺳ"
+ empire_feudal_west_african_group:0 "ﺎﺑﺎﻓﻭﺭﻮﻛ"
+
+
+### Tibetan Group ###
+# Feudal / Clan 
+ count_feudal_male_tibetan_group:0 "ﻮﺑﺎﺠﻧ"
+ count_feudal_female_tibetan_group:0 "ﻮﻣﺎﺠﻧ"
+ county_feudal_tibetan_group:0 "ﺔﻌﻃﺎﻘﻣ"
+ duke_feudal_male_tibetan_group:0 "ﻮﻬﺑﺍﺮﺑ"
+ duke_feudal_female_tibetan_group:0 "ﻼﻴﻫﺎﻣ"
+ duchy_feudal_tibetan_group:0 "ﺔﻴﻗﻭﺩ"
+ king_feudal_male_tibetan_group:0 "ﻮﺒﻟﺎﻴﺟ"
+ king_feudal_female_tibetan_group:0 "ﻮﻤﻠﻴﺟ"
+ kingdom_feudal_tibetan_group:0 "ﻮﺒﻟﺎﻴﺟ"
+ emperor_feudal_male_tibetan_group:0 "ﻮﺒﻨﻴﺴﺗ"
+ emperor_feudal_female_tibetan_group:0 "ﻲﻧﺍﺮﻬﻣ"
+ empire_feudal_tibetan_group:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+
+ ### Iberian ###
+ # Clan
+ baron_clan_male_iberian_group:0 "$baron_feudal_male_arabic_group$"
+ baron_clan_female_iberian_group:0 "$baron_feudal_female_arabic_group$"
+ barony_clan_iberian_group:0 "$barony_feudal_arabic_group$"
+ count_clan_male_iberian_group:0 "$count_feudal_male_arabic_group$"
+ count_clan_female_iberian_group:0 "$count_feudal_female_arabic_group$"
+ county_clan_iberian_group:0 "$county_feudal_arabic_group$"
+ duke_clan_male_iberian_group:0 "$duke_feudal_male_arabic_group$"
+ duke_clan_female_iberian_group:0 "$duke_feudal_female_arabic_group$"
+ duchy_clan_iberian_group:0 "$duchy_feudal_arabic_group$"
+ king_clan_male_iberian_group:0 "$king_feudal_male_arabic_group$"
+ king_clan_female_iberian_group:0 "$king_feudal_female_arabic_group$"
+ kingdom_clan_iberian_group:0 "$kingdom_feudal_arabic_group$"
+ emperor_clan_male_iberian_group:0 "$emperor_feudal_male_arabic_group$"
+ emperor_clan_female_iberian_group:0 "$emperor_feudal_female_arabic_group$"
+ empire_clan_iberian_group:0 "$empire_feudal_arabic_group$
+
+####################################################
+
+#Princes (children of Kings/Emperors
+
+### Roman ### 
+ prince_male_roman:1 "ﺲﺒﻴﺴﻨﻳﺮﺑ"
+ prince_female_roman:1 "ﺃﺪﺒﻤﻟﺍ"
+ prince_male_roman_empire:0 "ﺮﺼﻴﻗ"
+ prince_female_roman_empire:1 "ﺔﻳﺮﺼﻴﻗ"
+
+### Iberian ### 
+ prince_male_iberian_group:0 "ﻲﺘﻧﺎﻔﻧﺇ"
+ prince_female_iberian_group:0 "ﻲﻟﺎﻐﺗﺮﺑ ﻭﺃ ﻲﻧﺎﺒﺳﺃ ﻚﻠﻣ ﺔﻨﺑﺃ"
+ prince_male_iberian_group_empire:0 "ﻲﺘﻧﺎﻔﻧﺇ"
+ prince_female_iberian_group_empire:0 "ﻲﻟﺎﻐﺗﺮﺑ ﻭﺃ ﻲﻧﺎﺒﺳﺃ ﻚﻠﻣ ﺔﻨﺑﺃ"
+
+### Iranian ### 
+ prince_male_iranian_group:0 "ﺓﺩﺍﺰﻬﺷ"
+ prince_female_iranian_group:0 "ﺖﺧﻭﺪﻬﺷ"
+ prince_male_iranian_group_empire:0 "ﺓﺩﺍﺰﻬﺷ"
+ prince_female_iranian_group_empire:0 "ﺖﺧﻭﺪﻬﺷ"
+
+### Dravidian / Indo-Aryan ### 
+ prince_male_dravidian_group:0 "ﺭﺎﻣﻮﻜﺟﺍﺭ"
+ prince_female_dravidian_group:0 "ﻱﺭﺎﻣﻮﻜﺟﺍﺭ"
+ prince_male_dravidian_group_empire:0 "ﺭﺎﻣﻮﻜﺟﺍﺭ"
+ prince_female_dravidian_group_empire:0 "ﻱﺭﺎﻣﻮﻜﺟﺍﺭ"
+
+## Imperial Prince ##
+ prince_empire:0 "ﺮﻴﻣﺃ"
+ princess_empire:0 "ﺓﺮﻴﻣﺃ"
+
+####################################################
+#Special titles
+ ecumenical_patriarch:0 "ﻲﻧﻮﻜﺴﻤﻟﺍ ﻙﺮﻳﺮﻄﺒﻟﺍ"
+ ecumenical_matriarch:0 "ﻲﻧﻮﻜﺴﻤﻟﺍ ﻙﺮﻳﺮﻄﺒﻟﺍ"
+ caliph:0 "ﺔﻔﻴﻠﺨﻟﺍ"
+ archduke:0 "ﻕﻭﺪﻴﺷﺭﻷﺍ"
+ archduchess:0 "ﺔﻗﻭﺪﻴﺷﺭﻷﺍ"
+ archduchy:0 "ﺔﻴﻗﻭﺪﻴﺷﺭﻷﺍ"
+ title_prince:0 "ﺮﻴﻣﺃ"
+ title_princess:0 "ﺓﺮﻴﻣﺃ"
+ title_principality:0 "ﺓﺭﺎﻣﻹﺍ"
+ swiss_confederation:0 "ﺔﻴﻟﺍﺭﺪﻔﻧﻮﻜﻟﺍ"
+ count_feudal_male_e_britannia:0 "ﻱﺰﻴﻠﻜﻧﺍ ﺐﻘﻟ ﻝﺮﻳﻻﺍ"
+ count_feudal_female_e_britannia:0 "ﺔﺴﻴﺘﻧﻮﻜﻟﺍ"
+ county_feudal_e_britannia:0 "ﻡﻭﺪﻟﺮﻳﺇ"
+ count_feudal_male_k_wales:0 "ﺏﺭ"
+ count_feudal_female_k_wales:0 "ﺓﺪﻴﺳ"
+ county_feudal_k_wales:0 "ﺓﺩﺎﻴﺴﻟﺍ"
+ county_isle:0 "ﺓﺮﻳﺰﺟ"
+
+ dauphin_male_french:0 "ﻦﻴﻓﻭﺩ"
+ dauphin_female_french:0 "ﻦﻴﻓﻭﺩ"
+ dauphinate_french:0 "ﺕﺎﻨﻴﻓﻭﺩ"
+
+ king_feudal_male_k_ireland_irish:0 "ﻲﻟﺎﻌﻟﺍ ﻚﻠﻤﻟﺍ"
+ king_feudal_female_k_ireland_irish:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﻜﻠﻤﻟﺍ"
+ kingdom_feudal_k_ireland_irish:0 "ﺔﻴﻟﺎﻌﻟﺍ ﺔﻜﻠﻤﻤﻟﺍ"
+ realm_priest_male:0 "[CHARACTER.GetCouncilTitle]"
+ realm_priest_female:0 "[CHARACTER.GetCouncilTitle]"
+ head_of_faith_male:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
+ head_of_faith_female:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
+
+### Berber ###
+# Feudal / Clan
+ baron_feudal_male_berber_group:0 "ﺐﺋﺎﻧ"
+ baron_feudal_female_berber_group:0 "ﺔﺒﻳﺎﻧ"
+ barony_feudal_berber_group:0 "ﻮﺑ"
+ count_feudal_male_berber_group:0 "ﻲﻟﺍﻭ"
+ count_feudal_female_berber_group:0 "ﺎﻴﻟﺍﻭ"
+ county_feudal_berber_group:0 "ﺔﻳﻻﻭ"
+ count_feudal_male_berber_group_independent:0 "ﺦﻴﺸﻟﺍ"
+ count_feudal_female_berber_group_independent:0 "ﺔﺨﻴﺷ"
+ county_feudal_berber_group_independent:0 "ﺔﺨﻴﺸﻤﻟﺍ"
+ duke_feudal_male_berber_group:0 "ﺮﻴﻣﺃ"
+ duke_feudal_female_berber_group:0 "ﺓﺮﻴﻣﺃ"
+ duchy_feudal_berber_group:0 "ﺓﺭﺎﻣﻹﺍ"
+ king_feudal_male_berber_group:0 "ﺀﺍﺮﻣﻷﺍ ﺮﻴﻣﺃ"
+ king_feudal_female_berber_group:0 "ﺀﺍﺮﻣﻻﺍ ﻩﺮﻴﻣﺍ"
+ kingdom_feudal_berber_group:0 "ﻯﺮﺒﻜﻟﺍ ﺓﺭﺎﻣﻹﺍ"
+ emperor_feudal_male_berber_group:0 "ﻙﻮﻠﻤﻟﺍ ﻚﻟﺎﻣ"
+ emperor_feudal_female_berber_group:0 "ﻙﻮﻠﻤﻟﺍ ﺔﻜﻴﻠﻣ"
+ empire_feudal_berber_group:0 "ﺔﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+# Tribal 
+ baron_tribal_male_berber_group:0 "ﺲﻴﺋﺭ"
+ baron_tribal_female_berber_group:0 "ﺔﺴﻴﺋﺭ"
+ count_tribal_male_berber_group:0 "ﺦﻴﺸﻟﺍ"
+ count_tribal_female_berber_group:0 "ﺔﺨﻴﺷ"
+ county_tribal_berber_group:0 "ﺔﺨﻴﺸﻤﻟﺍ"
+
+
+### Sahelian ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_sahelian_group:0 "ﻭﺭﻮﻫ"
+ baron_feudal_female_sahelian_group:0 "ﺔﻋﺎﺳ"
+ count_feudal_male_sahelian_group:0 "ﻡﻮﺠﻴﺒﻳﺩ"
+ count_feudal_female_sahelian_group:0 "ﺎﻣﻮﺠﻴﺒﻳﺩ"
+ duke_feudal_male_sahelian_group:0 "ﻡﻮﺟﺎﻴﻧﺎﻴﻧ"
+ duke_feudal_female_sahelian_group:0 "ﺎﻣﻮﺟﺎﻴﻧﺎﻴﻧ"
+ king_feudal_male_sahelian_group:0 "ﻥﺎﺟﺎﻣ"
+ king_feudal_female_sahelian_group:0 "ﺎﻏﺎﻣ"
+ emperor_feudal_male_sahelian_group:0 "ﺎﻏﺎﻣ ﺎﻳﺎﻛ"
+ emperor_feudal_female_sahelian_group:0 "ﺎﻏﺎﻣ ﺎﻳﺎﻛ"
+
+### Senegambian group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_senegambian_group:0 "ﻱﻮﺠﻴﺗ"
+ baron_feudal_female_senegambian_group:0 "ﺍﻮﻐﻴﺗ"
+ count_feudal_male_senegambian_group:0 "ﺮﻴﺟ"
+ count_feudal_female_senegambian_group:0 "ﺍﺮﻴﺟ"
+ duke_feudal_male_senegambian_group:0 "ﻞﻣﺍﺩ"
+ duke_feudal_female_senegambian_group:0 "ﻼﻴﻣﺍﺩ"
+ king_feudal_male_senegambian_group:0 "ﻮﺟﺎﺒﻤﻴﺳ"
+ king_feudal_female_senegambian_group:0 "ﺎﺟﺎﺒﻤﻴﺳ"
+ emperor_feudal_male_senegambian_group:0 "ﺎﻣﻮﺳ"
+ emperor_feudal_female_senegambian_group:0 "ﺎﻣﻮﺳ"
+
+### Yoruba group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_yoruba_group:0 "ﺎﻣﺍﺯﻭﺍ"
+ baron_feudal_female_yoruba_group:0 "ﺎﻣﺍﺯﻭﺍ"
+ count_feudal_male_yoruba_group:0 "ﺎﻧﺎﻧ"
+ count_feudal_female_yoruba_group:0 "ﺎﻧﺎﻧ"
+ duke_feudal_male_yoruba_group:0 "ﺍﺩﺎﺑﺎﺟﺃ"
+ duke_feudal_female_yoruba_group:0 "ﺍﺩﺎﺑﺎﺟﺃ"
+ king_feudal_male_yoruba_group:0 "ﺎﺑﻭﺃ"
+ king_feudal_female_yoruba_group:0 "ﺎﺑﻭﺃ"
+ emperor_feudal_male_yoruba_group:0 "ﻦﻴﻓﻻﺃ"
+ emperor_feudal_female_yoruba_group:0 "ﻦﻴﻓﻻﺃ"
+
+### Somalian group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_somalian_group:0 "ﻞﻴﻘﻋ"
+ baron_feudal_female_somalian_group:0 "ﺩﻼﻴﻛﺍ"
+ count_feudal_male_somalian_group:0 "ﺓﺮﻳﺰﺟ"
+ count_feudal_female_somalian_group:0 "ﺓﺮﻳﺰﺟ"
+ duke_feudal_male_somalian_group:0 "ﺩﺍﺮﻴﺟ"
+ duke_feudal_female_somalian_group:0 "ﺩﺍﺩﺍﺮﻴﺟ"
+ king_tribal_male_somalian_group:0 "ﺯﺎﻏﻭﺃ"
+ king_tribal_female_somalian_group:0 "ﺩﺍﺯﺎﻏﻭﺃ"
+ king_feudal_male_somalian_group:0 "ﻥﺍﺪﻟﻮﺳ"
+ king_feudal_female_somalian_group:0 "ﺩﺎﻧﺍﺪﻟﻮﺳ"
+ emperor_feudal_male_somalian_group:0 "ﺭﻮﻘﺑ"
+ emperor_feudal_female_somalian_group:0 "ﺩﺍﺮﻘﺑ"
+
+### Central African group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_central_african_group:0 "ﻲﺒﻳﺪﻴﺸﺗ ﺎﻤﻴﺷ"
+ baron_feudal_female_central_african_group:0 "ﻲﺒﻳﺪﻴﺸﺗ ﺎﻤﻴﺷ"
+ count_feudal_male_central_african_group:0 "ﺎﻤﻴﺷ"
+ count_feudal_female_central_african_group:0 "ﺎﻤﻴﺷ"
+ duke_feudal_male_central_african_group:0 "ﺎﻤﻳﺩﻻﺎﺟ"
+ duke_feudal_female_central_african_group:0 "ﺎﻤﻳﺩﻻﺎﺟ"
+ king_feudal_male_central_african_group:0 "ﻱﺎﻣ"
+ king_feudal_female_central_african_group:0 "ﻮﺴﻣﻮﺟ"
+ emperor_feudal_male_central_african_group:0 "ﻥﺎﻄﻠﺳ"
+ emperor_feudal_female_central_african_group:0 "ﺔﻧﺎﻄﻠﺳ"
+
+### Akan group ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_akan_group:0 "ﻥﺎﺗﺎﺑﻭﺃ"
+ baron_feudal_female_akan_group:0 "ﺎﻧﺎﺗﺎﺑﻭﺃ"
+ count_feudal_male_akan_group:0 "ﺎﻧﺎﻧ"
+ count_feudal_female_akan_group:0 "ﺎﻧﺎﻧ"
+ duke_feudal_male_akan_group:0 "ﻦﻴﻬﻨﻴﺘﻧﻭﺮﻛ"
+ duke_feudal_female_akan_group:0 "ﺎﻨﻴﺘﻧﻭﺮﻛ"
+ king_feudal_male_akan_group:0 "ﻦﻴﻬﻧﺎﻣﻭﺃ"
+ king_feudal_female_akan_group:0 "ﺎﻨﻬﻧﺎﻤﻋ"
+ emperor_feudal_male_akan_group:0 "ﻲﻨﻴﻬﻧﺎﻛﺃ"
+ emperor_feudal_female_akan_group:0 "ﺎﻨﻴﻬﻧﺎﻛﺍ"
+
+### Beja ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_beja:0 "ﺓﺪﻤﻋ"
+ baron_feudal_female_beja:0 "ﺓﺪﻤﻋ"
+ count_feudal_male_beja:0 "ﺮﻳﺬﻧ"
+ count_feudal_female_beja:0 "ﺓﺮﻴﻈﻧ"
+ duke_feudal_male_beja:0 "ﺮﻴﻣﺃ"
+ duke_feudal_female_beja:0 "ﺓﺮﻴﻣﺃ"
+ king_feudal_male_beja:0 "ﻚﻟﺎﻣ"
+ king_feudal_female_beja:0 "ﺔﻜﻴﻠﻣ"
+ emperor_feudal_male_beja:0 "ﻥﺎﻄﻠﺳ"
+ emperor_feudal_female_beja:0 "ﺔﻧﺎﻄﻠﺳ"
+
+### Ethiopian ###
+# Feudal / Clan / Tribal
+ count_feudal_male_ethiopian:0 "ﺱار"
+ count_feudal_female_ethiopian:0 "ﺖﻳﺭﺰﻳﻭﻭ"
+ duke_feudal_male_ethiopian:0 "ﻦﻴﻔﺴﻣ"
+ duke_feudal_female_ethiopian:0 "ﻭﺮﻳﺯﻭﻭ"
+ king_feudal_male_ethiopian:0 "ﺱﻮﺠﻴﻧ"
+ king_feudal_female_ethiopian:0 "ﺖﺴﻴﺠﻴﻧ"
+ emperor_feudal_male_ethiopian:0 "ﺖﺳﺎﺠﻴﻧ ﺎﺳﻮﺠﻴﻧ"
+ emperor_feudal_female_ethiopian:0 "ﺞﻴﺘﻳﺇ"
+
+### Hausa ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_hausan:0 "ﺍﺪﻴﺟ"
+ baron_feudal_female_hausan:0 "ﺍﺪﻴﺟ"
+ count_feudal_male_hausan:0 "ﻱﺩﺎﻏ ﻦﻴﻛﺭﺎﺳ"
+ count_feudal_female_hausan:0 "ﻱﺩﺎﻏ ﺎﻨﻴﻛﺭﺎﺳ"
+ duke_feudal_male_hausan:0 "ﺎﻤﻳﺩﻻﺎﺟ"
+ duke_feudal_female_hausan:0 "ﺎﻴﺟﺎﺟﺎﻣ"
+ king_feudal_male_hausan:0 "ﻲﻛﺭﺎﺳ"
+ king_feudal_female_hausan:0 "ﺎﻴﻛﺭﺎﺳ"
+ emperor_feudal_male_hausan:0 "$emperor$"
+ emperor_feudal_female_hausan:0 "$emperor_female$"
