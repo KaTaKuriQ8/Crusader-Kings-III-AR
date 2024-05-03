@@ -1,0 +1,3 @@
+﻿l_english:
+ letter_opening:0 "[ROOT.Char.GetTitledFirstName] [activity.GetOwner.Custom2('RelationToMe', ROOT.Char)] [activity.GetOwner.Custom2('RelationDescriptor', ROOT.Char)]  ﻰﻟﺍ \n\n"
+ 

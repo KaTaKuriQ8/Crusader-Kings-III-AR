@@ -1,0 +1,19 @@
+﻿l_english:
+ blackmail.0001.t:0 "!ﺯﺍﺰﺘﺑﻻﺍ ﺾﻓﺭ"
+ blackmail.0001.desc:0 "Whether it is a misguided sense of pride, or fear of some greater reprisal, [recipient.GetTitledFirstName] claims that I hold no sway over [recipient.GetHerHim]!"
+ blackmail.0001.a:0 "... ﺓﺪﺣﺍﻭ ﺔﺠﻴﺘﻧ ﻯﻮﺳ ﻙﺎﻨﻫ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻﻭ ، ﺪﻳﺪﻬﺘﻟﺍ ﻢﺗ"
+ blackmail.0001.b:0 ".ﺮﺴﻟﺍ ﺍﺬﻫ ﻦﻋ ﻒﺸﻜﻟﺍ ﻲﻨﻨﻜﻤﻳ ﻻ ﻦﻜﻟ ، ﻚﻟﺬﺑ ﻑﺍﺮﺘﻋﻻﺍ ﻩﺮﻛﺃ"
+
+ blackmail.0002.t:0 "ﺯﺍﺰﺘﺑﺍ"
+ blackmail.0002.desc:0 "[recipient.GetTitledFirstName] has accepted my generous "offer." I now have [recipient.GetHerHim] under my thumb."
+ blackmail.0002.a:0 ".ﺪﻴﺟ ﻞﻜﺸﺑ ﺫﻮﻔﻨﻟﺍ ﻡﺪﺨﺘﺳﺄﺳ"
+
+ blackmail.1001.t:0 "ﻝﻮﻬﺠﻤﻟﺍ ﻦﻣ ﻑﻮﺨﻟﺍ"
+ blackmail.1001.desc:0 "My vassals know nothing about my blackmail, but they have noticed how my victim, [blackmail_target.GetTitledFirstName], acts around me. They have seen the fear that flashes across [blackmail_target.GetHerHis] eyes..."
+ blackmail.1001.a:0 "... ﻲﻨﻣ ﻑﺎﺨﻳ ﻥﺍ !# ﻞﻜﻟﺍ EMP# ﻰﻠﻋ ﺐﺠﻳ"
+ blackmail.1001.b:0 ""!ﺙﺪﺤﻳ ﻪﻴﻓ ﺏﻮﻏﺮﻣ ﺮﻴﻏ ﺀﻲﺷ ﻻ ، ﺎًﻌﻴﻤﺟ ﻢﻜﻟ ﺪﻛﺅﺃ""
+
+ blackmail.1002.t:0 "ﻖﻓﻷﺍ ﻲﻓ ﺡﻮﻠﻳ ﻞﻈﻟﺍ"
+ blackmail.1002.desc:0 "The threat of being exposed is constantly on my mind. [blackmailer.GetTitledFirstName] knows too much about me, and the consequences of refusing any of [blackmailer.GetHerHis] demands are too great to even contemplate.\n\nAm I safe, even if I do?"
+ blackmail.1002.a:0 ".ﻖﻠﻘﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻊﻣ ﻞﻴﻠﻟﺍ ﻲﻓ ﺎﻈﻘﻴﺘﺴﻣ ﻰﻘﺑﺃ"
+ blackmail.1002.b:0 "It will all be fine, [blackmailer.GetFirstNameNoTooltip] told me so!"

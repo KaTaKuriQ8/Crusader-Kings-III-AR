@@ -1,0 +1,5 @@
+﻿l_english:
+ perk_interaction.0002.t:0 "ﻲﺿﺍﺭﺄﺑ ﺔﺒﻟﺎﻄﻣ "
+ perk_interaction.0002.same_faith:0 " [actor.GetFaith.AltPriestTermPlural] ،ﻪﻘﻳﺪﺼﺗ ﻦﻜﻤﻳ ﻻ ﺐﺒﺴﻟ\n ﺀﺎﻋﺩﺍ [actor.GetTitledFirstNamePossessive] ﻰﻠﻋ ﻖﻓﺍﻭ\n![target.GetName] ﺔﺤﺼﻟﺍ ﻦﻣ ﻪﻟ ﺱﺎﺳﺃ ﻻ"
+ perk_interaction.0002.other_faith:0 " ﺍﻮﻨﻠﻋﺃ ﺪﻗ [actor.GetFaith.GetAdjective] ﺔﺳﻭﺎﺴﻗ ﻥﺇ\n ﺍﺬﻬﻟ[actor.GetTitledFirstNamePossessive] ﻢﻫﺪﻴﻳﺄﺗ\n![target.GetName] ﺔﺤﺼﻟﺍ ﻦﻣ ﻪﻟ ﺱﺎﺳﺃ ﻻ ﻱﺬﻟﺍ ﺀﺎﻋﺩﻻﺍ"
+ perk_interaction.0002.a:1 "...ﺖﻗﻮﻟﺍ ﻦﻴﺤﻳ ﺎﻣﺪﻨﻋ [actor.GetHerHim] ﻱﺭﺄﺳ"

@@ -1,0 +1,34 @@
+﻿l_english:
+ marriage_interaction.0001.desc.start:0 "[ROOT.Char.GetFullName] ﻰﻟﺇ\n\n ﻒﻗﻮﺗﺃ ﻥﺃ ﺕﺭﺮﻗ ،ﺔﻴﻧﺄﺘﻣ ﺔﺳﺍﺭﺩ ﺪﻌﺑ"
+ marriage_interaction.0001.desc.liegetoliege:0 "[('RelationToMe', SCOPE.sC('refting_betrothed')actor.Custom2] ﻦﻴﺑ ﺐﻄﺨﻟﺍ\n ﻭ ،[rejecting_betrothed.GetTitledFirstName]\n[rejected_betrothed.GetTitledFirstName] ،[('RelationToMe', SCOPE.sC('refted_betrothed')ROOT.Char.Custom2]"
+ marriage_interaction.0001.desc.betrothedtobetrothed:0 ".ﺔﺑﻮﻄﺧ"
+ marriage_interaction.0001.desc.betrothedtoliege:0 " ﻊﻣ ﻲﺘﺒﻴﻄﺧ\n[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('refted_betrothed'))]، [rejected_betrothed.GetTitledFirstName]"
+ marriage_interaction.0001.desc.liegetobetrothed:0 "ﻊﻣ ﻚﺘﺑﻮﻄﺧ\n [actor.Custom2('RelationToMe', SCOPE.sC('refting_betrothed'))]، [rejecting_betrothed.GetTitledFirstName] "
+ marriage_interaction.0001.desc.end:0 " ﻱﺭﺍﺮﻗ ﺐﺒﺴﺘﻴﺳ ﺝﺎﻋﺯﺇ ﻱﺃ ﻦﻋ ﺭﺬﺘﻋﺃ\n.ﺎﻨﺘﻠﺋﺎﻋ ﻦﻴﺑ ﺕﺎﻗﻼﻌﻟﺎﺑ ﺭﺍﺮﺿﻹﺍ ﻡﺪﻋ ﻲﻓ"
+ marriage_interaction.0001.a:0 "...ﺔﺒﻴﻫﺭ ﺔﻧﺎﻫﺇ"
+
+ marriage_interaction.0002.desc:0 " ﻰﻟﺇ\n[actor.Custom2('RelationToMe', SCOPE. C('refting_betrothed'))] [rejecting_betrothed.GetFullName]،\n ﺝﺍﻭﺰﻟﺍ ﻥﺃ ﻩﺩﺎﻔﻣ ﺝﺎﺘﻨﺘﺳﺍ ﻰﻟﺇ ﺖﻠﺻﻮﺗ ﺪﻘﻟ\n [rejected_betrothed.GetTitledFirstName] ﻚﻨﻣ ﺮﻈﺘﻨﻤﻟﺍ\n .ﺎﻨﺗﺮﺳﻷ ﻭﺃ ﻚﺴﻔﻧ ﺔﺤﻠﺼﻣ ﻲﻓ ﺲﻴﻟ\n ﺔﺑﻮﻄﺨﻟﺍ ﺮﺴﻛ ﺕﺭﺮﻗ ﺍﺬﻟ" #<TO_REMOVE>
+ marriage_interaction.0002.a:0 ".ﻒﺳﻸﻟ" #<TO_REMOVE>
+
+#Timeout notification when you are in charge of the betrothal of someone else
+ marriage_interaction.0004.t:0 "ﻝﻮﺑﺬﻠﻟ ﺖﻛﺮﺗ ﺔﺒﻄﺧ"
+ marriage_interaction.0004.desc:0 " ﻥﺎﻛ ﺀﻲﺷ ﻞﻛﻭ ،ﺕﺎﻗﺎﻔﺗﻻﺍ ﻡﺍﺮﺑﺇ ﻢﺗ\n ﻡﺍﺮﺑﻹ ﺖﻗﻮﻟﺍ ﻥﺎﺣ ﻥﺃ ﻰﻟﺇ ًﺎﻤﻴﻠﺳ\n ﻦﻳﺃﺰﺠﻟﺍ ﻼﻛ ﻥﺃ ﻭﺪﺒﻳ ﺚﻴﺣﻭ .ﺝﺍﻭﺰﻟﺍ\nﺐﻴﺗﺮﺘﻟﺍ ﺍﺬﻫ ﻥﺄﺑ ﺮﻫﺎﻈﺘﻟﺎﺑ ﻥﺎﻴﻔﺘﻜﻳ\n ﻞﻤﺘﺤﻤﻟﺍ ﺮﻴﻏ ﻦﻣ ﻭﺪﺒﻳ ،ﻂﻗ ﺬﺨﺘﻳ ﻢﻟ\n ﻭ [GetTitledFirstName.betrothed_1] ﺝﻭﺰﺘﻳ ﻥﺃ\n.ﻕﻼﻃﻹﺍ ﻰﻠﻋ [GetTitledFirstName.betrothed_2]"
+ marriage_interaction.0004.a:0 ".ﻞﻀﻓﻷﺍ ﻞﺟﺃ ﻦﻣ ﺍﺬﻫ"
+
+#Timeout notification for a betrothed when someone else is in charge of marrying them
+ marriage_interaction.0005.t:0 "ﻝﻮﺑﺬﻠﻟ ﺖﻛﺮﺗ ﺔﺒﻄﺧ"
+ marriage_interaction.0005.desc:0 " ﻂﻴﻄﺨﺘﻟﺍﻭ ﺽﻭﺎﻔﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n ﺍﺪﺑﺃ ﻥﻮﻛﺃ ﻦﻟ ﻲﻨﻧﺃ ﻭﺪﺒﻳ ،ﻖﻴﻗﺪﻟﺍ\n ،ﻲﺘﺒﻴﻄﺧ ﻦﻣ ﺔﺟﻭﺰﺘﻣ\nﻰﻠﻋﻭ .[other_betrothed.GetTitledFirstName]\nﺀﺎﻓﻮﻠﻟ ﻥﺎﺣ ﺪﻗ ﺖﻗﻮﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ\n ﻱﺃ ﺬﺨﺘﻳ ﻢﻟ ،ﻪﺑ ﺩﻮﻋﻮﻤﻟﺍ ﺝﺍﻭﺰﻟﺎﺑ \nﻕﺎﻔﺗﻻﺍ ﻡﺍﺮﺑﻹ ﺓﻮﻄﺧ ﻦﻴﻓﺮﻄﻟﺍ ﻦﻣ"
+ marriage_interaction.0005.a:0 " ﻥﻮﻛﺄﺳ ﻱﺬﻟﺍ ﻦﻣ ﻑﺮﻌﻳ ﻦﻣ\n.ﻥﻵﺍ ﻰﺘﺣ ﺎﺟﻭﺰﺘﻣ"
+
+#Timeout notification for someone in charge of their own betrothal
+ marriage_interaction.0006.t:0 "ﻝﻮﺑﺬﻠﻟ ﺖﻛﺮﺗ ﺔﺒﻄﺧ"
+ marriage_interaction.0006.desc:0 " ﻂﻴﻄﺨﺘﻟﺍﻭ ﺽﻭﺎﻔﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n ،ﻲﺘﻴﻄﺧ ﺝﻭﺰﺗﺃ ﻦﻟ ﻲﻨﻧﺃ ﻭﺪﺒﻳ ،ﻖﻴﻗﺪﻟﺍ\n .[other_betrothed.GetTitledFirstName]\n ﻥﺎﺣ ﺪﻗ ﺖﻗﻮﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ\n ﺬﺨﺘﻳ ﻢﻟ ،ﻪﺑ ﺩﻮﻋﻮﻤﻟﺍ ﺝﺍﻭﺰﻟﺎﺑ ﺀﺎﻓﻮﻠﻟ\nﻕﺎﻔﺗﻻﺍ ﻡﺍﺮﺑﻹ ﺓﻮﻄﺧ ﻦﻴﻓﺮﻄﻟﺍ ﻦﻣ ﻱﺃ"
+ marriage_interaction.0006.a:0 "؟ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ، ﺝﻭﺰﺗﺄﺳ ﻱﺬﻟﺍ ﻦﻣ"
+
+ marriage_interaction.0008.t:0 "ﻥﺎﻤﻳﻹﺍ ﺎﻫﺮﺴﻛ ﺔﺒﻄﺧ"
+ marriage_interaction.0008.desc:0 " ﺖﺳﺮﻛ [betrothed_clergy.GetTitledFirstName] \n ﺓﺎﻴﺤﻟﺍ [betrothed_clergy.GetHerHis]\n - [betrothed_clergy.GetFaith.HighGodName] ـﻟ\n ﻂﻴﻄﺨﺘﻟﺍﻭ ﺽﻭﺎﻔﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n [betrothed_clergy.GetSheHe] ﻥﺃ ﻭﺪﺒﻳ ،ﻖﻴﻗﺪﻟﺍ\n .[GetTitledFirstName.betrothed_2] ًﺍﺪﺑﺃ ﺝﻭﺰﺘﻳ ﻦﻟ"
+ marriage_interaction.0008.a:0 ".ﻒﺳﻸﻟ"
+
+ marriage_interaction.0009.desc_clergy:0 " ﻲﺗﺎﻴﺣ ﺖﺳﺮﻛ ﻥﺃ ﺪﻌﺑ ﻥﻵﺍ\n [betrothed_clergy.GetFaith.HighGodName] ﻝ\n ﻙﺮﺗﺃ ﻥﺃ ﺐﺠﻳﻭ ﺝﺍﻭﺰﻠﻟ ﻉﻮﻨﻤﻣ ﺎﻧﺃ\n [GetTitledFirstName.betrothed_2] ﻲﺘﺒﻄﺧ\n[GetSheHe.betrothed_2] ﻲﻨﺤﻣﺎﺴﻳ ﻥﺃ ﻞﻣﺁ .ﻲﻔﻠﺧ"
+ marriage_interaction.0009.desc:0 " ﺖﺳﺮﻛ [betrothed_clergy.GetTitledFirstName]\n [betrothed_clergy.GetHerHis] ﺓﺎﻴﺤﻟﺍ\n[betrothed_clergy.GetFaith.HighGodName] ـﻟ\n ﻂﻴﻄﺨﺘﻟﺍﻭ ﺽﻭﺎﻔﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ\n .ﻲﺘﺒﻴﻄﺧ ﺝﻭﺰﺗﺃ ﻦﻟ ﻲﻨﻧﺃ ﻭﺪﺒﻳ ،ﻖﻴﻗﺪﻟﺍ"
+ marriage_interaction.0009.a:0 ".ﻒﺳﻸﻟ"
