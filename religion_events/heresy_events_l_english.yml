@@ -1,0 +1,18 @@
+﻿l_english:
+ heresy.0010.t:2 "Heresy: [heretic_title.GetNameNoTierNoTooltip] ﻲﻓ [heretic_faith.GetAdherentNamePluralNoTooltip]"
+ heresy.0010.desc:1 "[heretic_title.GetNameNoTier] ﻦﻣ [heretic_ruler.GetTitledFirstName]\n[heretic_ruler.GetHerHis] ﻭ [heretic_ruler.GetSheHe] ﻥﺃ ﻢﻟﺎﻌﻠﻟ ﻦﻠﻋﺃ\n[heretic_faith.GetName] ﻰﻟﺇ ﺖﻟﻮﺤﺗ ﺪﻗ "
+ heresy.0010.desc.nonexistant:1 "\n\n ﻢﻴﻟﺎﻌﺗ ﻦﻣ ﻢﻬﻠﻣﺃ ﺏﺎﺧ ﻥﺃ ﺪﻌﺑ\n ﻢﻟ ، [origin_faith.GetAdjective] ﺔﻨﻬﻛ\n [heretic_title.GetNameNoTierNoTooltip] ﺀﻼﺒﻧ ﺪﻌﻳ\n.ﻦﻴﻗﺩﺎﺻﻭ ﻦﻴﺤﻟﺎﺻ ﻦﻳﺪﻟﺍ ﻝﺎﺟﺭ ﻥﻭﺮﺒﺘﻌﻳ\n، [heretic_faith.GetAdherentNamePluralNoTooltip] ﻢﻬﺘﻔﺼﺑ \nﻖﻓﺍﻮﺘﻳ ﺪﻳﺪﺠﻟﺍ ﻢﻬﻧﺎﻤﻳﺇ ﻥﺃ ﻥﻭﺪﻘﺘﻌﻳ ﻢﻬﻧﺈﻓ \n [heretic_faith.HighGodName] ﺓﺩﺍﺭﺇ ﻊﻣ ﺢﻴﺤﺻ ﻞﻜﺸﺑ \nﻢﻬﺗﺎﺴﺳﺆﻣ ﻦﻋ ﻥﻭﺪﻌﺘﺒﻳ ﻢﻬﻧﺃﻭ\n.ﺔﻘﺑﺎﺴﻟﺍ ﺔﻴﻨﻳﺪﻟﺍ "
+ heresy.0010.desc.exists:1 "\n\n ﺔﻨﻬﻜﻟﺍ ﻢﻴﻟﺎﻌﺗ ﻦﻣ ﻢﻬﻠﻣﺃ ﺏﺎﺧ ﻥﺃ ﺪﻌﺑ\nﺪﻌﻳ ﻢﻟ ، [origin_faith.GetAdjective]\n ﻥﻭﺮﺒﺘﻌﻳ [heretic_title.GetNameNoTierNoTooltip] ﺀﻼﺒﻧ \nﻦﻴﻴﻘﻴﻘﺣﻭ ﻦﻴﺤﻟﺎﺻ ﻦﻳﺪﻟﺍ ﻝﺎﺟﺭ\n ﺔﻴﻨﻳﺪﻟﺍ ﻢﻬﺗﺎﺴﺳﺆﻣ ﻦﻋ ﻥﻭﺪﻌﺘﺒﻳﻭ \nًﻻﺪﺑ ﻢﻬﺴﻔﻧﺄﺑ ﻥﻮﺣﺮﺼﻳ ﻢﻬﻧﺇ .ﺔﻘﺑﺎﺴﻟﺍ\n، [heretic_faith.GetAdherentNamePluralNoTooltip] ﻚﻟﺫ ﻦﻣ \nﻖﻓﺍﻮﺘﺗ ﻢﻫﺪﺋﺎﻘﻋ ﻥﺃ ﻥﻭﺮﻌﺸﻳ ﻦﻳﺬﻟﺍ \n [heretic_faith.HighGodNamePossessive] ﻊﻣ ﻞﻀﻓﺃ ﻞﻜﺸﺑ "
+ heresy.0010.desc.resurgent:1 "\n\nﻢﻴﻟﺎﻌﺘﺑ ﻝﺎﻣﻶﻟ ﺔﺒﻴﺨﻣ ﺖﺤﺒﺻﺃ ﻥﺃ ﺪﻌﺑ\nﺀﻼﺒﻨﻟﺍ ، ﺔﺳﻭﺎﺴﻘﻟﺍ [origin_faith.GetAdjective]\n ﻢﻟ [heretic_title.GetNameNoTierNoTooltip] ﻲﻓ\n ﻦﻴﺤﻴﺤﺻ ﻦﻳﺪﻟﺍ ﻝﺎﺟﺭ ﻥﻭﺮﺒﺘﻌﻳ ﺍﻭﺩﻮﻌﻳ\n ﺀﻼﺒﻧ ﺩﺎﻋﺃ ،ﻚﻟﺬﻟ ﺔﺠﻴﺘﻧﻭ .ﻦﻴﻗﺩﺎﺻﻭ\n ﺀﺎﻴﺣﺇ [heretic_title.GetNameNoTierNoTooltip]\n[heretic_faith.GetAdherentNamePluralNoTooltip] ﻢﻴﻟﺎﻌﺗ\nﻥﺄﺑ ﻥﻭﺮﻌﺸﻳ ﻦﻳﺬﻟﺍ ،ﺎﻬﻨﻋ ﻰﻠﺨﺘﻤﻟﺍ\n ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻖﻓﺍﻮﺘﺗ ﻢﻫﺪﺋﺎﻘﻋ \n[heretic_faith.HighGodNamePossessive] ﻊﻣ"
+ heresy.0010.tt.custom:0 "[heretic_title.GetName] ﻲﻓ ﺮﻬﻈﻳ [heretic_faith.GetName|V]"
+ heresy.0010.a.new_heresy:0 "!ﺍﺎﻨﻧﺎﻤﻳﺇ ﻦﻣ ﺔﻳﻮﺘﻠﻤﻟﺍ ﺔﻳﺮﺨﺴﻟﺍ ﻩﺬﻫ ﺎﻣ"
+ heresy.0010.a.existing_heresy:0 "!ﺀﺍﺮﻘﺤﻟﺍ ﺔﻗﺩﺎﻧﺰﻟﺍ ﺀﻻﺆﻫ ﻢﻫﺩﺎﻗ ﺪﻘﻟ"
+ heresy.0010.a.astray_faith:0 "؟ﺀﺍﺪﻌﺳ ﻢﻬﻠﻌﺠﻳ ﻪﻧﺃ ﺪﻘﺘﻋﺃ ﻲﻨﻜﻟ ، ﻚﻟﺫ ﻢﻬﻓﺃ ﻻ"
+ heresy.0010.a.same_faith:0 "!ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺭﻮﻨﻟﺍ ﻥﻭﺮﻴﺳ ﻢﻬﻧﺃ ﻑﺮﻋﺃ ﺖﻨﻛ"
+ heresy.0010.b:0 "...ﺓﺪﻴﺠﻟﺍ ﻁﺎﻘﻨﻟﺍ ﺾﻌﺑ ﻢﻬﻳﺪﻟ ، ﻢﻠﻌﺗ ﺎﻤﻛ"
+ heresy.0010.notification.title:0 "ﺓﺪﻳﺪﺟ ﺔﻴﻨﻳﺩ ﺔﻛﺮﺣ"
+ heresy.0010.notification:0 " ﺲﺳﺃ [heretic_ruler.GetFullName]\n!ﺓﺪﻳﺪﺟ [heretic_faith.GetAdjective] ﺔﻛﺮﺣ"
+
+ heresy.0011.notification.heresy:1 "[convert_ruler.Custom2('HierarchicalStatus', me)] Embraces Heresy: [convert_ruler.GetShortUINameNoTooltip]"
+ heresy.0011.notification.same_faith:1 "[convert_ruler.Custom2('HierarchicalStatus', me)] Embraces the True Faith: [convert_ruler.GetShortUINameNoTooltip]"
+ heresy.0011.notification.other:1 "[convert_ruler.Custom2('HierarchicalStatus', me)] Changes Faith: [convert_ruler.GetShortUINameNoTooltip]"
