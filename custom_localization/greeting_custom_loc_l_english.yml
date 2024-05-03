@@ -1,0 +1,66 @@
+﻿l_english:
+ greeting_lover_object:0 "[second.GetTitledFirstName|U], my [ROOT.Char.Custom2('LoverSeductionObject', SCOPE.sC('second'))],"
+ greeting_lover_fallback:0 "[second.GetTitledFirstName|U], my dear [second.Custom('LoverPetName')],"
+
+ greeting_liege_positive:1 "[ROOT.Char.Custom2('GreetingToLiegePositive', second)]\n"
+ greeting_liege_negative:1 "[ROOT.Char.Custom2('GreetingToLiegeNegative', second)]\n"
+ greeting_liege_liked:0 " , ﻱﻻﻮﻣ [('second.Custom('ComplimentAdjective] ، ﻲﺗﺎﻴﺤﺗ\n"
+ greeting_liege_dislike:0 "، ﻱﻻﻮﻣ ﻰﻟﺇ\n"
+ greeting_liege_fallback:0 "، ﻱﻻﻮﻣ ﺎﻳ ﻲﺗﺎﻴﺤﺗ\n"
+
+ greeting_vassal_positive:1 "[ROOT.Char.Custom2('GreetingToVassalPositive', second)]\n"
+ greeting_vassal_negative:1 "[ROOT.Char.Custom2('GreetingToVassalNegative', second)]\n"
+ greeting_vassal_relative_liked:1 "[ROOT.Char.Custom2('GreetingToFamily', second)]\n"
+ greeting_vassal_liked:0 "، ﻊﺑﺎﺘﻟﺍ [second.Custom('ComplimentAdjective')] ، ﻲﺗﺎﻴﺤﺗ\n"
+ greeting_vassal_dislike:1 "، ﻊﺑﺎﺘﻟﺍ [second.Custom('ComplimentAdjective')] ﻰﻟﺇ\n"
+ greeting_vassal_fallback:0 "، ﻲﻌﺑﺎﺗ ﻰﻟﺇ\n"
+
+ greeting_family_positive:1 "[ROOT.Char.Custom2('GreetingToFamilyPositive', second)]\n"
+ greeting_family_negative:1 "[ROOT.Char.Custom2('GreetingToFamilyNegative', second)]\n"
+ greeting_family_liked:1 "[ROOT.Char.Custom2('RelationToMeShort', second)], ﻱﺰﻳﺰﻋ\n"
+ greeting_family_fallback:1 "[ROOT.Char.Custom2('RelationToMeShort', second)], ﻲﺗﺎﻴﺤﺗ\n"
+  
+ greeting_foreign_ruler:1 "[second.GetNameNoTooltip],ﻲﺗﺎﻴﺤﺗ\n"
+ greeting_foreign_ruler_negative:1 "[second.GetTitledFirstNameNoTooltip], [second.Custom('InsultAdjective')],ﻰﻟﺍ\n"
+ greeting_foreign_ruler_positive:1 "[second.Custom('ComplimentAdjective')][second.GetNameNoTooltip] ﻰﻟﺍ\n"
+
+ greeting_generic:1 "[second.GetNameNoTooltip],ﻲﺗﺎﻴﺤﺗ\n"
+ greeting_generic_negative:0 "[second.GetFirstNameNoTooltip],[('second.Custom('InsultAdjective],[second.GetFirstNameNoTooltip],ﻰﻟﺍ\n"
+ greeting_generic_positive:0 "[second.GetFirstNameNoTooltip],[('second.Custom('ComplimentAdjective],ﻰﻟﺍ\n"
+
+ greeting_appropriate_positive_liege:1 "[ROOT.Char.Custom2('GreetingToLiegePositive', second)]\n"
+ greeting_appropriate_positive_vassal:1 "[ROOT.Char.Custom2('GreetingToVassalPositive', second)]\n"
+ greeting_appropriate_positive_family:1 "[ROOT.Char.Custom2('GreetingToFamilyPositive', second)]\n"
+ greeting_appropriate_positive_foreign_ruler:1 "[ROOT.Char.Custom2('GreetingToForeignRulerPositive', second)]\n"
+
+ greeting_appropriate_lover:1 "[ROOT.Char.Custom2('GreetingToLover', second)]\n"
+ greeting_appropriate_liege:1 "[ROOT.Char.Custom2('GreetingToLiege', second)]\n"
+ greeting_appropriate_vassal:1 "[ROOT.Char.Custom2('GreetingToVassal', second)]\n"
+ greeting_appropriate_family:1 "[ROOT.Char.Custom2('GreetingToFamily', second)]\n"
+ greeting_appropriate_foreign_ruler:1 "[ROOT.Char.Custom2('GreetingToForeignRuler', second)]\n"
+ greeting_appropriate_fallback:1 "[ROOT.Char.Custom2('GreetingToGeneric', second)]\n"
+
+ greeting_appropriate_negative_liege:1 "[ROOT.Char.Custom2('GreetingToLiegeNegative', second)]\n"
+ greeting_appropriate_negative_vassal:1 "[ROOT.Char.Custom2('GreetingToVassalNegative', second)]\n"
+ greeting_appropriate_negative_family:1 "[ROOT.Char.Custom2('GreetingToFamilyNegative', second)]\n"
+ greeting_appropriate_negative_foreign_ruler:1 "[ROOT.Char.Custom2('GreetingToForeignRulerNegative', second)]\n"
+
+
+ greeting_supplimentary.negative:0 "[ROOT.Char.Custom2('NegativeSupplimentaryGreeting', second)]\n"
+ greeting_supplimentary.negative.tales:0 "\n.ﻲﺛﺎﻛ ﻰﻟﺇ ﺍﺪﻨﻟﺮﻳﺃ ﻦﻣ ﺖﻠﻴﻗ ﻚﻣﺎﺛﺁ ﺕﺎﻳﺎﻜﺣ\n"
+ greeting_supplimentary.negative.greek:0 "\n.ﺔﻴﻧﺎﻧﻮﻴﻟﺍ ﺕﺎﻴﺣﺮﺴﻤﻟﺍ ﻉﻮﺿﻮﻣ ﻲﻫ ﺔﻀﻔﺨﻨﻤﻟﺍ ﻚﺘﻴﺼﺨﺷ\n"
+ greeting_supplimentary.negative.insult.1:0 "\n.ﻲﺤﻟﺍ ﻚﻤﺴﺟ ﻲﻓ ﻚﺟﺍﺰﻣ ﻦﻔﻌﺘﻳ ﻥﺍ ﻰﻨﻤﺗﺍ\n"
+ greeting_supplimentary.negative.insult.2:0 "\n.ﺔﺴﺋﺎﺑﻭ ﺓﺮﻴﺼﻗ ﻚﺗﺍﻮﻨﺳ ﻥﻮﻜﺗ ﻥﺍ ﻰﻨﻤﺗﺍ\n"
+ greeting_supplimentary.negative.insult.3:0 "\n.ﺔﻤﻜﺤﻟﺍ ﻚﻏﻭﺍﺮﺗ ﻥﺍ ﻰﻨﻤﺗﺍ\n"
+ greeting_supplimentary.negative.insult_muslim.1:0 "\n.ﻊﺑﺎﺴﻟﺍ ﻙﺪﺟ ﻰﻠﻋ ﺔﻨﻌﻠﻟﺍ\n"
+ greeting_supplimentary.negative.insult_muslim.2:0 "\n.ﺖﻴﻣ ﻞﻤﺟ ﻦﻄﺑ ﻲﻓ ﺎًﻴﺣ ﺎًﻄﻴﺨﻣ ﻥﻮﻜﺗ ﻥﺃ ﻮﺟﺮﻧ\n"
+ greeting_supplimentary.negative.insult_muslim.3:0 "\n.ﻚﺘﻴﺑ ﻪﻠﻟﺍ ﺮﻣﺩ\n"
+ greeting_supplimentary.negative.insult_muslim.4:0 "\n.ﻲﺠﻧﺎﻣ ﺐﻠﻛ ﻦﻣ ﻞﻔﻃ ﺖﻧﺃ\n"
+
+ greeting_supplimentary.positive:0 "[ROOT.Char.Custom2('PositiveSupplimentaryGreeting', second)]\n"
+ greeting_supplimentary.positive.flattery.1:0 "\n.ﻚﺘﻴﺑ ﻰﻠﻋﻭ ﻚﻴﻠﻋ ﻪﺗﺎﻛﺮﺑ\n"
+ greeting_supplimentary.positive.flattery.2:0 "\n.ﺔﻳﺭﻮﻄﺳﺃ ﻚﺘﻤﺣﺭﻭ ﻚﺘﻤﻜﺣ\n"
+ greeting_supplimentary.positive.flattery.3:0 "\n.ﺔﻣﻼﺴﻟﺍ ﻚﺒﺤﺼﺗ\n"
+ greeting_supplimentary.positive.flattery.4:0 "\n.ﺎﺿﺭﻭ ﻡﺎﺋﻭ ﻲﻓ ﺶﻴﻌﺗ ﺪﻗ\n"
+ greeting_supplimentary.positive.flattery.5:0 "\n.ﻪﻴﻠﻋ ﺪﺴﺤُﻳ ﺮﻣﺃ ﻚﺗﻮﺴﻗ ﻥﺇ\n"
+ greeting_supplimentary.positive.flattery.6:0 "\n.ﻢﻟﺎﻌﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺓﺭﻮﻬﺸﻣ ﺔﻌﺋﺍﺮﻟﺍ ﻚﺘﻴﻬﺷ\n"

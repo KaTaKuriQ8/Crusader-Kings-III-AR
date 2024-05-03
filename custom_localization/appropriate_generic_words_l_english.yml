@@ -1,0 +1,44 @@
+﻿l_english:
+ #GetSmallFood
+ #GetSmallFoodIndef
+ food_word_apple:0 "ﺔﺣﺎﻔﺗ"
+ food_word_apple_indef:0 "ﺔﺣﺎﻔﺘﻟﺍ"
+ food_word_biscuit:0 "ﺖﻳﻮﻜﺴﻴﺑ"
+ food_word_biscuit_indef:0 "a ﺖﻳﻮﻜﺴﻴﺑ"
+ #GetClothingArticle
+ clothing_word_shirt:0 "ﺺﻴﻤﻗ"
+ clothing_word_trousers:0 "ﻝﺍﻭﺮﺳ"
+ clothing_word_blouse:0 "ﺓﺯﻮﻠﺑ"
+ clothing_word_dress:0 "ﻥﺎﺘﺴﻓ"
+ #GetFoodDetail
+ food_detail_cilantro:0 "ﺓﺮﺑﺰﻛ"
+ food_detail_lemon:0 "ﻥﻮﻤﻴﻟ"
+ food_detail_almond:0 "ﺯﻮﻠﻟﺍ"
+ #GetExpensiveMeal
+ expensive_food_roast_swan:0 "ﺔﻳﻮﺸﻣ ﺔﻌﺠﺑ"
+ expensive_food_veal_cutlets:0 "ﻞﺠﻌﻟﺍ ﻢﺤﻟ ﺔﺤﻳﺮﺷ"
+ expensive_food_fresh_quail:0 "ﺝﺯﺎﻄﻟﺍ ﻥﺎﻤﺴﻟﺍ"
+ expensive_food_baked_truffles:0 "ﺯﺎﺒﺧ"
+ expensive_food_spiced_breads:0 "ﻞﺘﺒﻣ ﺰﺒﺧ"
+ expensive_food_mustard_rolls:0 "ﻝﺩﺮﺨﻟﺍ ﺕﺎﻔﻟ"
+ #GetExpensiveMealAlt
+ expensive_food_fine_cheeses:0 "ﺔﺟﺯﺎﻃ ﺔﻨﺒﺟ"
+ expensive_food_almond_eggs:0 "ﻥﻮﻠﻤﻟﺍ ﺾﻴﺒﻟﺍ"
+ expensive_food_sturgeon_caviar:0 "ﺭﺎﻴﻓﺎﻛ"
+ #GetExpensiveDessert
+ expensive_dessert_saffron_cake:0 "ﻥﺍﺮﻔﻋﺰﻟﺍ ﻚﻌﻛ"
+ expensive_dessert_candied_figs:0 "ﻦﻴﺘﻟﺍ"
+ expensive_dessert_pomegranate_cake:0 "ﻥﺎﻣﺮﻟﺍ ﻚﻌﻛ"
+ expensive_dessert_entremets:0 "ﻯﻮﻠﺣ"
+ expensive_dessert_quince_tarts:0 "ﺮﺋﺎﻄﻔﻟﺍ ﻦﻣ ﺩﺪﻋ"
+ #GetExpensiveDrink
+ expensive_drink_fancy_champagne:0 "ﻦﻤﺜﻟﺍ ﺔﻈﻫﺎﺑ ﺎﻴﻧﺎﺒﻣﺎﺷ"
+ expensive_drink_foreign_liqueurs:0 "ﻲﺒﻨﺟﻷﺍ ﺬﻴﺒﻨﻟﺍ"
+ expensive_drink_spiced_wine:0 "ﺝﺯﺎﻃ ﺬﻴﺒﻧ"
+ expensive_drink_premium_tea:0 "ﺯﺎﺘﻤﻤﻟﺍ ﻱﺎﺸﻟﺍ"
+ expensive_drink_violet_sharbah:0 "ﺔﻴﺠﺴﻔﻨﺒﻟﺍ ﺔﺑﺭﻮﺸﻟﺍ"
+ expensive_drink_aribica_coffee:1 "ﺔﻴﺑﺮﻋ ﺓﻮﻬﻗ"
+ #GetShockedExpression
+ shocked_expression_shocked:0 "ﻡﻭﺪﺼﻣ"
+ shocked_expression_appalled:0 "ﻉﺰﻓ"
+
