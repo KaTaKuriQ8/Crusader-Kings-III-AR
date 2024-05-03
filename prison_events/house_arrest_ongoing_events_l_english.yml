@@ -1,0 +1,31 @@
+﻿l_english:
+ house_arrest_ongoing.0001.t:0 "Goals and Dreams"
+ house_arrest_ongoing.0001.desc:0 "Every day spent as a prisoner of [prison_holder.GetTitledFirstName] is another day that my carefully laid plans slip further from my grasp.\n\nThe true punishment is not the bodily confinement I find myself under, it is being so incapacitated!"
+ house_arrest_ongoing.0001.a:0 "I wonder what state my affairs are in?"
+ house_arrest_ongoing.0001.b:0 "When I'm released I will be ready. I must plan!"
+
+ house_arrest_ongoing.0002.t:0 "ﻞﻠﻀﻣ ﻢﻜﺣ"
+ house_arrest_ongoing.0002.desc:0 " ﺪﻘﺘﻌﻳ [prison_holder.GetTitledFirstName] ﻦﻣ\n ﻲﻨﻴﻘﺒﻳ ﻲﻜﻟ !؟ﺔﺴﻔﻧ [prison_holder.GetSheHe]\n ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻢﺛ ﻦﻣﻭ ،ﻥﺍﻮﻴﺤﻟﺍ ﻞﺜﻣ ﺱﻮﺒﺤﻣ ،ﺎﻨﻫ\n.ﻝﺪﻌﻟﺍ ﻮﻫ ﺍﺬﻫ ﻥﺃ ﺀﺎﻋﺩﻻ ﺓﺃﺮﺠﻟﺍ\n\nﻰﻟﺇ ﺺﺨﺷ ﻱﺃ ﻥﺎﻛ ﻮﻟ ﺎﻤﻛ\n [ROOT.Char.GetFaith.HighGodName] ﺐﻧﺎﺟ \nﻰﻠﻋ ﻢﻜﺤﻟﺍ ﻲﻓ ﻖﺤﻟﺍ ﻪﻟ #EMP me#!."
+ house_arrest_ongoing.0002.a:0 "!ﻞﺒﻗ ﻦﻣ ﺔﻧﺎﻫﻹﺍ ﻩﺬﻫ ﻞﺜﻤﺑ ﺮﻌﺷﺃ ﻢﻟ ﺎﻧﺃ"
+ house_arrest_ongoing.0002.b:0 "ﻲﻨﻫﺫ ﺀﻭﺪﻫ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻝﻭﺎﺣﺃ ﻥﺃ ﺐﺠﻳ"
+
+ house_arrest_ongoing.0003.t:0 "ﺓﺪﺣﻮﻟﺍ ﻡﺎﻳﺍ"
+ house_arrest_ongoing.0003.desc_opening:0 " ﻢﻬﺒﺣﺃ ﻦﻣ ﻞﻛ ﻦﻋ ًﻼﺼﻔﻨﻣ ﻲﺘﻗﻭ ﺀﺎﻀﻗ ﻥﺇ\n ﻦﻋ ﺚﺤﺑﺃ ﻲﺴﻔﻧ ﺪﺟﺃ .ﺔﻴﺳﺎﻗ ﺔﺑﻮﻘﻋ ﻮﻫ\n.ﻥﻮﻠﻴﻠﻗ ﻢﻬﻨﻜﻟ ، ﺔﻘﻓﺮﻟﺍﻭ ﺔﺣﺍﺮﻠﻟ ﻩﺪﺟﺍ ﺭﺪﺼﻣ ﻱﺃ"
+ house_arrest_ongoing.0003.desc_friendly_prisoner:0 "\n\n ﻲﻀﻗﺍ ﻲﻨﻠﻌﺠﻳ ﻱﺬﻟﺍ ﺪﻴﺣﻮﻟﺍ ﺀﻲﺸﻟﺍ\nﻲﺘﻗﻼﻋ ﻮﻫ ﺔﻟﻮﻬﺴﺑ ﺔﻠﻳﻮﻄﻟﺍ ﻡﺎﻳﻻﺍ\n.[friendly_prisoner.GetTitledFirstName] ﻊﻣ "
+ house_arrest_ongoing.0003.a:0 "!؟ ﻲﻌﻣ ﺙﺪﺤﺘﻳ ﺪﺣﺃ ﻻ ﻂﻘﻓ"
+ house_arrest_ongoing.0003.b:0 "ﻲﻌﻣ ﺙﺪﺤﺘﻠﻟ ﺩﺍﺪﻌﺘﺳﺍ ﻰﻠﻋ ﺎًﺼﺨﺷ ﺪﺟﺄﺳ"
+ house_arrest_ongoing.0003.c:0 ".ﺪﻴﺣﻮﻟﺍ ﻲﺘﻗﺍﺪﺻ ﺭﺪﺼﻣ ﻮﻫ [friendly_prisoner.GetSheHe|U]"
+ house_arrest_ongoing.0003.d:0 "ﻱﺪﻟ ﺪﻴﺣﻮﻟﺍ ﺐﺤﻟﺍﻭ ﺔﺣﺍﺮﻟﺍ ﺭﺪﺼﻣ ﻮﻫ [friendly_prisoner.GetSheHe|U]"
+ house_arrest_ongoing.0003.e:0 ".ﻱﺪﻟ ﺪﻴﺣﻮﻟﺍ ﺐﺤﻟﺍﻭ ﺔﺣﺍﺮﻟﺍ ﺭﺪﺼﻣ ﻮﻫ [ROOT.Char.GetFirstNameNoTooltip]"
+
+ house_arrest_ongoing.0004.t:0 "ﻲﺒﻳﺬﻌﺗ ﻒﻴﻔﺨﺗ"
+ house_arrest_ongoing.0004.desc1:0 "" ، ﻚﺗﺎﻃﻮﻄﺨﻣﻭ ﻚﺒﺘﻛ ﺪﻘﺘﻔﺗ ﻢﻛ ﻑﺮﻋﺃ\n!ﻕﻮﺴﻟﺍ ﻦﻣ ﻚﺒﺠﻌﻴﺳ ﺎًﺌﻴﺷ ﻚﻟ ﺕﺮﻀﺣﺃ ﻚﻟﺬﻟ""
+ house_arrest_ongoing.0004.desc2:0 ""...ﺍﺬﻟ ، ﺎًﻬﺒﺘﻨﻣ ﻦﻜﻳ ﻢﻟ ﻲﻫﺎﻄﻟﺍﻭ ، ﺔﻜﻌﻜﻟﺍ ﺐﺤﺗ ﻢﻛ ﻢﻠﻋﺃ""
+ house_arrest_ongoing.0004.desc3:0 "" ﻡﻮﻴﻟﺍ ﺔﻨﻳﺪﻤﻟﺍ ﻲﻓ ﺭﺍﻮﺴﻟﺍ ﺍﺬﻫ ﺖﻳﺃﺭ\n!ﺎﻬﻳﺪﺗﺭﺍ ، ﻚﻠﻀﻓ ﻦﻣ .ﻪﺒﺤﺘﺳ ﻚﻧﺃ ﺖﻓﺮﻋﻭ ""
+ house_arrest_ongoing.0004.desc4:0 "" ، ﺮﺜﻛﺍ ﺀﺎﻴﺷﺎﺑ ﺱﺍﺮﺤﻟﺍ ﻉﺎﻨﻗﺇ ﻲﻧﺎﻜﻣﺈﺑ ﻥﺎﻛ\n!ﻚﺗﺎﻳﻮﻨﻌﻣ ﻖﺋﺍﺪﺤﻟﺍ ﻲﻓ ﻲﺸﻤﻟﺍ ﻊﻓﺮﻳ ﻥﺃ ﻞﻣﺁ ﻲﻨﻨﻜﻟ""
+ house_arrest_ongoing.0004.desc:0 "\n\n[RelationToMe', SCOPE.sC('friend_at_court') )], [friend_at_court.GetTitledFirstName')ROOT.Char.Custom2] ﻱﺰﻳﺰﻋ\n [friend_at_court.GetHerHis] ﻞﻌﻔﻳﻭ ﻲﺑ ﺮﻜﻔﻳ ﺎﻣ ﺎﻤﺋﺍﺩ\nﺔﺣﺍﺭ ﺮﺜﻛﺃ ﻲﺑﺎﻘﻋ ﻞﻌﺠﻟ ﻞﻀﻓﺃ"
+ house_arrest_ongoing.0004.a:0 "![friend_at_court.GetHerHim] ﻻﻮﻟ ﻪﺑ ﻡﻮﻗﻷ ﺖﻨﻛ ﺎﻣ ﻢﻠﻋﺃ ﻻ ﺎﻧﺃ"
+
+ house_arrest_ongoing.0005.t:0 "ﻲﺼﺨﺸﻟﺍ ﻲﺑﺍﺬﻋ"
+ house_arrest_ongoing.0005.desc:0 ""Oh, you should have seen the mummers at the festival. What a show!"\n\nBeing locked up here is bad enough. Also having to deal with my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('rival_at_court') )] [rival_at_court.GetTitledFirstNamePossessive] mockery is too much. [rival_at_court.GetSheHe|U] goes out of [rival_at_court.GetHerHis] way to make my life as miserable as [rival_at_court.GetSheHe] can, now that I am brought so low."
+ house_arrest_ongoing.0005.a:0 "!ﺎﻀﻳﺃ ،ﻞﻤﻌﻳ ﻪﻧﺇ"

@@ -1,0 +1,30 @@
+﻿l_english:
+ prison_notification.0001.t:0 "!ﻥﻮﺠﺴﻣ"
+ prison_notification.0001.desc:0 "ﻲﻨﻋ ﺎﻤﻏﺭ ﻱﺯﺎﺠﺘﺣﺍﻭ ﻲﻠﻋ ﺾﺒﻘﻟﺍ ﻢﺗ ﺪﻘﻟ\n[imprisoner.GetTitledFirstName] ﻞﺒﻗ ﻦﻣ\n\n.ﺐﻏﺭﺃ ﺎﻤﻛ ﺮﻔﺴﻟﺍ ﻭﺃ ﻲﻟﺰﻨﻣ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻲﻓ ﺍًﺮﺣ ﺪﻋﺃ ﻢﻟ"
+ prison_notification.0001.a:0 ".ﺍﺬﻫ ﺮﻤﺘﺴﻳ ﻻﺃ ﻞﻣﺁ"
+
+ prison_notification.0002.t:0 "!ﻞﻘﺘﻌﻣ"
+ prison_notification.0002.desc:0 "[(('RelationDescriptor', SCOPE.sC('prisoner')ROOT.Char.Custom2]\n[(('RelationToMe', SCOPE.sC('prisoner')ROOT.Char.Custom2]\n.[imprisoner.GetTitledFirstName] ـﺑ ﻥﻮﻣﻮﻘﻴﺳ [prisoner.GetHerHis] ﻱﺪﺿ ﻥﻵﺍ ﻡﺎﻘﻳ"
+ prison_notification.0002.a:0 "؟[prisoner.GetHerHim] ﻪﻠﻤﻋ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﺎﻣ"
+
+ prison_notification.0003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U] !ﻥﻮﺠﺴﻣ!"
+ 
+ prison_notification.1001.t:0 "ﺭﻮﻨﻟﺍ ﺝﺭﺎﺧ"
+ prison_notification.1001.desc:0 " ﺝﺍﺮﺑﻷﺍ ﻲﻓ ﻲﺑ ﺖﻴﻘﻟﺃ ﺪﻘﻟ [actor.GetTitledFirstName]\n ﻕﺎﻔﻧﺃ ﻲﻓ ، ﺎﻨﻫ ﻦﻔﻌﺗﺄﺳ ﻞﻫ !ﺔﻨﺼﺤﻤﻟﺍ\n؟[('actor.GetHerHis] [actor.Custom('FortifiedBuilding] ﺔﺒﻃﺭ"
+ prison_notification.1001.a:0 "!ﺎﻨﻫ ﻲﻨﺤﻨﺗ ﻲﺘﻟﺍ ﻥﺍﺮﺌﻔﻟﺍ ﻦﻣ ﺃﻮﺳﺃ [actor.GetSheHe|U]"
+ prison_notification.1001.a.tt:0 " ﻢﻛﺍﺮﺘﺗ ، ﺔﻨﺼﺤﻤﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻲﻓ ﻱﺩﻮﺟﻭ ﺀﺎﻨﺛﺃ\n!ﺓﺮﻴﻄﺧ ﺕﺎﻳﻮﺘﺴﻣ ﻰﺘﺣ ،[stress|E] ﺀﻂﺒﺑ"
+
+ prison_notification.1002.t:0 "ﺏﺬﻌﻟﺍ ﺀﺍﻮﻬﻟﺍ"
+ prison_notification.1002.desc:0 " ﺐﺳﺎﻨﻤﻟﺍ ﻦﻣ ﻥﺃ ﻯﺃﺭ [actor.GetTitledFirstName]\n [actor.GetHerHis] ﻲﻓ ﻲﻨﺠﺳ ﻦﻣ ﻲﺣﺍﺮﺳ ﻕﻼﻃﺇ\n.ﺔﻳﺮﺒﺠﻟﺍ ﺔﻣﺎﻗﻹﺍ ﻲﻓ ﻲﺋﺎﻘﺑﺇ ﺭﺪﻘﺑ ﻂﻘﻓ ﻦﻜﻟﻭ ، ﺔﻧﺍﺰﻧﺰﻟﺍ"
+ prison_notification.1002.a:0 ".ﺔﻤﺣﺮﻟﺍ ﻦﻣ ﻩﺪﺟﺃ ﻥﺃ ﻦﻜﻤﻳ ﺎﻣ ﺬﺧﺃ ﺎﻧﺃ"
+ prison_notification.1002.a.tt:1 ".[stress|E] ﺪﻳﺰﺗ ﻻ ﺔﻳﺮﺒﺠﻟﺍ ﺔﻣﺎﻗﻹﺍ"
+
+ prison_notification.2001.t:0 "ﻯﺮﺧﺃ ﺓﺮﻣ ﺮﺣ"
+ prison_notification.2001.desc:0 "[imprisoner.GetTitledFirstName] ﺍﺰﺠﺘﺤﻣ ﺪﻋﺃ ﻢﻟ ﺎﻧﺃ\n ﻱﺃ ﻲﻓ ﻭﺃ ، ﻦﻃﻮﻟﺍ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻲﻓ ﺮﺣ ﺎﻧﺃﻭ ، ﻲﻨﻋ ًﺎﻤﻏﺭ\n.ﻪﻴﻓ ﺐﻏﺭﺃ ﺮﺧﺁ ﻥﺎﻜﻣ "
+ prison_notification.2001.a:0 ".ﻯﺮﺧﺃ ﺓﺮﻣ ﻲﺿﺭﺃ ﻯﺭﺃ ﻦﻟ ﻲﻨﻧﺃ ﺕﺪﻘﺘﻋﺍ"
+
+ prison_notification.2002.t:0 "ﻯﺮﺧﺃ ﺓﺮﻣ ﺮﺣ"
+ prison_notification.2002.desc:0 "،[prisoner.GetTitledFirstName]\n[(('RelationDescriptor', SCOPE.sC('prisoner')ROOT.Char.Custom2] \n[(('RelationToMe', SCOPE.sC('prisoner')ROOT.Char.Custom2]\n ﺓﺮﻣﻭ [prisoner.GetHerHis]ﺪﻳ ﻰﻠﻋ ﻦﻣ ﻪﻨﻋ ﺝﺍﺮﻓﻹﺍ ﻢﺗ \n![imprisoner.GetTitledFirstName] !ﺮﺣ ﻯﺮﺧﺃ"
+ prison_notification.2002.a:0 ".ﺓﻮﺴﻗ ﻦﺠﺴﻟﺍ"
+
+ prison_notification.2003.message:0 "!ﻪﻨﻋ ﺝﺍﺮﻓﻹﺍ ﻢﺗ [RelationToMe', SCOPE.sC('prisoner'))|U')ROOT.Char.Custom2]"
