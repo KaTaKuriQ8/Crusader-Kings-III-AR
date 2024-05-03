@@ -1,0 +1,6 @@
+﻿l_english:
+ culture_conversion.0001.t:1 "[new_culture.GetName] ﻥﻮﻜﻳ ﻲﻛ"
+ culture_conversion.0001.desc:1 "، ﻥﺎﺘﺴﻓ [new_culture.GetName] ﻊﻣ\n ﺱﺃﺭﻭ ،ﺕﺍﺩﺎﻋ [new_culture.GetName] \n ،[new_culture.GetCollectiveNoun] ـﺑ ﺀﻮﻠﻤﻣ ﻝﺎﻣ\n [converting_character. ustom2('MyCharacterIntroduction', ROOT.Char)]  ﻥﺃ ﺶﻫﺪﻤﻟﺍ ﻦﻣ ﺲﻴﻟ\n [converting_character.GetHerselfHimself] ﺮﺒﺘﻌﻳ ﺪﻌﻳ ﻢﻟ\n ﻦﻜﻟﻭ[old_culture.GetName]\n!ﻚﻟﺫ ﻦﻣ ًﻻﺪﺑ [new_culture.GetName] "
+ culture_conversion.0001.a:0 ".ﻚﻟﺬﻛ ﺱﺎﻨﻟﺍﻭ ،ﺮﻴﻐﺘﺗ ﺀﺎﻴﺷﻷﺍ"
+ culture_conversion.0001.b:0 ".ﺎﻨﺋﺍﺭﻭ ﺎﻧﺪﻴﻟﺎﻘﺗ ﺎﻨﺗﺍﺩﺎﻋ ﻙﺮﺘﻧ ﻥﺃ ﺔﺌﻴﺳ ﺓﺮﻜﻓ ﺎﻬﻧﺇ"
+ culture_conversion.0001.c:0 "!ﺮﺼﻌﻟﺍ ﺕﺍﺭﻮﻄﺗ ﺐﻛﺍﻮﻧ ﻥﺃ ًﺎﻌﻴﻤﺟ ﺎﻨﻴﻠﻋ ﺐﺠﻳ"

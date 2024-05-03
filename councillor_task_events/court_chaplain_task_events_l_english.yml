@@ -1,0 +1,46 @@
+﻿l_english:
+ court_chaplain_task.0201.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
+ court_chaplain_task.0201.county_complete:0 "[county.GetName]ﻥﺎﻜﺳ ﻉﺎﻨﻗﺇ ﻢﺗ ، ﺍًﺮﻴﺧﺃ\n!ﻲﻘﻴﻘﺤﻟﺍ ﻥﺎﻤﻳﻹﺍ ﻰﻟﺇ ﻝﻮﺤﺘﻟﺎﺑ\nﺔﻗﺩﺎﻧﺯ ﺎًﻴﻠﻤﻋ ﻙﺎﻨﻫ ﺪﻌﻳ ﻢﻟ \n!ﺎﻬﻠﻤﻛﺄﺑ [county.GetNameNoTier] ﻲﻓ  "
+ court_chaplain_task.0201.a:0 "![councillor.GetFirstNameNoTooltip] ، ﻊﺋﺍﺭ ﻞﻤﻋ"
+ court_chaplain_task.0201.b:0 "؟ﻥﻵﺍ ﺢﺒﺻﺍ ﻥﺎﻤﻳﺇ ﻱﺃ , ﻞﻴﻤﺟ"
+
+ court_chaplain_task.0301.desc:0 ".. ﺔﻤﻳﺪﻘﻟﺍ ﻖﺋﺎﺛﻮﻟﺍ ﻲﻓ ﺖﻟﻮﺠﺗ ﺪﻘﻟ\n.ﺍًﺪﻴﻛﺄﺗ ﻞﻗﻷﺍ ﺭﺪﺼﻤﻟﺍ ﺕﺍﺫ \n ﻚﻧﺃ ﺕﺎﺒﺛﻹ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻱﺪﻟ ، ﺍًﺮﻴﺧﺃ\n\n![county.GetName] ـﻟ [ROOT.Char.GetLadyLord|U]\n... ﺓﺮﻴﻐﺻ ﺓﺪﺣﺍﻭ ﺓﻮﺷﺭ ﻲﻫ ﻲﻐﺒﻨﻳﺎﻣ ﻮﻫ ﺎﻣ ﻞﻛ"
+ court_chaplain_task.0301.a:0 "!ﻪﺑ ﻡﺎﻴﻘﻟﺍ"
+ court_chaplain_task.0301.b:0 ".ﻊﻴﻄﺘﺳﺃ ﻻ"
+ court_chaplain_task.0301.b.tt:0 "ﺔﻘﻔﻠﻣ ﺔﺒﻟﺎﻄﻤﻟ ﻡﺪﻘﺘﻟﺍ ﻞﻛ ﺪﻘﻔﺗ"
+
+ court_chaplain_task.0302.desc:1 " ﺍًﺮﻴﺧﺃ .ﺓﺪﻛﺆﻤﻟﺍ ﺮﻴﻏﻭ ﺔﻤﻳﺪﻘﻟﺍ ﻖﺋﺎﺛﻮﻟﺍ ﻲﻓ ﺖﻟﻮﺠﺗ ﺪﻘﻟ\n ﻚﻧﺃ ﺕﺎﺒﺛﻹ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻱﺪﻟ \n  ﻊﻗﺍﻮﻟﺍ ﻲﻓ [county.GetNameNoTier].\n\nـﻟ ﻲﻋﺮﺸﻟﺍ [ROOT.Char.GetLadyLord|U]\n ﻲﻋﺮﺸﻟﺍ ﺺﺨﺸﻟﺍ ﻚﻧﺄﺑ ﻝﻮﻘﻟﺍ ﻲﻨﻨﻜﻤﻳ\n![duchy.GetName] ـﻟ [ROOT.Char.GetLadyLord|U]"
+ court_chaplain_task.0302.desc_heretic_addition:0 " ﺍًﺮﻴﺧﺃ .ﺓﺪﻛﺆﻤﻟﺍ ﺮﻴﻏﻭ ﺔﻤﻳﺪﻘﻟﺍ ﻖﺋﺎﺛﻮﻟﺍ ﻲﻓ ﺖﻟﻮﺠﺗ ﺪﻘﻟ\n [ROOT.Char.GetLadyLord|U] ﻚﻧﺃ ﺕﺎﺒﺛﻹ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻱﺪﻟ \n ﻆﺤﻟﺍ ﺀﻮﺴﻟ , [county.GetName] ـﻟ ﻲﻋﺮﺸﻟﺍ\n ﻥﻮﻜﺗ ﻥﺃ ﻰﻠﻋ ﺮﺼﺗ [duchy_holder.GetFirstName] ﺔﻳﺅﺭ ﻥﺈﻓ \n  !# [EMP [duchy_holder.GetFaith.GetAdherentName# \n!ﻲﻬﻟﺇ ﻖﺤﺑ -[duchy.GetName] ـﺑ ﺔﺒﻟﺎﻄﻣ ﻚﻳﺪﻟ ﻥﺇ ﻝﻮﻘﻟﺍ ﻲﻨﻨﻜﻤﻳ "
+ court_chaplain_task.0302.a:0 "[county.GetNameNoTierNoTooltip].ﻲﻓ ﻲﺘﺒﻟﺎﻄﻣ ﻢﻳﺪﻘﺗ"
+ court_chaplain_task.0302.b:0 "!ﻲﻜﻠﻣ [duchy.GetNameNoTierNoTooltip] ﻞﻛ ﻥﻮﻜﻴﺳ !ﻢﻌﻧ"
+ 
+ court_chaplain_task.0311.t:0 "[county.GetNameNoTierNoTooltip] ﻰﻠﻋ ﺔﺒﻟﺎﻄﻣ!"
+ court_chaplain_task.0311.opening:0 "[councillor.GetTitledFirstName] ﻥﺎﻛ ﺭﻮﻬﺸﻟ\n [councillor_liege.GetTitledFirstNamePossessive] [councillor.GetCouncilTitle]\n.ﺔﻘﻔﻠﻣ ﺦﻳﺭﺍﻮﺗﻭ ﺔﻔﺋﺍﺯ ﻖﺋﺎﺛﻭ ﻦﻋ ﺚﺤﺒﻳ "
+ court_chaplain_task.0311.end:0 "\nﺅﺮﺠﻳ ﻥﻵﺍ\n[councillor_liege.GetTitleTierName] [councillor_liege.GetFirstName]\nﻪﻠﻛ ﺮﻣﻷﺍ ﻥﺎﻛ ﻮﻟ ﺎﻤﻛ ﻑﺮﺼﺘﻟﺍ ﻰﻠﻋ\n![county.GetName] ﻰﻠﻋ ﺔﻋﻭﺮﺸﻣ ﺔﺒﻟﺎﻄﻣ ﺔﺑﺎﺜﻤﺑ  "
+ court_chaplain_task.0311.a:0 "!ﺮﺜﻛﺃ ﺐﻳﺫﺎﻛﺃﻭ ﺐﻳﺫﺎﻛﺃ"
+
+ court_chaplain_task.0312.a:0 "!؟ [Councilor liege.GetFirstName Tooltip] ﻞﺠﺨﻳ ﻻﺃ"
+
+ court_chaplain_task.0313.t:0 "[county.GetNameNoTierNoTooltip]!ﻰﻠﻋ ﺔﺒﻟﺎﻄﻣ!"
+ court_chaplain_task.1001.notification:0 "Preaching Unorthodox Doctrine"
+ court_chaplain_task.1002.notification:0 "ﻒﻴﻌﺿ ﺏﺎﻄﺧ"
+ court_chaplain_task.1101.notification:0 "ﺮﺛﺆﻣ ﺏﺎﻄﺧ"
+ court_chaplain_task.2001.notification:0 "ﻞﻳﻮﺤﺘﻠﻟ ﺔﻣﻭﺎﻘﻣ"
+ court_chaplain_task.2002.notification:0 "ﻝﻮﺤﺘﻠﻟ ﺔﻴﺒﻌﺸﻟﺍ ﺔﻣﻭﺎﻘﻤﻟﺍ"
+ court_chaplain_task.2101.notification:0 "ﻞﻳﻮﺤﺘﻠﻟ ﺲﻤﺤﺘﻣ"
+ court_chaplain_task.2102.notification:0 "ﺪﻳﺪﺠﻟﺍ [councillor.GetFaith.HouseOfWorshipPlural] ﺀﺎﺸﻧﺇ ﻢﺗ"
+ court_chaplain_task.2103.notification:0 "ﻝﻮﺤﺘﻣ ﺪﻳﺪﺟ ﻉﻮﻄﺘﻣ"
+
+ court_chaplain_task.3001.t:0 "Undermining Order"
+ court_chaplain_task.3001.desc:0 "My [councillor.GetCouncilTitle], [councillor.GetFirstName], seems deeply concerned when [councillor.GetSheHe] comes to me.\n\n"It has come to light that I am... investigating the existence of a just and rightful for you on the [county.GetName]. Suffice to say, many of your vassals are upset that their [ROOT.Char.GetTitleTierName] would ignore their loyalty and act against them like this.""
+ court_chaplain_task.3001.a:0 "!؟ ﻚﻴﻠﻋ ﺾﺒﻘﻟﺎﺑ ﻢﻬﻟ ﺡﺎﻤﺴﻟﺍ ﻚﻨﻜﻤﻳ ﻒﻴﻛ"
+ court_chaplain_task.3002.notification:0 "ﻖﻴﻔﻠﺗ ﺀﺎﻋﺩﺎﺑ ﻢﻬﺘﻤﻟﺍ"
+
+ court_chaplain_task.3003.opening:0 "[vassal.Custom2('AppropriateGreeting', ROOT.Char)]"
+ court_chaplain_task.3003.desc:0 "It has come to my attention that your [councillor.GetCouncilTitle], [councillor.GetFirstName], is working to fabricate a spurious claim on the [county.GetName]. I implore you to remember that you are [ROOT.Char.GetTitleTierName] by right, not by greed."
+ court_chaplain_task.3003.a:0 "[vassal.GetFirstNameNoTooltip].أنا أعرف ما أفعله"
+ court_chaplain_task.3003.b:0 "[vassal.GetTitledFirstNameNoTooltip].،ﻚﻧﺎﻜﻣ ﻢﻠﻌﺗ"
+
+ court_chaplain_task.3004.opening:0 "[target.Custom2('AppropriateGreeting', ROOT.Char)]"
+ court_chaplain_task.3004.desc:0 "[councillor.GetCouncilTitle] ﻥﺃ ﺢﺿﺍﻮﻟﺍ ﻦﻣ ﺢﺒﺻﺃ ﺪﻘﻟ \n ﻰﻠﻋ ﻒﺋﺍﺯﻭ ﺏﺫﺎﻛ ﺀﺎﻋﺩﺍ ﺕﺎﺒﺛﺇ ﻰﻠﻋ ﻞﻤﻌﻳ \n  ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻥﺃ ﺪﻘﺘﻌﺗ ﻻ .[County.GetName] \n .ﺩﺭ ﻥﻭﺩ ﺮﻤﻳ ﻑﻮﺳ ﺔﻨﻴﺸﻤﻟﺍ ﺕﺎﻓﺮﺼﺘﻟﺍ ﻦﻣ "
+ court_chaplain_task.3004.a:0 "Oh, but there #EMP is#! a basis for a claim here."
