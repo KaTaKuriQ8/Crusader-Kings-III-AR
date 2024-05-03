@@ -1,0 +1,55 @@
+﻿l_english:
+ # Knight wounded/slain event strings for use in battle events. 
+ knight_wounded_no_enemy_friendly:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] !ﻭﺪﻌﻟﺍ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﺐﻴﺻﺃ"
+ knight_wounded_no_enemy_enemy:2 "ﻭﺪﻌﻟﺍ ﺔﺑﺎﺻﺇ ﻦﻣ ﻞﺳﺍﻮﺒﻟﺍ ﺎﻧﺩﻮﻨﺟ ﺪﺣﺃ ﻦﻜﻤﺗ [CHARACTER.Custom('KnightCultureNoTooltipLowercase')] [CHARACTER.GetShortUINameNoTooltip]!"
+ knight_wounded_by_enemy_friendly:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ﻦﻣ ﺐﻴﺻﺃ [TARGET_CHARACTER.GetShortUINameNoTooltip]!"
+ knight_wounded_by_enemy_enemy:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [TARGET_CHARACTER.GetShortUINameNoTooltip] ﺏﺎﺻﺃ [CHARACTER.GetShortUINameNoTooltip]!"
+ knight_maimed_no_enemy_friendly:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] !ﻭﺪﻌﻟﺍ ﻱﺪﻨﺟ ﻞﺒﻗ ﻦﻣ ﻪﻬﻳﻮﺸﺗ ﻢﺗ"
+ knight_maimed_no_enemy_enemy:2 "ﻭﺪﻌﻟﺍ ﻪﻳﻮﺸﺗ ﻦﻣ ﻞﺳﺍﻮﺒﻟﺍ ﺎﻧﺩﻮﻨﺟ ﺪﺣﺃ ﻦﻜﻤﺗ [CHARACTER.Custom('KnightCultureNoTooltipLowercase')] [CHARACTER.GetShortUINameNoTooltip]!"
+ knight_maimed_by_enemy_friendly:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ﺔﻄﺳﺍﻮﺑ ﻪﻬﻳﻮﺸﺗ ﻢﺗ [TARGET_CHARACTER.GetShortUINameNoTooltip]!"
+ knight_maimed_by_enemy_enemy:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [TARGET_CHARACTER.GetShortUINameNoTooltip] ﻩﻮﺷ [CHARACTER.GetShortUINameNoTooltip]!"
+ knight_killed_no_enemy_friendly:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] !ﻭﺪﻌﻟﺍ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﻞﺘﻗ"
+ knight_killed_no_enemy_enemy:2 "ﻭﺪﻌﻟﺍ ﻞﺘﻗ ﻦﻣ ﻞﺳﺍﻮﺒﻟﺍ ﺎﻧﺩﻮﻨﺟ ﺪﺣﺃ ﻦﻜﻤﺗ [CHARACTER.Custom('KnightCultureNoTooltipLowercase')] [CHARACTER.GetShortUINameNoTooltip]!"
+ knight_killed_by_enemy_friendly:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ﺔﻄﺳﺍﻮﺑ ﻞﺘُﻗ [TARGET_CHARACTER.GetShortUINameNoTooltip]!"
+ knight_killed_by_enemy_enemy:2 "ﺎﻨﺑ ﺹﺎﺨﻟﺍ $knight_culture_player_no_tooltip_lowercase$ [TARGET_CHARACTER.GetShortUINameNoTooltip] ﻞﺘﻗ [CHARACTER.GetShortUINameNoTooltip]!"
+ 
+ berserker_rage_killed_enemy_enemy:1 "Our $knight_culture_player_no_tooltip_lowercase$ [TARGET_CHARACTER.GetShortUINameNoTooltip] ﺱﺃﺭ ﻊﻄﻗ [TARGET_CHARACTER.GetHerHis] ﻞﺒﻗ ﻦﻣ [GetTrait('berserker').GetName( GetNullCharacter )] [CHARACTER.GetShortUINameNoTooltip]!"
+ berserker_rage_killed_enemy_friendly:1 "Our $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ﻦﻣ ﺱﺃﺭ ﺍﻮﻗﺰﻣ [TARGET_CHARACTER.GetShortUINameNoTooltip] ﺢﺒﺻﺃﻭ [GetTrait('berserker').GetName( GetNullCharacter )]!"
+ berserker_rage_killed_enemy_no_trait_enemy:1 "Our $knight_culture_player_no_tooltip_lowercase$ [TARGET_CHARACTER.GetShortUINameNoTooltip] ﺱﺃﺭ ﻊﻄﻗ [TARGET_CHARACTER.GetHerHis] ﻞﺒﻗ ﻦﻣ [GetTrait('berserker').GetName( GetNullCharacter )] [CHARACTER.GetShortUINameNoTooltip]!"
+ berserker_rage_killed_enemy_no_trait_friendly:1 "Our $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ripped the head off of [TARGET_CHARACTER.GetShortUINameNoTooltip]!"
+ berserker_rage_no_enemy_enemy:1 "The enemy $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ﺖﺤﺒﺻﺃﻭ ﻭﺪﻌﻟﺍ ﺩﻮﻨﺟ ﺖﺣﺎﺘﺟﺍ [GetTrait('berserker').GetName( GetNullCharacter )]!"
+ berserker_rage_no_enemy_friendly:1 "Our $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] ﺖﺤﺒﺻﺃﻭ ﻭﺪﻌﻟﺍ ﺩﻮﻨﺟ ﺖﺣﺎﺘﺟﺍ [GetTrait('berserker').GetName( GetNullCharacter )]!"
+
+ # Commander injured/killed event string for use in battle events.
+ commander_wounded_no_enemy_friendly_player:1 "!ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻘﻟ ﻚﺗﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ ﻭﺪﻋ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﺖﺒﻴﺻﺃ ﺪﻘﻟ"
+ commander_wounded_no_enemy_friendly:0 "ﺪﺋﺎﻘﻟﺍ [CHARACTER.GetUINameNoTooltip] ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ ﺐﻴﺻﺃ [CHARACTER.GetHerHis] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+ commander_wounded_no_enemy_enemy:0 "ﻭﺪﻌﻟﺍ ﺪﺋﺎﻗ ﺔﺑﺎﺻﺇ ﻦﻣ ﻞﺳﺍﻮﺒﻟﺍ ﺎﻧﺩﻮﻨﺟ ﺪﺣﺃ ﻦﻜﻤﺗ, [CHARACTER.GetUINameNoTooltip], !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+
+ commander_wounded_by_enemy_friendly_player:1 "ﻦﻣ ﺖﺣﺮﺟ ﺪﻘﻟ [TARGET_CHARACTER.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ"
+ commander_wounded_by_enemy_friendly:0 "ﺪﺋﺎﻘﻟﺍ [CHARACTER.GetUINameNoTooltip] ﺐﻴﺻﺃ [TARGET_CHARACTER.GetUINameNoTooltip] ﺩﻮﻘﻳ ﺎﻤﻨﻴﺑ [CHARACTER.GetHerHis] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+ commander_wounded_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] ﻭﺪﻌﻟﺍ ﺪﺋﺎﻗ ﺐﻴﺻﺄﺒﻴﺻﺃ, [CHARACTER.GetUINameNoTooltip], !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+
+ commander_maimed_no_enemy_friendly_player:0 "!ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻲﺗﺍﻮﻗ ﺩﻮﻗﺃ ﺖﻨﻛ ﺎﻤﻨﻴﺑ ﻭﺪﻌﻟﺍ ﺩﻮﻨﺟ ﺪﺣﺃ ﻲﻨﻫﻮﺷ ﺪﻘﻟ"
+ commander_maimed_no_enemy_friendly:0 "ﺪﺋﺎﻘﻟﺍ [CHARACTER.GetUINameNoTooltip] ﺓﺩﺎﻴﻘﻟﺍ ﺀﺎﻨﺛﺃ ﻪﻬﻳﻮﺸﺗ ﻢﺗ [CHARACTER.GetHerHis] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+ commander_maimed_no_enemy_enemy:0 "ﻭﺪﻌﻟﺍ ﺪﺋﺎﻗ ﻪﻳﻮﺸﺗ ﻦﻣ ﻞﺳﺍﻮﺒﻟﺍ ﺎﻧﺩﻮﻨﺟ ﺪﺣﺃ ﻦﻜﻤﺗ, [CHARACTER.GetUINameNoTooltip], !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+
+ commander_maimed_by_enemy_friendly_player:1 "ﻞﺒﻗ ﻦﻣ ﻚﻬﻳﻮﺸﺗ ﻢﺗ ﺪﻘﻟ [TARGET_CHARACTER.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ"
+ commander_maimed_by_enemy_friendly:0 "ﺪﺋﺎﻘﻟﺍ [CHARACTER.GetUINameNoTooltip] ﺔﻄﺳﺍﻮﺑ ﻪﻬﻳﻮﺸﺗ ﻢﺗ [TARGET_CHARACTER.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+ commander_maimed_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] ﻭﺪﻌﻟﺍ ﺪﺋﺎﻗ ﻩﻮﺷ ﺪﻘﻟ, [CHARACTER.GetUINameNoTooltip], !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+
+ commander_killed_no_enemy_friendly_player:0 "!ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻲﺗﺍﻮﻗ ﺩﻮﻗﺃ ﺖﻨﻛ ﺎﻤﻨﻴﺑ ﻭﺪﻌﻟﺍ ﻦﻣ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﺖﻠﺘُﻗ ﺪﻘﻟ"
+ commander_killed_no_enemy_friendly:0 "ﺪﺋﺎﻘﻟﺍ [CHARACTER.GetUINameNoTooltip] ﺓﺩﺎﻴﻘﻟﺍ ﺀﺎﻨﺛﺃ ﻞﺘُﻗ [CHARACTER.GetHerHis] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺕﺍﻮﻘﻟﺍ"
+ commander_killed_no_enemy_enemy:0 "ﻭﺪﻌﻟﺍ ﺪﺋﺎﻗ ﻞﺘﻗ ﻦﻣ ﻞﺳﺍﻮﺒﻟﺍ ﺎﻧﺩﻮﻨﺟ ﺪﺣﺃ ﻦﻜﻤﺗ, [CHARACTER.GetUINameNoTooltip], !ﻰﺿﻮﻔﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻰﻟﺇ ﻢﻬﺸﻴﺟ ﻝﺎﺳﺭﺇ"
+
+ commander_killed_by_enemy_friendly_player:1 "ﺕﺪﻬﺸﺘﺳﺍ ﺪﻘﻟ [TARGET_CHARACTER.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ"
+ commander_killed_by_enemy_friendly:0 "ﺪﺋﺎﻘﻟﺍ [CHARACTER.GetUINameNoTooltip] ﺔﻄﺳﺍﻮﺑ ﻞﺘُﻗ [TARGET_CHARACTER.GetUINameNoTooltip]!"
+ commander_killed_by_enemy_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] ﻭﺪﻌﻟﺍ ﺪﺋﺎﻗ ﻞﺘﻗ ﺪﻘﻟ, [CHARACTER.GetUINameNoTooltip], !ﻰﺿﻮﻔﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻰﻟﺇ ﻢﻬﺸﻴﺟ ﻝﺎﺳﺭﺇ"
+
+ # Commander injured/killed event strings for use in messages/toasts.
+ commander_wounded_no_enemy_interface_friendly_player:1 "!ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ ﻭﺪﻋ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﺖﺣﺮﺟ ﺪﻘﻟ"
+ commander_wounded_by_enemy_interface_friendly_player:1 "ﻦﻣ ﺖﺣﺮﺟ ﺪﻘﻟ [enemy_knight.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ"
+ commander_maimed_no_enemy_interface_friendly_player:1 "!ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ ﻭﺪﻋ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﻚﻬﻳﻮﺸﺗ ﻢﺗ ﺪﻘﻟ"
+ commander_maimed_by_enemy_interface_friendly_player:1 "ﻞﺒﻗ ﻦﻣ ﻚﻬﻳﻮﺸﺗ ﻢﺗ ﺪﻘﻟ [enemy_knight.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ"
+ commander_killed_no_enemy_interface_friendly:1 "[ROOT.Char.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻘﻟ ﻚﺗﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ ﻭﺪﻋ ﻱﺪﻨﺟ ﺪﻳ ﻰﻠﻋ ﻞﺘُﻗ"
+ commander_killed_by_enemy_interface_friendly:1 "[ROOT.Char.GetUINameNoTooltip] ﺔﻄﺳﺍﻮﺑ ﻞﺘُﻗ [enemy_knight.GetUINameNoTooltip] !ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻚﺗﺍﻮﻗ ﺓﺩﺎﻴﻗ ﺀﺎﻨﺛﺃ"
+

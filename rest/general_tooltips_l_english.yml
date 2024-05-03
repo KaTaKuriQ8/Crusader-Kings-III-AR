@@ -1,0 +1,8 @@
+﻿l_english:
+ line_break:0 "\n"
+ double_line_break:0 "\n\n"
+ do_not_execute_plot_tooltip:0 ".ﻥﻻﺍ ﻰﻟﺍ .ﺭﺎﻈﺘﻧﻻﺍ ﻲﻓ ﻥﻭﺮﻣﺂﺘﻤﻟﺍ ﻰﻘﺒﻴﺳ"
+ outcome_in_a_few_days:0 "ﻡﺎﻳﺃ ﺔﻌﻀﺑ ﻲﻓ"
+ outcome_in_a_few_weeks:0 "ﺔﻠﻴﻠﻗ ﻊﻴﺑﺎﺳﺃ ﻥﻮﻀﻏ ﻲﻓ"
+ outcome_in_a_few_months:0 "ﺔﻠﻴﻠﻗ ﺮﻬﺷﺃ ﻥﻮﻀﻏ ﻲﻓ"
+ outcome_in_a_few_years:0 "ﺔﻠﻴﻠﻗ ﺕﺍﻮﻨﺳ ﻥﻮﻀﻏ ﻲﻓ"
