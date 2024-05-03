@@ -1,0 +1,21 @@
+﻿l_english:
+ chancellor_task_foreign_affairs_opinion:0 "ﺔﻴﺟﺭﺎﺨﻟﺍ ﻥﻭﺆﺸﻟﺍ"
+ chancellor_task_domestic_affairs_opinion:0 "ﺔﻴﻠﺧﺍﺪﻟﺍ ﻥﻭﺆﺸﻟﺍ"
+ chancellor_task_neighbor_decreased_opinion:0 "ﻲﺳﺎﻣﻮﻠﺑﺩ ﺙﺩﺎﺣ"
+ chancellor_task_neighbor_increased_opinion:0 "ﺓﺮﻫﺎﻣ ﺔﻴﺳﺎﻣﻮﻠﺑﺩ"
+ chancellor_task_powerful_vassal_decreased_opinion:0 "ﻞﻫﺆﻣ ﺮﻴﻏ ﺭﺎﺸﺘﺴﻣ"
+ chancellor_task_powerful_vassal_increased_opinion:0 "ﺓﺮﻫﺎﻣ ﺔﻴﺳﺎﻣﻮﻠﺑﺩ"
+ marshal_task_increase_control_baron_decrease_opinion:0 "ﻡﺮﺘﺤﻣ ﺮﻴﻏ ﻱﺮﻜﺴﻋ ﺪﺋﺎﻗ"
+ marshal_task_increase_control_baron_increase_opinion:0 "ﻡﺮﺘﺤﻤﻟﺍ ﻙﻮﻠﺴﻟﺍ"
+ court_chaplain_fabricated_claim_opinion:0 "ﺔﻌﻃﺎﻘﻣ ﺔﺒﻟﺎﻄﻣ ﻖﻴﻔﻠﺗ"
+ court_chaplain_fabricated_claim_on_vassal_opinion:0 "ﻊﺑﺎﺘﻟﺍ ﻰﻠﻋ ﺔﻘﻔﻠﻣ ﺔﺒﻟﺎﻄﻣ"
+ task_religious_relations_opinion:0 "ﺔﻴﻨﻳﺪﻟﺍ ﺕﺎﻗﻼﻌﻟﺍ"
+ bad_religious_relations_opinion:0 "ﻲﺗﻮﻫﻻ ﻉﺍﺰﻧ"
+ bonus_religious_relations_opinion:0 "ﻱﺭﺎﺸﺘﺴﻤﺑ ﺐﺠﻋﺍ"
+ court_chaplain_upsetting_claim_fabrication_opinion:0 "ﻊﺑﺎﺘﻟﺍ ﻥﺯﺍﻮﺗ ﺔﻋﺰﻋﺯ"
+ court_chaplain_vassal_claim_target_upset_modifier:0 "ﺔﻘﻔﻠﻤﻟﺍ ﺔﺒﻟﺎﻄﻤﻟﺍ ﺖﻔﺸﺘﻛﺍ"
+
+ spouse_held_local_tourney_opinion:0 "ﺔﻴﻠﺤﻣ ﺔﻄﻠﺴﺑ ﻆﻔﺘﺤﻳ ﻱﺬﻟﺍ ﺝﻭﺰﻟ"
+ spouse_martial_display_of_force_opinion:0 "ﺓﻮﻘﻟﺍ ﺽﺮﻋ"
+
+ spouse_coerced_gift_opinion:0 "ﺔﻳﺮﺴﻗ ﺔﻳﺪﻫ"

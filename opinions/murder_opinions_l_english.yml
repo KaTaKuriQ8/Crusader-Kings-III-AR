@@ -1,0 +1,27 @@
+﻿l_english:
+ murdered_close_family:0 "ﺓﺮﺳﻷﺍ ﺩﺍﺮﻓﺃ ﻦﻣ ﺩﺮﻓ ﻞﺘﻗ"
+ murdered_close_family_crime:0 "ﺓﺮﺳﻷﺍ ﺩﺍﺮﻓﺃ ﻦﻣ ﺩﺮﻓ ﻞﺘﻗ"
+ attempted_murder_close_family:0 "ﺔﻠﺋﺎﻌﻟﺍ ﺩﺍﺮﻓﺃ ﺪﺣﺃ ﻞﺘﻗ ﺔﻟﻭﺎﺤﻣ"
+ attempted_murder_close_family_crime:0 "ﺔﻠﺋﺎﻌﻟﺍ ﺩﺍﺮﻓﺃ ﺪﺣﺃ ﻞﺘﻗ ﺔﻟﻭﺎﺤﻣ"
+ attempted_murder_me:0 "ﻲﻠﺘﻘﻟ ﺔﻟﻭﺎﺤﻣ"
+ attempted_murder_me_crime:0 "ﻲﻠﺘﻘﻟ ﺔﻟﻭﺎﺤﻣ"
+ murdered_close_relation_opinion:0 "ﻲﻨﻣ ﺐﻳﺮﻗ ﺺﺨﺷ ﻞﺘﻗ"
+
+
+ executed_close_family:0 "ﺓﺮﺳﻻﺍ ﻡﺪﻋﺍ"
+ executed_close_family_crime:0 "ﻲﻧﻮﻧﺎﻗ ﺮﻴﻏ ﻞﻜﺸﺑ ﺓﺮﺳﻷﺍ ﻡﺍﺪﻋﺇ ﻢﺗ"
+ executed_vassal:0 "ﻲﻌﺑﺎﺗ ﻡﺪﻋﺃ"
+ executed_fellow_vassal:0 "ﺮﺧﺁ ﺎﻌﺑﺎﺗ ﻡﺪﻋﺃ"
+ executed_liege:0 "ﻲﻤﻛﺎﺣ ﻡﺪﻋﺃ"
+ executed_dynasty_member:0 "ﺔﻟﻼﺴﻟﺍ ﺀﺎﻀﻋﺍ ﺪﺣﺍ ﻡﺪﻋﺍ"
+ executed_family_sun_trial_modifier:0 "ﺲﻤﺸﻟﺍ ﺔﻤﻛﺎﺤﻣ ﻝﻼﺧ ﻦﻣ ﺓﺮﺳﻷﺍ ﻊﺿ"
+ executed_close_relation_opinion:0 "ﻲﻨﻣ ﺐﻳﺮﻗ ﺺﺨﺷ ﻞﺘﻗ"
+ executed_my_countryman_modifier:0 "ﻱﺎﻳﺎﻋﺭ ﻡﺪﻋﺃ"
+ executed_guest_modifier:0 "ﺮﺧﺁ ﺎﻔﻴﺿ ﻡﺪﻋﺃ"
+
+ tortured_family_member:0 "ﺔﻠﺋﺎﻌﻟﺍ ﻦﻣ ﺩﺮﻓ ﺏﺬﻋ"
+ tortured_me:0 "ﻲﻨﺑّﺬﻋ"
+ blinded_family_member:0 "ﺓﺮﺳﻻﺍ ﺩﺍﺮﻓﺍ ﺪﺧﺍ ﻰﻤﻋﺍ"
+ blinded_me:0 "ﻲﻧﺎﻤﻋﺍ"
+ castrated_family_member:0 "ﺔﻠﺋﺎﻌﻟﺍ ﻦﻣ ﺩﺮﻓ ﻰﺼﺧﺍ"
+ castrated_me:0 "ﻲﻧﺎﺼﺧ"
